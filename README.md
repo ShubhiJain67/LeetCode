@@ -34,6 +34,6 @@ Print Diagonally (2_Medium)
 Delete Duplicate Linked List (3_Medium)
 Symmetric Tree (6_Medium)
 
-
+SQL:
 LeetCode 184 : Department Highest Salary (_Medium)
 LeetCode 180 : Consecutive Numbers (_Medium)
