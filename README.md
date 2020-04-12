@@ -27,9 +27,13 @@ LeetCode 96 : Unique BST (17_Medium)
 
 LeetCode 98 : Validate BST (16_Medium)
 
+LetCode 100 : Same Tree (9_Easy)
+
 LeetCode 102 : Binary Tree Level Order Traversal (32_Medium)
 
 LetCode 103 : Binary Tree ZigZag Level Order Traversal (31_Medium)
+
+LeetCode 104 : Maximum Depth of Binary Tree (7_Easy)
 
 LeetCode 114 : Flatten Binary Tree to Linked List (14_Medium)
 
@@ -39,9 +43,15 @@ LeetCode 137 : Single Number II (12_Medium)
 
 LeetCode 160 : Intersection of 2 Linkedlist (4_Medium)
 
+LeetCode 191 : Number od Set Bits (2_Easy)
+
 LeetCode 199 : Binary Tree Right Side View (13_Medium)
 
 LeetCode 230 : Kth Smallest Element in a BST (29_Medium)
+
+LeetCode 231 : Power of 2 (2_Easy)
+
+LeetCode 234 : Palindrome Linked List (5_Easy)
 
 LeetCode 236 : Lowest Common Ancestor of a Binary Tree (27_Medium)
 
@@ -51,7 +61,11 @@ LeetCode 283 : Move Zeroes (18_Easy)
 
 LeetCode 328 : Odd Even LinkedList (25_Medium)
 
+LeetCode 371 : Sum of Two Integers (34_Medium)
+
 LeetCode 429 : N-ary Tree Level Order Traversal (26_Medium)
+
+LeetCode 496 : Next Greater Element (19_Easy)
 
 LeetCode 725 : Split Linked List in Parts (20_Medium)
 
