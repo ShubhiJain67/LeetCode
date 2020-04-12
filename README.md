@@ -41,6 +41,8 @@ LeetCode 129 : Sum Root To Leaf Numbers (19_Medium)
 
 LeetCode 137 : Single Number II (12_Medium)
 
+LeetCode 155 : Min Stack (21_Easy)
+
 LeetCode 160 : Intersection of 2 Linkedlist (4_Medium)
 
 LeetCode 191 : Number od Set Bits (2_Easy)
@@ -68,6 +70,10 @@ LeetCode 429 : N-ary Tree Level Order Traversal (26_Medium)
 LeetCode 496 : Next Greater Element (19_Easy)
 
 LeetCode 725 : Split Linked List in Parts (20_Medium)
+
+LeetCode 844 : Backspace String Compare (20_Easy)
+
+LeetCode 876 : Middle Of Linked List (17_Easy)
 
 LeetCode 994 : Rotting Oranges (10_Medium)
 
