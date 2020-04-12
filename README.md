@@ -19,7 +19,7 @@ LeetCode 50 : Pow(x,n) (24_Medoum)
 
 LeetCode 61 : Rotate List (Medium)
 
-LeetCode 67 : Add Binary (Easy)
+LeetCode 67 : Add Binary (16_Easy)
 
 LeetCode 94 : Binary Tree Inorder Traversal (33_Medium)
 
