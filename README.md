@@ -15,7 +15,9 @@ LeetCode 24 : Swap Nodes In Pairs (18_Medium)
 
 LeetCode 33 : Search in Rotated Sorted Array (21_Medium)
 
-LeetCode 50 : Pow(x,n) (24_Medoum)
+LeetCode 50 : Pow(x,n) (24_Medium)
+
+LeetCode 53 : Maximum Subarray (23_Easy)
 
 LeetCode 61 : Rotate List (Medium)
 
@@ -68,6 +70,8 @@ LeetCode 371 : Sum of Two Integers (34_Medium)
 LeetCode 429 : N-ary Tree Level Order Traversal (26_Medium)
 
 LeetCode 496 : Next Greater Element (19_Easy)
+
+LeetCode 543 : Diameter of Binary Tree (22_Easy)
 
 LeetCode 725 : Split Linked List in Parts (20_Medium)
 
