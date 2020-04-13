@@ -47,6 +47,8 @@ LeetCode 155 : Min Stack (21_Easy)
 
 LeetCode 160 : Intersection of 2 Linkedlist (4_Medium)
 
+LeetCode 190 : Reverse Bits (26_Easy)
+
 LeetCode 191 : Number od Set Bits (2_Easy)
 
 LeetCode 199 : Binary Tree Right Side View (13_Medium)
@@ -71,7 +73,13 @@ LeetCode 342 : Power Of 4 (24_Easy)
 
 LeetCode 371 : Sum of Two Integers (34_Medium)
 
+LeetCode 389 : Find the Difference (25_Medium)
+
 LeetCode 429 : N-ary Tree Level Order Traversal (26_Medium)
+
+LeetCode 461 : Hamming Distance (27_Easy)
+
+LeetCode 477 : Total Hamming Distance (36_Medium)
 
 LeetCode 496 : Next Greater Element (19_Easy)
 
