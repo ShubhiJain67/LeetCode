@@ -27,4 +27,7 @@ class GFG {
 	    if(a==num) return true;
 	    return false;
 	}
+	public static boolean checkBetter(long num){
+	     return n>0 && (num&(num-1))==0;
+	}
 }
