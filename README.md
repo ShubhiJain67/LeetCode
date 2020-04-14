@@ -49,7 +49,7 @@ LeetCode 160 : Intersection of 2 Linkedlist (4_Medium)
 
 LeetCode 190 : Reverse Bits (26_Easy)
 
-LeetCode 191 : Number od Set Bits (2_Easy)
+LeetCode 191 : Number of Set Bits ()
 
 LeetCode 199 : Binary Tree Right Side View (13_Medium)
 
@@ -77,7 +77,7 @@ LeetCode 342 : Power Of 4 (24_Easy)
 
 LeetCode 371 : Sum of Two Integers (34_Medium)
 
-LeetCode 389 : Find the Difference (25_Medium)
+LeetCode 389 : Find the Difference (25_Easy)
 
 LeetCode 397 : Integer Replacement (38_Medium)
 
