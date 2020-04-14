@@ -53,6 +53,10 @@ LeetCode 191 : Number od Set Bits (2_Easy)
 
 LeetCode 199 : Binary Tree Right Side View (13_Medium)
 
+LeetCode 121 : Best Time to Buy and Sell Stock (28_Easy)
+
+LeetCode 202 : Happy Number (30_Easy)
+
 LeetCode 230 : Kth Smallest Element in a BST (29_Medium)
 
 LeetCode 231 : Power of 2 (2_Easy)
@@ -75,19 +79,27 @@ LeetCode 371 : Sum of Two Integers (34_Medium)
 
 LeetCode 389 : Find the Difference (25_Medium)
 
+LeetCode 397 : Integer Replacement (38_Medium)
+
 LeetCode 429 : N-ary Tree Level Order Traversal (26_Medium)
 
 LeetCode 461 : Hamming Distance (27_Easy)
 
+LeetCode 476 : Number Complement (29_Easy)
+
 LeetCode 477 : Total Hamming Distance (36_Medium)
 
 LeetCode 496 : Next Greater Element (19_Easy)
+
+LeetCode 525 : Contiguous Array (39_Medium)
 
 LeetCode 543 : Diameter of Binary Tree (22_Easy)
 
 LeetCode 725 : Split Linked List in Parts (20_Medium)
 
 LeetCode 844 : Backspace String Compare (20_Easy)
+
+LeetCode 848 : Shifting Letter (37_Medium)
 
 LeetCode 876 : Middle Of Linked List (17_Easy)
 
