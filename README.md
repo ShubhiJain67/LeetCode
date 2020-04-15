@@ -15,6 +15,8 @@ LeetCode 24 : Swap Nodes In Pairs (18_Medium)
 
 LeetCode 33 : Search in Rotated Sorted Array (21_Medium)
 
+LeetCode 49 : Group Anagraam (42_Medium)
+
 LeetCode 50 : Pow(x,n) (24_Medium)
 
 LeetCode 53 : Maximum Subarray (23_Easy)
@@ -55,6 +57,8 @@ LeetCode 199 : Binary Tree Right Side View (13_Medium)
 
 LeetCode 121 : Best Time to Buy and Sell Stock (28_Easy)
 
+LeetCode 201 : Bitwise AND of Numbers Range (40_Medium)
+
 LeetCode 202 : Happy Number (30_Easy)
 
 LeetCode 230 : Kth Smallest Element in a BST (29_Medium)
@@ -64,6 +68,8 @@ LeetCode 231 : Power of 2 (2_Easy)
 LeetCode 234 : Palindrome Linked List (5_Easy)
 
 LeetCode 236 : Lowest Common Ancestor of a Binary Tree (27_Medium)
+
+LeetCode 238 : Product of Array Except Self (41_Medium)
 
 LeetCode 260 : Single Number III (11_Medium)
 
@@ -97,6 +103,8 @@ LeetCode 543 : Diameter of Binary Tree (22_Easy)
 
 LeetCode 725 : Split Linked List in Parts (20_Medium)
 
+LeetCode 762 : Prime Number of Set Bits in Binary Representation (31_Easy)
+
 LeetCode 844 : Backspace String Compare (20_Easy)
 
 LeetCode 848 : Shifting Letter (37_Medium)
@@ -104,6 +112,8 @@ LeetCode 848 : Shifting Letter (37_Medium)
 LeetCode 876 : Middle Of Linked List (17_Easy)
 
 LeetCode 994 : Rotting Oranges (10_Medium)
+
+LeetCode 1046 : Last Stone Weight (32_Easy)
 
 LeetCode 1190 : Reverse Substrings Between Each Pair of Parantheses (22_Medium)
 
