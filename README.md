@@ -37,7 +37,7 @@ LetCode 100 : Same Tree (9_Easy)
 
 LeetCode 102 : Binary Tree Level Order Traversal (32_Medium)
 
-LetCode 103 : Binary Tree ZigZag Level Order Traversal (31_Medium)
+LeetCode 103 : Binary Tree ZigZag Level Order Traversal (31_Medium)
 
 LeetCode 104 : Maximum Depth of Binary Tree (7_Easy)
 
