@@ -103,9 +103,13 @@ LeetCode 525 : Contiguous Array (39_Medium)
 
 LeetCode 543 : Diameter of Binary Tree (22_Easy)
 
+LeetCode 693 : Binary Number with Alternating Bits (33_Easy)
+
 LeetCode 725 : Split Linked List in Parts (20_Medium)
 
 LeetCode 762 : Prime Number of Set Bits in Binary Representation (31_Easy)
+
+LeetCode 784 : Letter Case Permutation (35_Easy)
 
 LeetCode 844 : Backspace String Compare (20_Easy)
 
@@ -118,6 +122,8 @@ LeetCode 994 : Rotting Oranges (10_Medium)
 LeetCode 1046 : Last Stone Weight (32_Easy)
 
 LeetCode 1190 : Reverse Substrings Between Each Pair of Parantheses (22_Medium)
+
+LeetCode 1342 : Number of Steps to Reduce a Number to Zero (34_Easy)
 
 Card Rotation (1_Medium)
 
