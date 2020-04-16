@@ -103,6 +103,8 @@ LeetCode 525 : Contiguous Array (39_Medium)
 
 LeetCode 543 : Diameter of Binary Tree (22_Easy)
 
+LeetCode 678 : Valid Parenthesis String (43_Medium)
+
 LeetCode 693 : Binary Number with Alternating Bits (33_Easy)
 
 LeetCode 725 : Split Linked List in Parts (20_Medium)
