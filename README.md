@@ -27,6 +27,8 @@ LeetCode 61 : Rotate List (Medium)
 
 LeetCode 67 : Add Binary (16_Easy)
 
+LeetCode 78 : Subsets (44_Medium)
+
 LeetCode 94 : Binary Tree Inorder Traversal (33_Medium)
 
 LeetCode 96 : Unique BST (17_Medium)
