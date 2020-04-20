@@ -47,6 +47,8 @@ LeetCode 114 : Flatten Binary Tree to Linked List (14_Medium)
 
 LeetCode 129 : Sum Root To Leaf Numbers (19_Medium)
 
+LetCode 130 : Surrounded Regions (45_Medium)
+
 LeetCode 137 : Single Number II (12_Medium)
 
 LeetCode 155 : Min Stack (21_Easy)
@@ -55,9 +57,11 @@ LeetCode 160 : Intersection of 2 Linkedlist (4_Medium)
 
 LeetCode 190 : Reverse Bits (26_Easy)
 
-LeetCode 191 : Number of Set Bits ()
+LeetCode 191 : Number of Set Bits (36_Easy)
 
 LeetCode 199 : Binary Tree Right Side View (13_Medium)
+
+LeetCode 200 : Number Of Islands (46_Medium)
 
 LeetCode 121 : Best Time to Buy and Sell Stock (28_Easy)
 
@@ -95,6 +99,8 @@ LeetCode 429 : N-ary Tree Level Order Traversal (26_Medium)
 
 LeetCode 461 : Hamming Distance (27_Easy)
 
+LeetCode 463 : Perimeter of Island (47_Medium)
+
 LeetCode 476 : Number Complement (29_Easy)
 
 LeetCode 477 : Total Hamming Distance (36_Medium)
@@ -108,6 +114,8 @@ LeetCode 543 : Diameter of Binary Tree (22_Easy)
 LeetCode 678 : Valid Parenthesis String (43_Medium)
 
 LeetCode 693 : Binary Number with Alternating Bits (33_Easy)
+
+LeetCode 695 : Max Area of Island (48_Medium)
 
 LeetCode 725 : Split Linked List in Parts (20_Medium)
 
