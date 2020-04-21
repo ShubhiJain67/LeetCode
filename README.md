@@ -21,11 +21,17 @@ LeetCode 49 : Group Anagraam (42_Medium)
 
 LeetCode 50 : Pow(x,n) (24_Medium)
 
+LeetCode 51 : NQueens1 (8_Hard)
+
+LeetCode 52 : NQueens2 (9_Hard)
+
 LeetCode 53 : Maximum Subarray (23_Easy)
 
 LeetCode 61 : Rotate List (Medium)
 
 LeetCode 67 : Add Binary (16_Easy)
+
+LeetCode 75 : Sort Colors (49_Medium)
 
 LeetCode 78 : Subsets (44_Medium)
 
