@@ -51,9 +51,11 @@ LeetCode 104 : Maximum Depth of Binary Tree (7_Easy)
 
 LeetCode 114 : Flatten Binary Tree to Linked List (14_Medium)
 
+LeetCode 122 : Best Time to Buy and Sell Stock II (39_Easy)
+
 LeetCode 129 : Sum Root To Leaf Numbers (19_Medium)
 
-LetCode 130 : Surrounded Regions (45_Medium)
+LeetCode 130 : Surrounded Regions (45_Medium)
 
 LeetCode 137 : Single Number II (12_Medium)
 
@@ -117,6 +119,12 @@ LeetCode 525 : Contiguous Array (39_Medium)
 
 LeetCode 543 : Diameter of Binary Tree (22_Easy)
 
+LeetCode 547 : Friend Circles (51_Medium)
+
+LeetCode 560 : Subarray Sum Equals K (53_Medium)
+
+LeetCode 657 : Robot Return to Origin (38_Easy)
+
 LeetCode 678 : Valid Parenthesis String (43_Medium)
 
 LeetCode 693 : Binary Number with Alternating Bits (33_Easy)
@@ -142,6 +150,8 @@ LeetCode 994 : Rotting Oranges (10_Medium)
 LeetCode 1046 : Last Stone Weight (32_Easy)
 
 LeetCode 1190 : Reverse Substrings Between Each Pair of Parantheses (22_Medium)
+
+LeetCode 1310 : XOR Queries of a Subarray (52_Medium)
 
 LeetCode 1342 : Number of Steps to Reduce a Number to Zero (34_Easy)
 
