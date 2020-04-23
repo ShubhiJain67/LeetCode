@@ -51,6 +51,8 @@ LeetCode 104 : Maximum Depth of Binary Tree (7_Easy)
 
 LeetCode 114 : Flatten Binary Tree to Linked List (14_Medium)
 
+LeetCode 121 : Best Time to Buy and Sell Stock (28_Easy)
+
 LeetCode 122 : Best Time to Buy and Sell Stock II (39_Easy)
 
 LeetCode 129 : Sum Root To Leaf Numbers (19_Medium)
@@ -71,8 +73,6 @@ LeetCode 199 : Binary Tree Right Side View (13_Medium)
 
 LeetCode 200 : Number Of Islands (46_Medium)
 
-LeetCode 121 : Best Time to Buy and Sell Stock (28_Easy)
-
 LeetCode 201 : Bitwise AND of Numbers Range (40_Medium)
 
 LeetCode 202 : Happy Number (30_Easy)
@@ -90,6 +90,8 @@ LeetCode 238 : Product of Array Except Self (41_Medium)
 LeetCode 260 : Single Number III (11_Medium)
 
 LeetCode 283 : Move Zeroes (18_Easy)
+
+LeetCode 286 : Walls and Gate (55_Medium)
 
 LeetCode 328 : Odd Even LinkedList (25_Medium)
 
@@ -116,6 +118,8 @@ LeetCode 477 : Total Hamming Distance (36_Medium)
 LeetCode 496 : Next Greater Element (19_Easy)
 
 LeetCode 525 : Contiguous Array (39_Medium)
+
+LeetCode 542 : 01 Matrix (56_Medium)
 
 LeetCode 543 : Diameter of Binary Tree (22_Easy)
 
@@ -148,6 +152,8 @@ LeetCode 917 : Reverse Only Letters (37_Easy)
 LeetCode 994 : Rotting Oranges (10_Medium)
 
 LeetCode 1046 : Last Stone Weight (32_Easy)
+
+LeetCode 1091 : Shortest Path in Binary Matrix (54_Medium)
 
 LeetCode 1190 : Reverse Substrings Between Each Pair of Parantheses (22_Medium)
 
