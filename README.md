@@ -35,6 +35,8 @@ LeetCode 75 : Sort Colors (49_Medium)
 
 LeetCode 78 : Subsets (44_Medium)
 
+LeetCode 91 : Decode Ways (57_Medium)
+
 LeetCode 94 : Binary Tree Inorder Traversal (33_Medium)
 
 LeetCode 96 : Unique BST (17_Medium)
@@ -126,6 +128,8 @@ LeetCode 543 : Diameter of Binary Tree (22_Easy)
 LeetCode 547 : Friend Circles (51_Medium)
 
 LeetCode 560 : Subarray Sum Equals K (53_Medium)
+
+LeetCode 650 : 2 Keys (58_Medium)
 
 LeetCode 657 : Robot Return to Origin (38_Easy)
 
