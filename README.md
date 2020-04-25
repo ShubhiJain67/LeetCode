@@ -51,7 +51,7 @@ LeetCode 96 : Unique BST (17_Medium)
 
 LeetCode 98 : Validate BST (16_Medium)
 
-LetCode 100 : Same Tree (9_Easy)
+LeetCode 100 : Same Tree (9_Easy)
 
 LeetCode 102 : Binary Tree Level Order Traversal (32_Medium)
 
