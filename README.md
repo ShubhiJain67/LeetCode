@@ -87,6 +87,10 @@ LeetCode 201 : Bitwise AND of Numbers Range (40_Medium)
 
 LeetCode 202 : Happy Number (30_Easy)
 
+LeetCode 207 : Course Schedule (63_Medium)
+
+LeetCode 210 : Course Schedule 2 (64_Medium)
+
 LeetCode 230 : Kth Smallest Element in a BST (29_Medium)
 
 LeetCode 231 : Power of 2 (2_Easy)
