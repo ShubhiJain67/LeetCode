@@ -17,6 +17,10 @@ LeetCode 24 : Swap Nodes In Pairs (18_Medium)
 
 LeetCode 33 : Search in Rotated Sorted Array (21_Medium)
 
+LeetCode 38 : Count and Say (59_Medium)
+
+LeetCode 43 : Multiply Strings (62_Medium)
+
 LeetCode 49 : Group Anagraam (42_Medium)
 
 LeetCode 50 : Pow(x,n) (24_Medium)
@@ -26,6 +30,8 @@ LeetCode 51 : NQueens1 (8_Hard)
 LeetCode 52 : NQueens2 (9_Hard)
 
 LeetCode 53 : Maximum Subarray (23_Easy)
+
+LeetCode 55 : Jump Game (61_Medium)
 
 LeetCode 61 : Rotate List (Medium)
 
@@ -172,6 +178,8 @@ Print Diagonally (2_Medium)
 Delete Duplicate Linked List (3_Medium)
 
 Symmetric Tree (6_Medium)
+
+Leftmost Coloumn with atleast 1 one (61_Medium)
 
 SQL:
 
