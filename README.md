@@ -17,6 +17,8 @@ LeetCode 24 : Swap Nodes In Pairs (18_Medium)
 
 LeetCode 33 : Search in Rotated Sorted Array (21_Medium)
 
+LeetCode 35 : Search Insert Position (40_Easy)
+
 LeetCode 38 : Count and Say (59_Medium)
 
 LeetCode 43 : Multiply Strings (62_Medium)
