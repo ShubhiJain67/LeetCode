@@ -171,6 +171,8 @@ LeetCode 1046 : Last Stone Weight (32_Easy)
 
 LeetCode 1091 : Shortest Path in Binary Matrix (54_Medium)
 
+LeetCode 1143 : Longest Common Subsequence (66_Medium)
+
 LeetCode 1190 : Reverse Substrings Between Each Pair of Parantheses (22_Medium)
 
 LeetCode 1267 : Count Servers that Communicate (65_Medium)
