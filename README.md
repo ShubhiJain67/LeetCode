@@ -173,6 +173,8 @@ LeetCode 1091 : Shortest Path in Binary Matrix (54_Medium)
 
 LeetCode 1190 : Reverse Substrings Between Each Pair of Parantheses (22_Medium)
 
+LeetCode 1267 : Count Servers that Communicate (65_Medium)
+
 LeetCode 1310 : XOR Queries of a Subarray (52_Medium)
 
 LeetCode 1342 : Number of Steps to Reduce a Number to Zero (34_Easy)
