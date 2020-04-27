@@ -91,6 +91,8 @@ LeetCode 207 : Course Schedule (63_Medium)
 
 LeetCode 210 : Course Schedule 2 (64_Medium)
 
+LeetCode 224 : Basic Calculator (10_Hard)
+
 LeetCode 230 : Kth Smallest Element in a BST (29_Medium)
 
 LeetCode 231 : Power of 2 (2_Easy)
@@ -118,6 +120,8 @@ LeetCode 371 : Sum of Two Integers (34_Medium)
 LeetCode 389 : Find the Difference (25_Easy)
 
 LeetCode 397 : Integer Replacement (38_Medium)
+
+LeetCode 415 : Add Strings (42_Easy)
 
 LeetCode 429 : N-ary Tree Level Order Traversal (26_Medium)
 
@@ -166,6 +170,8 @@ LeetCode 876 : Middle Of Linked List (17_Easy)
 LeetCode 917 : Reverse Only Letters (37_Easy)
 
 LeetCode 994 : Rotting Oranges (10_Medium)
+
+LeetCode 997 : Find the Town Judge (41_Easy)
 
 LeetCode 1046 : Last Stone Weight (32_Easy)
 
