@@ -1,6 +1,8 @@
 # Competitive Coding Questions
 Various Questions from Geeks for Geeks and Leet Code are covered.
 
+LeetCode 1 : Two Sum (46_Easy)
+
 LeetCode 6 : ZigZag Converation (15_Medium)
 
 LeetCode 11 : Container with most water (5_Medium)
@@ -115,6 +117,8 @@ LeetCode 338 : Counting Bits (35_Medium)
 
 LeetCode 342 : Power Of 4 (24_Easy)
 
+LeetCode 347 : Top K Frequency Elements (67_Medium)
+
 LeetCode 371 : Sum of Two Integers (34_Medium)
 
 LeetCode 389 : Find the Difference (25_Easy)
@@ -124,6 +128,10 @@ LeetCode 397 : Integer Replacement (38_Medium)
 LeetCode 415 : Add Strings (42_Easy)
 
 LeetCode 429 : N-ary Tree Level Order Traversal (26_Medium)
+
+LeetCode 441 : Arranging Coins (43_Easy)
+
+LeetCode 451 : Sort Characters By Frequency (68_Medium)
 
 LeetCode 461 : Hamming Distance (27_Easy)
 
@@ -155,6 +163,8 @@ LeetCode 693 : Binary Number with Alternating Bits (33_Easy)
 
 LeetCode 695 : Max Area of Island (48_Medium)
 
+LeetCode 704 : Binary Search (45_Easy)
+
 LeetCode 725 : Split Linked List in Parts (20_Medium)
 
 LeetCode 762 : Prime Number of Set Bits in Binary Representation (31_Easy)
@@ -168,6 +178,8 @@ LeetCode 848 : Shifting Letter (37_Medium)
 LeetCode 876 : Middle Of Linked List (17_Easy)
 
 LeetCode 917 : Reverse Only Letters (37_Easy)
+
+LeetCode 989 : Add Array as Integer (44_Easy)
 
 LeetCode 994 : Rotting Oranges (10_Medium)
 
