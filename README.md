@@ -97,7 +97,7 @@ LeetCode 210 : Course Schedule 2 (64_Medium)
 
 LeetCode 211 : Add and Search Word - Data structure design (70_Medium)
 
-LeetCode 212 : Word Search II (Hard)
+LeetCode 212 : Word Search II (11_Hard)
 
 LeetCode 224 : Basic Calculator (10_Hard)
 
