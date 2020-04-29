@@ -91,7 +91,13 @@ LeetCode 202 : Happy Number (30_Easy)
 
 LeetCode 207 : Course Schedule (63_Medium)
 
+LeetCode 208 : Implement Trie (Prefix Tree) (71_Medium)
+
 LeetCode 210 : Course Schedule 2 (64_Medium)
+
+LeetCode 211 : Add and Search Word - Data structure design (70_Medium)
+
+LeetCode 212 : Word Search II (Hard)
 
 LeetCode 224 : Basic Calculator (10_Hard)
 
@@ -158,6 +164,8 @@ LeetCode 650 : 2 Keys (58_Medium)
 LeetCode 657 : Robot Return to Origin (38_Easy)
 
 LeetCode 678 : Valid Parenthesis String (43_Medium)
+
+LeetCode 684 : Redundant Connection (69_Medium)
 
 LeetCode 693 : Binary Number with Alternating Bits (33_Easy)
 
