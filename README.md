@@ -73,6 +73,8 @@ LeetCode 130 : Surrounded Regions (45_Medium)
 
 LeetCode 137 : Single Number II (12_Medium)
 
+LeetCode 146 : LRU Cache (74_Medium)
+
 LeetCode 155 : Min Stack (21_Easy)
 
 LeetCode 160 : Intersection of 2 Linkedlist (4_Medium)
@@ -99,6 +101,8 @@ LeetCode 211 : Add and Search Word - Data structure design (70_Medium)
 
 LeetCode 212 : Word Search II (11_Hard)
 
+LeetCode 215 : Kth Largest Element in an Array (72_Medium)
+
 LeetCode 224 : Basic Calculator (10_Hard)
 
 LeetCode 230 : Kth Smallest Element in a BST (29_Medium)
@@ -117,6 +121,8 @@ LeetCode 283 : Move Zeroes (18_Easy)
 
 LeetCode 286 : Walls and Gate (55_Medium)
 
+LeetCode 315 : Count of Smaller Numbers After Self (12_Hard)
+
 LeetCode 328 : Odd Even LinkedList (25_Medium)
 
 LeetCode 338 : Counting Bits (35_Medium)
@@ -133,6 +139,8 @@ LeetCode 397 : Integer Replacement (38_Medium)
 
 LeetCode 415 : Add Strings (42_Easy)
 
+LeetCode 414 : Third Maximum Number (47_Easy)
+
 LeetCode 429 : N-ary Tree Level Order Traversal (26_Medium)
 
 LeetCode 441 : Arranging Coins (43_Easy)
@@ -148,6 +156,8 @@ LeetCode 476 : Number Complement (29_Easy)
 LeetCode 477 : Total Hamming Distance (36_Medium)
 
 LeetCode 496 : Next Greater Element (19_Easy)
+
+LeetCode 507 : Perfect Number (49_Easy)
 
 LeetCode 525 : Contiguous Array (39_Medium)
 
@@ -174,6 +184,8 @@ LeetCode 695 : Max Area of Island (48_Medium)
 LeetCode 704 : Binary Search (45_Easy)
 
 LeetCode 725 : Split Linked List in Parts (20_Medium)
+
+LeetCode 728 : Self Dividing Numbers (50_Easy)
 
 LeetCode 762 : Prime Number of Set Bits in Binary Representation (31_Easy)
 
@@ -203,9 +215,13 @@ LeetCode 1190 : Reverse Substrings Between Each Pair of Parantheses (22_Medium)
 
 LeetCode 1267 : Count Servers that Communicate (65_Medium)
 
+LeetCode 1276 : Number of Burgers with No Waste of Ingredients (73_Medium)
+
 LeetCode 1310 : XOR Queries of a Subarray (52_Medium)
 
 LeetCode 1342 : Number of Steps to Reduce a Number to Zero (34_Easy)
+
+LeetCode 1365 : How Many Numbers Are Smaller Than the Current Number (48_Easy)
 
 Card Rotation (1_Medium)
 
