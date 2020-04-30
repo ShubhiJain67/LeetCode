@@ -67,7 +67,7 @@ LeetCode 121 : Best Time to Buy and Sell Stock (28_Easy)
 
 LeetCode 122 : Best Time to Buy and Sell Stock II (39_Easy)
 
-LeetCode 124 : Binary Tree Maximum Path Sum (75_Medium)
+LeetCode 124 : Binary Tree Maximum Path Sum (13_Hard)
 
 LeetCode 129 : Sum Root To Leaf Numbers (19_Medium)
 
