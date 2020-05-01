@@ -41,6 +41,8 @@ LeetCode 61 : Rotate List (Medium)
 
 LeetCode 67 : Add Binary (16_Easy)
 
+LeetCode 74 : Search a 2D Matrix (76_Medium)
+
 LeetCode 75 : Sort Colors (49_Medium)
 
 LeetCode 78 : Subsets (44_Medium)
@@ -147,6 +149,8 @@ LeetCode 429 : N-ary Tree Level Order Traversal (26_Medium)
 
 LeetCode 441 : Arranging Coins (43_Easy)
 
+LeetCode 448 : Find All Numbers Disappeared in an Array (55_Easy)
+
 LeetCode 451 : Sort Characters By Frequency (68_Medium)
 
 LeetCode 461 : Hamming Distance (27_Easy)
@@ -189,7 +193,11 @@ LeetCode 725 : Split Linked List in Parts (20_Medium)
 
 LeetCode 728 : Self Dividing Numbers (50_Easy)
 
+LeetCode 739 : Daily Temperatures (77_Medium)
+
 LeetCode 762 : Prime Number of Set Bits in Binary Representation (31_Easy)
+
+LeetCode 771 : Jewels and Stones (51_Easy)
 
 LeetCode 784 : Letter Case Permutation (35_Easy)
 
@@ -199,6 +207,8 @@ LeetCode 848 : Shifting Letter (37_Medium)
 
 LeetCode 876 : Middle Of Linked List (17_Easy)
 
+LeetCode 896 : Monotonic Array (54_Easy)
+
 LeetCode 917 : Reverse Only Letters (37_Easy)
 
 LeetCode 989 : Add Array as Integer (44_Easy)
@@ -206,6 +216,8 @@ LeetCode 989 : Add Array as Integer (44_Easy)
 LeetCode 994 : Rotting Oranges (10_Medium)
 
 LeetCode 997 : Find the Town Judge (41_Easy)
+
+LeetCode 1023 : Camelcase Matching (75_Medium)
 
 LeetCode 1046 : Last Stone Weight (32_Easy)
 
@@ -218,6 +230,10 @@ LeetCode 1190 : Reverse Substrings Between Each Pair of Parantheses (22_Medium)
 LeetCode 1267 : Count Servers that Communicate (65_Medium)
 
 LeetCode 1276 : Number of Burgers with No Waste of Ingredients (73_Medium)
+
+LeetCode 1295 : Find Numbers with Even Number of Digits (52_Easy)
+
+LeetCode 1304 : Find N Unique Integers Sum up to Zero (53_Easy)
 
 LeetCode 1310 : XOR Queries of a Subarray (52_Medium)
 
