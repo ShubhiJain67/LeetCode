@@ -265,15 +265,15 @@ LeetCode 1342 : Number of Steps to Reduce a Number to Zero (34_Easy)
 
 LeetCode 1365 : How Many Numbers Are Smaller Than the Current Number (48_Easy)
 
-Card Rotation (1_Medium)
+GeeksForGeeks : Card Rotation (1_Medium)
 
-Print Diagonally (2_Medium)
+GeeksForGeeks : Print Diagonally (2_Medium)
 
-Delete Duplicate Linked List (3_Medium)
+GeeksForGeeks : Delete Duplicate Linked List (3_Medium)
 
-Symmetric Tree (6_Medium)
+GeeksForGeeks : Symmetric Tree (6_Medium)
 
-Leftmost Coloumn with atleast 1 one (61_Medium)
+LeetCode : Leftmost Coloumn with atleast 1 one (61_Medium)
 
 SQL:
 
