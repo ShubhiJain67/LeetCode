@@ -179,6 +179,8 @@ LeetCode 476 : Number Complement (29_Easy)
 
 LeetCode 477 : Total Hamming Distance (36_Medium)
 
+LeetCode 494 : Target Sum (84_Medium)
+
 LeetCode 496 : Next Greater Element (19_Easy)
 
 LeetCode 507 : Perfect Number (49_Easy)
@@ -228,6 +230,8 @@ LeetCode 848 : Shifting Letter (37_Medium)
 LeetCode 876 : Middle Of Linked List (17_Easy)
 
 LeetCode 896 : Monotonic Array (54_Easy)
+
+LeetCode 914 : X of a Kind in a Deck of Cards (60_Easy)
 
 LeetCode 917 : Reverse Only Letters (37_Easy)
 
