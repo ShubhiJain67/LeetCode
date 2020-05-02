@@ -135,6 +135,8 @@ LeetCode 286 : Walls and Gate (55_Medium)
 
 LeetCode 287 : Find the Duplicate Number (79_Medium)
 
+LeetCode 290 : Word Pattern (58_Easy)
+
 LeetCode 315 : Count of Smaller Numbers After Self (12_Hard)
 
 LeetCode 328 : Odd Even LinkedList (25_Medium)
