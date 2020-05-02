@@ -227,6 +227,8 @@ LeetCode 844 : Backspace String Compare (20_Easy)
 
 LeetCode 848 : Shifting Letter (37_Medium)
 
+LeetCode 859 : Buddy Strings (61_Easy)
+
 LeetCode 876 : Middle Of Linked List (17_Easy)
 
 LeetCode 896 : Monotonic Array (54_Easy)
