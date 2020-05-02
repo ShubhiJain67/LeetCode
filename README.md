@@ -13,6 +13,8 @@ LeetCode 17 : Letter Combinations of a Phone Number(28_Medium)
 
 LeetCode 19 : Remove Nth Node From End Of List (23_Medium)
 
+LeetCode 20 : Valid Parentheses (56_Easy)
+
 LeetCode 23 : Merge k Linked Lists (7_Hard)
 
 LeetCode 24 : Swap Nodes In Pairs (18_Medium)
@@ -22,6 +24,8 @@ LeetCode 33 : Search in Rotated Sorted Array (21_Medium)
 LeetCode 35 : Search Insert Position (40_Easy)
 
 LeetCode 38 : Count and Say (59_Medium)
+
+LeetCode 41 : First Missing Positive (14_Hard)
 
 LeetCode 43 : Multiply Strings (62_Medium)
 
@@ -46,6 +50,8 @@ LeetCode 74 : Search a 2D Matrix (76_Medium)
 LeetCode 75 : Sort Colors (49_Medium)
 
 LeetCode 78 : Subsets (44_Medium)
+
+LeetCode 79 : Word Search (80_Medium)
 
 LeetCode 91 : Decode Ways (57_Medium)
 
@@ -121,9 +127,13 @@ LeetCode 238 : Product of Array Except Self (41_Medium)
 
 LeetCode 260 : Single Number III (11_Medium)
 
+LeetCode 278 : First Bad Version (57_Easy)
+
 LeetCode 283 : Move Zeroes (18_Easy)
 
 LeetCode 286 : Walls and Gate (55_Medium)
+
+LeetCode 287 : Find the Duplicate Number (79_Medium)
 
 LeetCode 315 : Count of Smaller Numbers After Self (12_Hard)
 
@@ -174,6 +184,8 @@ LeetCode 543 : Diameter of Binary Tree (22_Easy)
 LeetCode 547 : Friend Circles (51_Medium)
 
 LeetCode 560 : Subarray Sum Equals K (53_Medium)
+
+LeetCode 647 : Palindromic Substrings (81_Medium)
 
 LeetCode 650 : 2 Keys (58_Medium)
 
