@@ -149,6 +149,12 @@ LeetCode 347 : Top K Frequency Elements (67_Medium)
 
 LeetCode 371 : Sum of Two Integers (34_Medium)
 
+LeetCode 386 : Lexicographical Numbers (82_Medium)
+
+LeetCode 387:  First Unique Character in a String (59_Easy)
+
+LeetCode 388 : Longest Absolute File Path (83_Medium)
+
 LeetCode 389 : Find the Difference (25_Easy)
 
 LeetCode 397 : Integer Replacement (38_Medium)
