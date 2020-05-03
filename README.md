@@ -85,6 +85,8 @@ LeetCode 137 : Single Number II (12_Medium)
 
 LeetCode 146 : LRU Cache (74_Medium)
 
+LeetCode 151 : Reverse Words in a String (87_Medium)
+
 LeetCode 155 : Min Stack (21_Easy)
 
 LeetCode 160 : Intersection of 2 Linkedlist (4_Medium)
@@ -149,6 +151,8 @@ LeetCode 347 : Top K Frequency Elements (67_Medium)
 
 LeetCode 371 : Sum of Two Integers (34_Medium)
 
+LeetCode 383 : Ransom Note (63_Easy)
+
 LeetCode 386 : Lexicographical Numbers (82_Medium)
 
 LeetCode 387:  First Unique Character in a String (59_Easy)
@@ -193,6 +197,8 @@ LeetCode 543 : Diameter of Binary Tree (22_Easy)
 
 LeetCode 547 : Friend Circles (51_Medium)
 
+LeetCode 559 : Maximum Depth of N-ary Tree ()
+
 LeetCode 560 : Subarray Sum Equals K (53_Medium)
 
 LeetCode 647 : Palindromic Substrings (81_Medium)
@@ -200,6 +206,8 @@ LeetCode 647 : Palindromic Substrings (81_Medium)
 LeetCode 650 : 2 Keys (58_Medium)
 
 LeetCode 657 : Robot Return to Origin (38_Easy)
+
+LeetCode 665 : Non-decreasing Array (62_Easy)
 
 LeetCode 678 : Valid Parenthesis String (43_Medium)
 
@@ -210,6 +218,8 @@ LeetCode 693 : Binary Number with Alternating Bits (33_Easy)
 LeetCode 695 : Max Area of Island (48_Medium)
 
 LeetCode 704 : Binary Search (45_Easy)
+
+LeetCode 707 : Design Linked List (86_Medium)
 
 LeetCode 725 : Split Linked List in Parts (20_Medium)
 
@@ -223,11 +233,15 @@ LeetCode 771 : Jewels and Stones (51_Easy)
 
 LeetCode 784 : Letter Case Permutation (35_Easy)
 
+LeetCode 815 : Bus Routes (15_Hard)
+
 LeetCode 844 : Backspace String Compare (20_Easy)
 
 LeetCode 848 : Shifting Letter (37_Medium)
 
 LeetCode 859 : Buddy Strings (61_Easy)
+
+LeetCode 866 : Prime Palindrome (85_Medium)
 
 LeetCode 876 : Middle Of Linked List (17_Easy)
 
@@ -238,6 +252,8 @@ LeetCode 914 : X of a Kind in a Deck of Cards (60_Easy)
 LeetCode 917 : Reverse Only Letters (37_Easy)
 
 LeetCode 989 : Add Array as Integer (44_Easy)
+
+LeetCode 993 : Cousins in Binary Tree (64_Easy)
 
 LeetCode 994 : Rotting Oranges (10_Medium)
 
