@@ -217,6 +217,8 @@ LeetCode 693 : Binary Number with Alternating Bits (33_Easy)
 
 LeetCode 695 : Max Area of Island (48_Medium)
 
+LeetCode 697 : Degree of an Array (66_Easy)
+
 LeetCode 704 : Binary Search (45_Easy)
 
 LeetCode 707 : Design Linked List (86_Medium)
