@@ -189,6 +189,10 @@ LeetCode 496 : Next Greater Element (19_Easy)
 
 LeetCode 507 : Perfect Number (49_Easy)
 
+LeetCode 513 : Find Bottom Left Tree Value (88_Medium)
+
+LeetCode 515 : Find Largest Value in Each Tree Row (89_Medium)
+
 LeetCode 525 : Contiguous Array (39_Medium)
 
 LeetCode 542 : 01 Matrix (56_Medium)
@@ -197,9 +201,11 @@ LeetCode 543 : Diameter of Binary Tree (22_Easy)
 
 LeetCode 547 : Friend Circles (51_Medium)
 
-LeetCode 559 : Maximum Depth of N-ary Tree ()
+LeetCode 559 : Maximum Depth of N-ary Tree (65_Easy)
 
 LeetCode 560 : Subarray Sum Equals K (53_Medium)
+
+LeetCode 605 : Can Place Flowers (67_Easy)
 
 LeetCode 647 : Palindromic Substrings (81_Medium)
 
@@ -212,6 +218,8 @@ LeetCode 665 : Non-decreasing Array (62_Easy)
 LeetCode 678 : Valid Parenthesis String (43_Medium)
 
 LeetCode 684 : Redundant Connection (69_Medium)
+
+LeetCode 690 : Employee Importance (68_Easy)
 
 LeetCode 693 : Binary Number with Alternating Bits (33_Easy)
 
