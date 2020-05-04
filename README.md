@@ -245,6 +245,8 @@ LeetCode 784 : Letter Case Permutation (35_Easy)
 
 LeetCode 815 : Bus Routes (15_Hard)
 
+LeetCode 839 : Similar String Groups (16_Hard)
+
 LeetCode 844 : Backspace String Compare (20_Easy)
 
 LeetCode 848 : Shifting Letter (37_Medium)
@@ -272,6 +274,8 @@ LeetCode 997 : Find the Town Judge (41_Easy)
 LeetCode 1023 : Camelcase Matching (75_Medium)
 
 LeetCode 1046 : Last Stone Weight (32_Easy)
+
+LeetCode 1061 : Lexicographically Smallest Equivalent String (90_Medium)
 
 LeetCode 1091 : Shortest Path in Binary Matrix (54_Medium)
 
