@@ -127,6 +127,8 @@ LeetCode 236 : Lowest Common Ancestor of a Binary Tree (27_Medium)
 
 LeetCode 238 : Product of Array Except Self (41_Medium)
 
+LeetCode 242 : Valid Anagram (70_Easy)
+
 LeetCode 260 : Single Number III (11_Medium)
 
 LeetCode 278 : First Bad Version (57_Easy)
@@ -162,6 +164,8 @@ LeetCode 388 : Longest Absolute File Path (83_Medium)
 LeetCode 389 : Find the Difference (25_Easy)
 
 LeetCode 397 : Integer Replacement (38_Medium)
+
+LeetCode 412 : Fizz Buzz (69_Easy)
 
 LeetCode 415 : Add Strings (42_Easy)
 
@@ -297,6 +301,8 @@ LeetCode 1342 : Number of Steps to Reduce a Number to Zero (34_Easy)
 
 LeetCode 1365 : How Many Numbers Are Smaller Than the Current Number (48_Easy)
 
+LeetCode 1428 : Leftmost Coloumn with atleast 1 one (61_Medium)
+
 GeeksForGeeks : Card Rotation (1_Medium)
 
 GeeksForGeeks : Print Diagonally (2_Medium)
@@ -305,7 +311,6 @@ GeeksForGeeks : Delete Duplicate Linked List (3_Medium)
 
 GeeksForGeeks : Symmetric Tree (6_Medium)
 
-LeetCode : Leftmost Coloumn with atleast 1 one (61_Medium)
 
 SQL:
 
