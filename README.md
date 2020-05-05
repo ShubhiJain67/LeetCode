@@ -69,6 +69,8 @@ LeetCode 103 : Binary Tree ZigZag Level Order Traversal (31_Medium)
 
 LeetCode 104 : Maximum Depth of Binary Tree (7_Easy)
 
+LeetCode 108 : Convert Sorted Array to Binary Search Tree (71_Easy)
+
 LeetCode 114 : Flatten Binary Tree to Linked List (14_Medium)
 
 LeetCode 121 : Best Time to Buy and Sell Stock (28_Easy)
@@ -142,6 +144,8 @@ LeetCode 287 : Find the Duplicate Number (79_Medium)
 LeetCode 290 : Word Pattern (58_Easy)
 
 LeetCode 315 : Count of Smaller Numbers After Self (12_Hard)
+
+LeetCode 326 : Power of Three (72_Easy)
 
 LeetCode 328 : Odd Even LinkedList (25_Medium)
 
