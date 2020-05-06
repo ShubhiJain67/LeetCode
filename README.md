@@ -3,6 +3,8 @@ Various Questions from Geeks for Geeks and Leet Code are covered.
 
 LeetCode 1 : Two Sum (46_Easy)
 
+LeetCode 2 : Add Two Numbers (96_Medium)
+
 LeetCode 6 : ZigZag Converation (15_Medium)
 
 LeetCode 11 : Container with most water (5_Medium)
