@@ -103,6 +103,8 @@ LeetCode 146 : LRU Cache (74_Medium)
 
 LeetCode 151 : Reverse Words in a String (87_Medium)
 
+LeetCode 152 : Maximum Product Subarray (97_Medium)
+
 LeetCode 155 : Min Stack (21_Easy)
 
 LeetCode 160 : Intersection of 2 Linkedlist (4_Medium)
@@ -253,6 +255,8 @@ LeetCode 704 : Binary Search (45_Easy)
 
 LeetCode 707 : Design Linked List (86_Medium)
 
+LeetCode 709 : To Lower Case (76_Easy)
+
 LeetCode 725 : Split Linked List in Parts (20_Medium)
 
 LeetCode 728 : Self Dividing Numbers (50_Easy)
@@ -305,9 +309,13 @@ LeetCode 1143 : Longest Common Subsequence (66_Medium)
 
 LeetCode 1190 : Reverse Substrings Between Each Pair of Parantheses (22_Medium)
 
+LeetCode 1221 : Split a String in Balanced Strings (75_Easy)
+
 LeetCode 1267 : Count Servers that Communicate (65_Medium)
 
 LeetCode 1276 : Number of Burgers with No Waste of Ingredients (73_Medium)
+
+LeetCode 1281 : Subtract the Product and Sum of Digits of an Integer (74_Easy)
 
 LeetCode 1295 : Find Numbers with Even Number of Digits (52_Easy)
 
@@ -318,6 +326,8 @@ LeetCode 1310 : XOR Queries of a Subarray (52_Medium)
 LeetCode 1342 : Number of Steps to Reduce a Number to Zero (34_Easy)
 
 LeetCode 1365 : How Many Numbers Are Smaller Than the Current Number (48_Easy)
+
+LeetCode 1389 : Create Target Array in the Given Order (77_Easy)
 
 LeetCode 1428 : Leftmost Coloumn with atleast 1 one (61_Medium)
 
