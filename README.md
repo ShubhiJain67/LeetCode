@@ -15,9 +15,13 @@ LeetCode 19 : Remove Nth Node From End Of List (23_Medium)
 
 LeetCode 20 : Valid Parentheses (56_Easy)
 
+LeetCode 22 : Generate Parentheses (93_Medium)
+
 LeetCode 23 : Merge k Linked Lists (7_Hard)
 
 LeetCode 24 : Swap Nodes In Pairs (18_Medium)
+
+LeetCode 28 : Implement strStr() (73_Easy)
 
 LeetCode 33 : Search in Rotated Sorted Array (21_Medium)
 
@@ -29,6 +33,10 @@ LeetCode 41 : First Missing Positive (14_Hard)
 
 LeetCode 43 : Multiply Strings (62_Medium)
 
+LeetCode 46 : Permutations (91_Medium)
+
+LeetCode 48 : Rotate Image (92_Medium)
+
 LeetCode 49 : Group Anagraam (42_Medium)
 
 LeetCode 50 : Pow(x,n) (24_Medium)
@@ -38,6 +46,8 @@ LeetCode 51 : NQueens1 (8_Hard)
 LeetCode 52 : NQueens2 (9_Hard)
 
 LeetCode 53 : Maximum Subarray (23_Easy)
+
+LeetCode 54 : Spiral Matrix (95_Medium)
 
 LeetCode 55 : Jump Game (61_Medium)
 
@@ -68,6 +78,8 @@ LeetCode 102 : Binary Tree Level Order Traversal (32_Medium)
 LeetCode 103 : Binary Tree ZigZag Level Order Traversal (31_Medium)
 
 LeetCode 104 : Maximum Depth of Binary Tree (7_Easy)
+
+LeetCode 105 : Construct Binary Tree from Preorder and Inorder Traversal (94_Medium)
 
 LeetCode 108 : Convert Sorted Array to Binary Search Tree (71_Easy)
 
