@@ -337,9 +337,13 @@ LeetCode 1310 : XOR Queries of a Subarray (52_Medium)
 
 LeetCode 1313 : Decompress Run-Length Encoded List (81_Easy)
 
+LeetCode 1315 : Sum of Nodes with Even-Valued Grandparent (101_Medium)
+
 LeetCode 1342 : Number of Steps to Reduce a Number to Zero (34_Easy)
 
 LeetCode 1365 : How Many Numbers Are Smaller Than the Current Number (48_Easy)
+
+LeetCode 1374 : Generate a String With Characters That Have Odd Counts (102_Medium)
 
 LeetCode 1389 : Create Target Array in the Given Order (77_Easy)
 
