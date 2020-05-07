@@ -27,6 +27,8 @@ LeetCode 28 : Implement strStr() (73_Easy)
 
 LeetCode 33 : Search in Rotated Sorted Array (21_Medium)
 
+LeetCode 34 : Find First and Last Position of Element in Sorted Array (99_Medium)
+
 LeetCode 35 : Search Insert Position (40_Easy)
 
 LeetCode 38 : Count and Say (59_Medium)
@@ -164,6 +166,8 @@ LeetCode 315 : Count of Smaller Numbers After Self (12_Hard)
 LeetCode 326 : Power of Three (72_Easy)
 
 LeetCode 328 : Odd Even LinkedList (25_Medium)
+
+LeetCode 334 : Increasing Triplet Subsequence (100_Medium)
 
 LeetCode 338 : Counting Bits (35_Medium)
 
