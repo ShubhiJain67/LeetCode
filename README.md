@@ -215,6 +215,8 @@ LeetCode 494 : Target Sum (84_Medium)
 
 LeetCode 496 : Next Greater Element (19_Easy)
 
+LeetCode 504 : Base 7 (87_Easy)
+
 LeetCode 507 : Perfect Number (49_Easy)
 
 LeetCode 513 : Find Bottom Left Tree Value (88_Medium)
@@ -273,6 +275,8 @@ LeetCode 771 : Jewels and Stones (51_Easy)
 
 LeetCode 784 : Letter Case Permutation (35_Easy)
 
+LeetCode 807 : Max Increase to Keep City Skyline (102_Medium)
+
 LeetCode 815 : Bus Routes (15_Hard)
 
 LeetCode 839 : Similar String Groups (16_Hard)
@@ -315,9 +319,13 @@ LeetCode 1108 : Defanging an IP Address (80_Easy)
 
 LeetCode 1143 : Longest Common Subsequence (66_Medium)
 
+LeetCode 1189 : Maximum Number of Balloons (86_Medium)
+
 LeetCode 1190 : Reverse Substrings Between Each Pair of Parantheses (22_Medium)
 
 LeetCode 1221 : Split a String in Balanced Strings (75_Easy)
+
+LeetCode 1252 : Cells with Odd Values in a Matrix (84_Easy)
 
 LeetCode 1267 : Count Servers that Communicate (65_Medium)
 
@@ -339,11 +347,15 @@ LeetCode 1313 : Decompress Run-Length Encoded List (81_Easy)
 
 LeetCode 1315 : Sum of Nodes with Even-Valued Grandparent (101_Medium)
 
+LeetCode 1323 : Maximum 69 Number (83_Easy)
+
 LeetCode 1342 : Number of Steps to Reduce a Number to Zero (34_Easy)
 
 LeetCode 1365 : How Many Numbers Are Smaller Than the Current Number (48_Easy)
 
 LeetCode 1374 : Generate a String With Characters That Have Odd Counts (102_Medium)
+
+LeetCode 1380 : Lucky Numbers in a Matrix (85_Easy)
 
 LeetCode 1389 : Create Target Array in the Given Order (77_Easy)
 
