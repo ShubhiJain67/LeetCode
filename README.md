@@ -343,6 +343,8 @@ LeetCode 1290 : Convert Binary Number in a Linked List to Integer (82_Easy)
 
 LeetCode 1295 : Find Numbers with Even Number of Digits (52_Easy)
 
+LeetCode 1299 : Replace Elements with Greatest Element on Right Side (90_Easy)
+
 LeetCode 1304 : Find N Unique Integers Sum up to Zero (53_Easy)
 
 LeetCode 1305 : All Elements in Two Binary Search Trees (105_Medium)
