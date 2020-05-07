@@ -307,6 +307,8 @@ LeetCode 1061 : Lexicographically Smallest Equivalent String (90_Medium)
 
 LeetCode 1091 : Shortest Path in Binary Matrix (54_Medium)
 
+LeetCode 1108 : Defanging an IP Address (80_Easy)
+
 LeetCode 1143 : Longest Common Subsequence (66_Medium)
 
 LeetCode 1190 : Reverse Substrings Between Each Pair of Parantheses (22_Medium)
@@ -319,11 +321,17 @@ LeetCode 1276 : Number of Burgers with No Waste of Ingredients (73_Medium)
 
 LeetCode 1281 : Subtract the Product and Sum of Digits of an Integer (74_Easy)
 
+LeetCode 1282 : Group the People Given the Group Size They Belong To (98_Medium)
+
+LeetCode 1290 : Convert Binary Number in a Linked List to Integer (82_Easy)
+
 LeetCode 1295 : Find Numbers with Even Number of Digits (52_Easy)
 
 LeetCode 1304 : Find N Unique Integers Sum up to Zero (53_Easy)
 
 LeetCode 1310 : XOR Queries of a Subarray (52_Medium)
+
+LeetCode 1313 : Decompress Run-Length Encoded List (81_Easy)
 
 LeetCode 1342 : Number of Steps to Reduce a Number to Zero (34_Easy)
 
@@ -332,6 +340,8 @@ LeetCode 1365 : How Many Numbers Are Smaller Than the Current Number (48_Easy)
 LeetCode 1389 : Create Target Array in the Given Order (77_Easy)
 
 LeetCode 1428 : Leftmost Coloumn with atleast 1 one (61_Medium)
+
+LeetCode 1431 : Kids With the Greatest Number of Candies (79_Easy)
 
 GeeksForGeeks : Card Rotation (1_Medium)
 
