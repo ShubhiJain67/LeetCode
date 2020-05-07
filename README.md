@@ -87,6 +87,8 @@ LeetCode 105 : Construct Binary Tree from Preorder and Inorder Traversal (94_Med
 
 LeetCode 108 : Convert Sorted Array to Binary Search Tree (71_Easy)
 
+LeetCode 110 : Balanced Binary Tree (88_Easy)
+
 LeetCode 114 : Flatten Binary Tree to Linked List (14_Medium)
 
 LeetCode 121 : Best Time to Buy and Sell Stock (28_Easy)
@@ -343,6 +345,8 @@ LeetCode 1295 : Find Numbers with Even Number of Digits (52_Easy)
 
 LeetCode 1304 : Find N Unique Integers Sum up to Zero (53_Easy)
 
+LeetCode 1305 : All Elements in Two Binary Search Trees (105_Medium)
+
 LeetCode 1310 : XOR Queries of a Subarray (52_Medium)
 
 LeetCode 1313 : Decompress Run-Length Encoded List (81_Easy)
@@ -352,6 +356,10 @@ LeetCode 1315 : Sum of Nodes with Even-Valued Grandparent (101_Medium)
 LeetCode 1323 : Maximum 69 Number (83_Easy)
 
 LeetCode 1342 : Number of Steps to Reduce a Number to Zero (34_Easy)
+
+LeetCode 1347 : Minimum Number of Steps to Make Two Strings Anagram (106_Medium)
+
+LeetCode 1351 : Count Negative Numbers in a Sorted Matrix (89_Easy)
 
 LeetCode 1365 : How Many Numbers Are Smaller Than the Current Number (48_Easy)
 
