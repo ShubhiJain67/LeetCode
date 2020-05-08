@@ -311,6 +311,8 @@ LeetCode 994 : Rotting Oranges (10_Medium)
 
 LeetCode 997 : Find the Town Judge (41_Easy)
 
+LeetCode 1016 : Binary String With Substrings Representing 1 To N (109_Medium)
+
 LeetCode 1023 : Camelcase Matching (75_Medium)
 
 LeetCode 1046 : Last Stone Weight (32_Easy)
@@ -329,6 +331,8 @@ LeetCode 1190 : Reverse Substrings Between Each Pair of Parantheses (22_Medium)
 
 LeetCode 1221 : Split a String in Balanced Strings (75_Easy)
 
+LeetCode 1232 : Check If It Is a Straight Line (91_Easy)
+
 LeetCode 1252 : Cells with Odd Values in a Matrix (84_Easy)
 
 LeetCode 1267 : Count Servers that Communicate (65_Medium)
@@ -344,6 +348,8 @@ LeetCode 1290 : Convert Binary Number in a Linked List to Integer (82_Easy)
 LeetCode 1295 : Find Numbers with Even Number of Digits (52_Easy)
 
 LeetCode 1299 : Replace Elements with Greatest Element on Right Side (90_Easy)
+
+LeetCode 1302 : Deepest Leaves Sum (107_Medium)
 
 LeetCode 1304 : Find N Unique Integers Sum up to Zero (53_Easy)
 
@@ -374,6 +380,8 @@ LeetCode 1389 : Create Target Array in the Given Order (77_Easy)
 LeetCode 1428 : Leftmost Coloumn with atleast 1 one (61_Medium)
 
 LeetCode 1431 : Kids With the Greatest Number of Candies (79_Easy)
+
+LeetCode 1437 : Check If All 1's Are at Least Length K Places Away (108_Medium)
 
 GeeksForGeeks : Card Rotation (1_Medium)
 
