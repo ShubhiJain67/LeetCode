@@ -301,6 +301,8 @@ LeetCode 815 : Bus Routes (15_Hard)
 
 LeetCode 824 : Goat Latin (97_Easy)
 
+LeetCode 832 : Flipping an Image (101_Easy)
+
 LeetCode 839 : Similar String Groups (16_Hard)
 
 LeetCode 844 : Backspace String Compare (20_Easy)
@@ -316,6 +318,8 @@ LeetCode 876 : Middle Of Linked List (17_Easy)
 LeetCode 890 : Find and Replace Pattern (111_Medium)
 
 LeetCode 896 : Monotonic Array (54_Easy)
+
+LeetCode 905 : Sort Array By Parity (100_Easy)
 
 LeetCode 914 : X of a Kind in a Deck of Cards (60_Easy)
 
