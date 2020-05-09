@@ -117,6 +117,8 @@ LeetCode 155 : Min Stack (21_Easy)
 
 LeetCode 160 : Intersection of 2 Linkedlist (4_Medium)
 
+LeetCode 162 : Find Peak Element (118_Medium)
+
 LeetCode 190 : Reverse Bits (26_Easy)
 
 LeetCode 191 : Number of Set Bits (36_Easy)
@@ -309,6 +311,8 @@ LeetCode 844 : Backspace String Compare (20_Easy)
 
 LeetCode 848 : Shifting Letter (37_Medium)
 
+LeetCode 852 : Peak Index in a Mountain Array (102_Easy)
+
 LeetCode 859 : Buddy Strings (61_Easy)
 
 LeetCode 866 : Prime Palindrome (85_Medium)
@@ -340,6 +344,8 @@ LeetCode 1016 : Binary String With Substrings Representing 1 To N (109_Medium)
 LeetCode 1023 : Camelcase Matching (75_Medium)
 
 LeetCode 1046 : Last Stone Weight (32_Easy)
+
+LeetCode 1051 : Height Checker (103_Easy)
 
 LeetCode 1061 : Lexicographically Smallest Equivalent String (90_Medium)
 
