@@ -67,6 +67,8 @@ LeetCode 78 : Subsets (44_Medium)
 
 LeetCode 79 : Word Search (80_Medium)
 
+LeetCode 81 : Search in Rotated Sorted Array II (116_Medium)
+
 LeetCode 91 : Decode Ways (57_Medium)
 
 LeetCode 94 : Binary Tree Inorder Traversal (33_Medium)
@@ -167,6 +169,8 @@ LeetCode 290 : Word Pattern (58_Easy)
 
 LeetCode 315 : Count of Smaller Numbers After Self (12_Hard)
 
+LeetCode 318 : Maximum Product of Word Lengths (114_Medium)
+
 LeetCode 326 : Power of Three (72_Easy)
 
 LeetCode 328 : Odd Even LinkedList (25_Medium)
@@ -178,6 +182,8 @@ LeetCode 338 : Counting Bits (35_Medium)
 LeetCode 342 : Power Of 4 (24_Easy)
 
 LeetCode 347 : Top K Frequency Elements (67_Medium)
+
+LeetCode 367 : Valid Perfect Square (96_Easy)
 
 LeetCode 371 : Sum of Two Integers (34_Medium)
 
@@ -202,6 +208,8 @@ LeetCode 412 : Fizz Buzz (69_Easy)
 LeetCode 415 : Add Strings (42_Easy)
 
 LeetCode 414 : Third Maximum Number (47_Easy)
+
+LeetCode 421 : Maximum XOR of Two Numbers in an Array (113_Medium)
 
 LeetCode 429 : N-ary Tree Level Order Traversal (26_Medium)
 
@@ -265,6 +273,10 @@ LeetCode 695 : Max Area of Island (48_Medium)
 
 LeetCode 697 : Degree of an Array (66_Easy)
 
+LeetCode 700 : Search in a Binary Search Tree (98_Easy)
+
+LeetCode 701 : Insert into a Binary Search Tree (115_Medium)
+
 LeetCode 704 : Binary Search (45_Easy)
 
 LeetCode 707 : Design Linked List (86_Medium)
@@ -286,6 +298,8 @@ LeetCode 784 : Letter Case Permutation (35_Easy)
 LeetCode 807 : Max Increase to Keep City Skyline (102_Medium)
 
 LeetCode 815 : Bus Routes (15_Hard)
+
+LeetCode 824 : Goat Latin (97_Easy)
 
 LeetCode 839 : Similar String Groups (16_Hard)
 
@@ -333,6 +347,8 @@ LeetCode 1138 : Alphabet Board Path (110_Medium)
 
 LeetCode 1143 : Longest Common Subsequence (66_Medium)
 
+LeetCode 1146 : Snapshot Array (117_Medium)
+
 LeetCode 1189 : Maximum Number of Balloons (86_Medium)
 
 LeetCode 1190 : Reverse Substrings Between Each Pair of Parantheses (22_Medium)
@@ -342,6 +358,8 @@ LeetCode 1221 : Split a String in Balanced Strings (75_Easy)
 LeetCode 1232 : Check If It Is a Straight Line (91_Easy)
 
 LeetCode 1252 : Cells with Odd Values in a Matrix (84_Easy)
+
+LeetCode 1255 : Maximum Score Words Formed by Letters (17_Hard)
 
 LeetCode 1267 : Count Servers that Communicate (65_Medium)
 
@@ -369,9 +387,13 @@ LeetCode 1313 : Decompress Run-Length Encoded List (81_Easy)
 
 LeetCode 1315 : Sum of Nodes with Even-Valued Grandparent (101_Medium)
 
+LeetCode 1318 : Minimum Flips to Make a OR b Equal to c (112_Medium)
+
 LeetCode 1323 : Maximum 69 Number (83_Easy)
 
 LeetCode 1342 : Number of Steps to Reduce a Number to Zero (34_Easy)
+
+LeetCode 1346 : Check If N and Its Double Exist (99_Easy)
 
 LeetCode 1347 : Minimum Number of Steps to Make Two Strings Anagram (106_Medium)
 
