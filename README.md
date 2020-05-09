@@ -387,6 +387,8 @@ LeetCode 1380 : Lucky Numbers in a Matrix (85_Easy)
 
 LeetCode 1389 : Create Target Array in the Given Order (77_Easy)
 
+LeetCode 1399 : Count Largest Group (92_Easy)
+
 LeetCode 1428 : Leftmost Coloumn with atleast 1 one (61_Medium)
 
 LeetCode 1431 : Kids With the Greatest Number of Candies (79_Easy)
