@@ -193,6 +193,10 @@ LeetCode 389 : Find the Difference (25_Easy)
 
 LeetCode 397 : Integer Replacement (38_Medium)
 
+LeetCode 401 : Binary Watch (95_Easy)
+
+LeetCode 405 : Convert a Number to Hexadecimal (93_Easy)
+
 LeetCode 412 : Fizz Buzz (69_Easy)
 
 LeetCode 415 : Add Strings (42_Easy)
@@ -295,6 +299,8 @@ LeetCode 866 : Prime Palindrome (85_Medium)
 
 LeetCode 876 : Middle Of Linked List (17_Easy)
 
+LeetCode 890 : Find and Replace Pattern (111_Medium)
+
 LeetCode 896 : Monotonic Array (54_Easy)
 
 LeetCode 914 : X of a Kind in a Deck of Cards (60_Easy)
@@ -322,6 +328,8 @@ LeetCode 1061 : Lexicographically Smallest Equivalent String (90_Medium)
 LeetCode 1091 : Shortest Path in Binary Matrix (54_Medium)
 
 LeetCode 1108 : Defanging an IP Address (80_Easy)
+
+LeetCode 1138 : Alphabet Board Path (110_Medium)
 
 LeetCode 1143 : Longest Common Subsequence (66_Medium)
 
@@ -368,6 +376,8 @@ LeetCode 1342 : Number of Steps to Reduce a Number to Zero (34_Easy)
 LeetCode 1347 : Minimum Number of Steps to Make Two Strings Anagram (106_Medium)
 
 LeetCode 1351 : Count Negative Numbers in a Sorted Matrix (89_Easy)
+
+LeetCode 1356 : Sort Integers by The Number of 1 Bits (94_Easy)
 
 LeetCode 1365 : How Many Numbers Are Smaller Than the Current Number (48_Easy)
 
