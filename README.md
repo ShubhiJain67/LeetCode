@@ -267,6 +267,8 @@ LeetCode 590 : N-ary Tree Postorder Traversal (107_Easy)
 
 LeetCode 605 : Can Place Flowers (67_Easy)
 
+LeetCode 611 : Valid Triangle Number (121_Medium)
+
 LeetCode 617 : Merge Two Binary Trees (110_Easy)
 
 LeetCode 647 : Palindromic Substrings (81_Medium)
@@ -355,6 +357,8 @@ LeetCode 938 : Range Sum of BST (78_Easy)
 
 LeetCode 961 : N-Repeated Element in Size 2N Array (105_Easy)
 
+LeetCode 977 : Squares of a Sorted Array (117_Easy)
+
 LeetCode 989 : Add Array as Integer (44_Easy)
 
 LeetCode 993 : Cousins in Binary Tree (64_Easy)
@@ -428,6 +432,8 @@ LeetCode 1315 : Sum of Nodes with Even-Valued Grandparent (101_Medium)
 LeetCode 1318 : Minimum Flips to Make a OR b Equal to c (112_Medium)
 
 LeetCode 1323 : Maximum 69 Number (83_Easy)
+
+LeetCode 1337 : The K Weakest Rows in a Matrix (116_Easy)
 
 LeetCode 1342 : Number of Steps to Reduce a Number to Zero (34_Easy)
 
