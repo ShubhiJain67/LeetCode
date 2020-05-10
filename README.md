@@ -107,6 +107,8 @@ LeetCode 137 : Single Number II (12_Medium)
 
 LeetCode 143 : Reorder List (104_Medium)
 
+LeetCode 144 : Binary Tree Preorder Traversal (119_Medium)
+
 LeetCode 145 : Binary Tree Postorder Traversal (18_Hard)
 
 LeetCode 146 : LRU Cache (74_Medium)
@@ -253,13 +255,19 @@ LeetCode 543 : Diameter of Binary Tree (22_Easy)
 
 LeetCode 547 : Friend Circles (51_Medium)
 
+LeetCode 557 : Reverse Words in a String III (111_Easy)
+
 LeetCode 559 : Maximum Depth of N-ary Tree (65_Easy)
 
 LeetCode 560 : Subarray Sum Equals K (53_Medium)
 
+LeetCode 563 : Binary Tree Tilt (112_Easy)
+
 LeetCode 590 : N-ary Tree Postorder Traversal (107_Easy)
 
 LeetCode 605 : Can Place Flowers (67_Easy)
+
+LeetCode 617 : Merge Two Binary Trees (110_Easy)
 
 LeetCode 647 : Palindromic Substrings (81_Medium)
 
@@ -303,7 +311,11 @@ LeetCode 771 : Jewels and Stones (51_Easy)
 
 LeetCode 784 : Letter Case Permutation (35_Easy)
 
+LeetCode 804 : Unique Morse Code Words (109_Easy)
+
 LeetCode 807 : Max Increase to Keep City Skyline (102_Medium)
+
+LeetCode 814 : Binary Tree Pruning (120_Medium)
 
 LeetCode 815 : Bus Routes (15_Hard)
 
@@ -329,6 +341,8 @@ LeetCode 890 : Find and Replace Pattern (111_Medium)
 
 LeetCode 896 : Monotonic Array (54_Easy)
 
+LeetCode 897 : Increasing Order Search Tree (113_Easy)
+
 LeetCode 905 : Sort Array By Parity (100_Easy)
 
 LeetCode 914 : X of a Kind in a Deck of Cards (60_Easy)
@@ -346,6 +360,8 @@ LeetCode 993 : Cousins in Binary Tree (64_Easy)
 LeetCode 994 : Rotting Oranges (10_Medium)
 
 LeetCode 997 : Find the Town Judge (41_Easy)
+
+LeetCode 1009 : Complement of Base 10 Integer (114_Easy)
 
 LeetCode 1016 : Binary String With Substrings Representing 1 To N (109_Medium)
 
@@ -398,6 +414,8 @@ LeetCode 1302 : Deepest Leaves Sum (107_Medium)
 LeetCode 1304 : Find N Unique Integers Sum up to Zero (53_Easy)
 
 LeetCode 1305 : All Elements in Two Binary Search Trees (105_Medium)
+
+LeetCode 1309 : Decrypt String from Alphabet to Integer Mapping (108_Easy)
 
 LeetCode 1310 : XOR Queries of a Subarray (52_Medium)
 
