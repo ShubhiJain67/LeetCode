@@ -349,6 +349,8 @@ LeetCode 914 : X of a Kind in a Deck of Cards (60_Easy)
 
 LeetCode 917 : Reverse Only Letters (37_Easy)
 
+LeetCode 925 : Long Pressed Name (115_Easy)
+
 LeetCode 938 : Range Sum of BST (78_Easy)
 
 LeetCode 961 : N-Repeated Element in Size 2N Array (105_Easy)
