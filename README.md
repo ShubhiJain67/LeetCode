@@ -55,6 +55,8 @@ LeetCode 54 : Spiral Matrix (95_Medium)
 
 LeetCode 55 : Jump Game (61_Medium)
 
+LeetCode 59 : Spiral Matrix II (122_Medium)
+
 LeetCode 61 : Rotate List (Medium)
 
 LeetCode 67 : Add Binary (16_Easy)
