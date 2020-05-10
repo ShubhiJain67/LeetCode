@@ -107,6 +107,8 @@ LeetCode 137 : Single Number II (12_Medium)
 
 LeetCode 143 : Reorder List (104_Medium)
 
+LeetCode 145 : Binary Tree Postorder Traversal (18_Hard)
+
 LeetCode 146 : LRU Cache (74_Medium)
 
 LeetCode 151 : Reverse Words in a String (87_Medium)
@@ -233,6 +235,8 @@ LeetCode 494 : Target Sum (84_Medium)
 
 LeetCode 496 : Next Greater Element (19_Easy)
 
+LeetCode 500 : Keyboard Row (106_Easy)
+
 LeetCode 504 : Base 7 (87_Easy)
 
 LeetCode 507 : Perfect Number (49_Easy)
@@ -252,6 +256,8 @@ LeetCode 547 : Friend Circles (51_Medium)
 LeetCode 559 : Maximum Depth of N-ary Tree (65_Easy)
 
 LeetCode 560 : Subarray Sum Equals K (53_Medium)
+
+LeetCode 590 : N-ary Tree Postorder Traversal (107_Easy)
 
 LeetCode 605 : Can Place Flowers (67_Easy)
 
@@ -330,6 +336,8 @@ LeetCode 914 : X of a Kind in a Deck of Cards (60_Easy)
 LeetCode 917 : Reverse Only Letters (37_Easy)
 
 LeetCode 938 : Range Sum of BST (78_Easy)
+
+LeetCode 961 : N-Repeated Element in Size 2N Array (105_Easy)
 
 LeetCode 989 : Add Array as Integer (44_Easy)
 
@@ -424,6 +432,8 @@ LeetCode 1399 : Count Largest Group (92_Easy)
 LeetCode 1428 : Leftmost Coloumn with atleast 1 one (61_Medium)
 
 LeetCode 1431 : Kids With the Greatest Number of Candies (79_Easy)
+
+LeetCode 1436 : Destination City (104_Easy)
 
 LeetCode 1437 : Check If All 1's Are at Least Length K Places Away (108_Medium)
 
