@@ -191,6 +191,10 @@ LeetCode 342 : Power Of 4 (24_Easy)
 
 LeetCode 347 : Top K Frequency Elements (67_Medium)
 
+LeetCode 349 : Intersection of Two Arrays (122_Easy)
+
+LeetCode 350 : Intersection of Two Arrays II (121_Easy)
+
 LeetCode 367 : Valid Perfect Square (96_Easy)
 
 LeetCode 371 : Sum of Two Integers (34_Medium)
@@ -269,6 +273,8 @@ LeetCode 590 : N-ary Tree Postorder Traversal (107_Easy)
 
 LeetCode 605 : Can Place Flowers (67_Easy)
 
+LeetCode 606 : Construct String from Binary Tree (127_Easy)
+
 LeetCode 611 : Valid Triangle Number (121_Medium)
 
 LeetCode 617 : Merge Two Binary Trees (110_Easy)
@@ -307,6 +313,8 @@ LeetCode 725 : Split Linked List in Parts (20_Medium)
 
 LeetCode 728 : Self Dividing Numbers (50_Easy)
 
+LeetCode 733 : Flood Fill (118_Easy)
+
 LeetCode 739 : Daily Temperatures (77_Medium)
 
 LeetCode 762 : Prime Number of Set Bits in Binary Representation (31_Easy)
@@ -318,6 +326,8 @@ LeetCode 784 : Letter Case Permutation (35_Easy)
 LeetCode 804 : Unique Morse Code Words (109_Easy)
 
 LeetCode 807 : Max Increase to Keep City Skyline (102_Medium)
+
+LeetCode 809 : Expressive Words (123_Medium)
 
 LeetCode 814 : Binary Tree Pruning (120_Medium)
 
@@ -339,6 +349,8 @@ LeetCode 859 : Buddy Strings (61_Easy)
 
 LeetCode 866 : Prime Palindrome (85_Medium)
 
+LeetCode 872 : Leaf-Similar Trees (125_Easy)
+
 LeetCode 876 : Middle Of Linked List (17_Easy)
 
 LeetCode 890 : Find and Replace Pattern (111_Medium)
@@ -357,7 +369,11 @@ LeetCode 925 : Long Pressed Name (115_Easy)
 
 LeetCode 938 : Range Sum of BST (78_Easy)
 
+LeetCode 942 : DI String Match (128_Easy)
+
 LeetCode 961 : N-Repeated Element in Size 2N Array (105_Easy)
+
+LeetCode 965 : Univalued Binary Tree (124_Easy)
 
 LeetCode 977 : Squares of a Sorted Array (117_Easy)
 
@@ -369,9 +385,15 @@ LeetCode 994 : Rotting Oranges (10_Medium)
 
 LeetCode 997 : Find the Town Judge (41_Easy)
 
+LeetCode 1002 : Find Common Characters (123_Easy)
+
 LeetCode 1009 : Complement of Base 10 Integer (114_Easy)
 
 LeetCode 1016 : Binary String With Substrings Representing 1 To N (109_Medium)
+
+LeetCode 1021 : Remove Outermost Parentheses (119_Easy)
+
+LeetCode 1022 : Sum of Root To Leaf Binary Numbers (126_Easy)
 
 LeetCode 1023 : Camelcase Matching (75_Medium)
 
@@ -448,6 +470,8 @@ LeetCode 1351 : Count Negative Numbers in a Sorted Matrix (89_Easy)
 LeetCode 1356 : Sort Integers by The Number of 1 Bits (94_Easy)
 
 LeetCode 1365 : How Many Numbers Are Smaller Than the Current Number (48_Easy)
+
+LeetCode 1370 : Increasing Decreasing String (120_Easy)
 
 LeetCode 1374 : Generate a String With Characters That Have Odd Counts (102_Medium)
 
