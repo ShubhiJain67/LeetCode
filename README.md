@@ -149,6 +149,8 @@ LeetCode 212 : Word Search II (11_Hard)
 
 LeetCode 215 : Kth Largest Element in an Array (72_Medium)
 
+LeetCode 219 : Contains Duplicate II (130_Easy)
+
 LeetCode 224 : Basic Calculator (10_Hard)
 
 LeetCode 230 : Kth Smallest Element in a BST (29_Medium)
@@ -217,9 +219,11 @@ LeetCode 405 : Convert a Number to Hexadecimal (93_Easy)
 
 LeetCode 412 : Fizz Buzz (69_Easy)
 
+LeetCode 414 : Third Maximum Number (47_Easy)
+
 LeetCode 415 : Add Strings (42_Easy)
 
-LeetCode 414 : Third Maximum Number (47_Easy)
+LeetCode 419 : Battleships in a Board (124_Medium)
 
 LeetCode 421 : Maximum XOR of Two Numbers in an Array (113_Medium)
 
@@ -249,11 +253,15 @@ LeetCode 504 : Base 7 (87_Easy)
 
 LeetCode 507 : Perfect Number (49_Easy)
 
+LeetCode 509 : Fibonacci Number (132_Easy)
+
 LeetCode 513 : Find Bottom Left Tree Value (88_Medium)
 
 LeetCode 515 : Find Largest Value in Each Tree Row (89_Medium)
 
 LeetCode 525 : Contiguous Array (39_Medium)
+
+LeetCode 540 : Single Element in a Sorted Array (126_Medium)
 
 LeetCode 542 : 01 Matrix (56_Medium)
 
@@ -317,11 +325,15 @@ LeetCode 733 : Flood Fill (118_Easy)
 
 LeetCode 739 : Daily Temperatures (77_Medium)
 
+LeetCode 743 : Network Delay Time (127_Medium)
+
 LeetCode 762 : Prime Number of Set Bits in Binary Representation (31_Easy)
 
 LeetCode 771 : Jewels and Stones (51_Easy)
 
 LeetCode 784 : Letter Case Permutation (35_Easy)
+
+LeetCode 787 : Cheapest Flights Within K Stops (129_Medium)
 
 LeetCode 804 : Unique Morse Code Words (109_Easy)
 
@@ -353,6 +365,8 @@ LeetCode 872 : Leaf-Similar Trees (125_Easy)
 
 LeetCode 876 : Middle Of Linked List (17_Easy)
 
+LeetCode 881 : Boats to Save People (125_Medium)
+
 LeetCode 890 : Find and Replace Pattern (111_Medium)
 
 LeetCode 896 : Monotonic Array (54_Easy)
@@ -376,6 +390,8 @@ LeetCode 961 : N-Repeated Element in Size 2N Array (105_Easy)
 LeetCode 965 : Univalued Binary Tree (124_Easy)
 
 LeetCode 977 : Squares of a Sorted Array (117_Easy)
+
+LeetCode 985 : Sum of Even Numbers After Queries (131_Easy)
 
 LeetCode 989 : Add Array as Integer (44_Easy)
 
@@ -413,9 +429,13 @@ LeetCode 1143 : Longest Common Subsequence (66_Medium)
 
 LeetCode 1146 : Snapshot Array (117_Medium)
 
+LeetCode 1161 : Maximum Level Sum of a Binary Tree (128_Medium)
+
 LeetCode 1189 : Maximum Number of Balloons (86_Medium)
 
 LeetCode 1190 : Reverse Substrings Between Each Pair of Parantheses (22_Medium)
+
+LeetCode 1207 : Unique Number of Occurrences (129_Easy)
 
 LeetCode 1221 : Split a String in Balanced Strings (75_Easy)
 
@@ -434,6 +454,8 @@ LeetCode 1281 : Subtract the Product and Sum of Digits of an Integer (74_Easy)
 LeetCode 1282 : Group the People Given the Group Size They Belong To (98_Medium)
 
 LeetCode 1290 : Convert Binary Number in a Linked List to Integer (82_Easy)
+
+LeetCode 1291 : Sequential Digits (130_Medium)
 
 LeetCode 1295 : Find Numbers with Even Number of Digits (52_Easy)
 
