@@ -167,6 +167,10 @@ LeetCode 242 : Valid Anagram (70_Easy)
 
 LeetCode 260 : Single Number III (11_Medium)
 
+LeetCode 274 : H-Index (131_Medium)
+
+LeetCode 275 : H-Index II (132_Medium)
+
 LeetCode 278 : First Bad Version (57_Easy)
 
 LeetCode 283 : Move Zeroes (18_Easy)
@@ -214,6 +218,8 @@ LeetCode 389 : Find the Difference (25_Easy)
 LeetCode 397 : Integer Replacement (38_Medium)
 
 LeetCode 401 : Binary Watch (95_Easy)
+
+LeetCode 402 : Remove K Digits (134_Medium)
 
 LeetCode 405 : Convert a Number to Hexadecimal (93_Easy)
 
@@ -437,6 +443,8 @@ LeetCode 1190 : Reverse Substrings Between Each Pair of Parantheses (22_Medium)
 
 LeetCode 1207 : Unique Number of Occurrences (129_Easy)
 
+LeetCode 1219 : Path with Maximum Gold (133_Medium)
+
 LeetCode 1221 : Split a String in Balanced Strings (75_Easy)
 
 LeetCode 1232 : Check If It Is a Straight Line (91_Easy)
@@ -501,7 +509,11 @@ LeetCode 1380 : Lucky Numbers in a Matrix (85_Easy)
 
 LeetCode 1389 : Create Target Array in the Given Order (77_Easy)
 
+LeetCode 1394 : Find Lucky Integer in an Array (133_Easy)
+
 LeetCode 1399 : Count Largest Group (92_Easy)
+
+LeetCode 1413 : Minimum Value to Get Positive Step by Step Sum (134_Easy)
 
 LeetCode 1428 : Leftmost Coloumn with atleast 1 one (61_Medium)
 
