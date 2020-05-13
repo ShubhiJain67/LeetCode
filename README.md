@@ -61,6 +61,8 @@ LeetCode 61 : Rotate List (Medium)
 
 LeetCode 67 : Add Binary (16_Easy)
 
+LeetCode 73 : Set Matrix Zeroes (135_Medium)
+
 LeetCode 74 : Search a 2D Matrix (76_Medium)
 
 LeetCode 75 : Sort Colors (49_Medium)
@@ -180,6 +182,10 @@ LeetCode 286 : Walls and Gate (55_Medium)
 LeetCode 287 : Find the Duplicate Number (79_Medium)
 
 LeetCode 290 : Word Pattern (58_Easy)
+
+LeetCode 303 : Range Sum Query - Immutable (136_Easy)
+
+LeetCode 307 : Range Sum Query - Mutable (136_Medium)
 
 LeetCode 315 : Count of Smaller Numbers After Self (12_Hard)
 
@@ -482,6 +488,8 @@ LeetCode 1310 : XOR Queries of a Subarray (52_Medium)
 LeetCode 1313 : Decompress Run-Length Encoded List (81_Easy)
 
 LeetCode 1315 : Sum of Nodes with Even-Valued Grandparent (101_Medium)
+
+LeetCode 1317 : Convert Integer to the Sum of Two No-Zero Integers (135_Easy)
 
 LeetCode 1318 : Minimum Flips to Make a OR b Equal to c (112_Medium)
 
