@@ -225,6 +225,8 @@ LeetCode 367 : Valid Perfect Square (96_Easy)
 
 LeetCode 371 : Sum of Two Integers (34_Medium)
 
+LeetCode 378 : Kth Smallest Element in a Sorted Matrix (146_Medium)
+
 LeetCode 383 : Ransom Note (63_Easy)
 
 LeetCode 386 : Lexicographical Numbers (82_Medium)
@@ -312,6 +314,8 @@ LeetCode 606 : Construct String from Binary Tree (127_Easy)
 LeetCode 611 : Valid Triangle Number (121_Medium)
 
 LeetCode 617 : Merge Two Binary Trees (110_Easy)
+
+LeetCode 628 : Maximum Product of Three Numbers (140_Easy)
 
 LeetCode 647 : Palindromic Substrings (81_Medium)
 
@@ -473,6 +477,8 @@ LeetCode 1219 : Path with Maximum Gold (133_Medium)
 
 LeetCode 1221 : Split a String in Balanced Strings (75_Easy)
 
+LeetCode 1222 : Queens That Can Attack the King (144_Medium)
+
 LeetCode 1232 : Check If It Is a Straight Line (91_Easy)
 
 LeetCode 1252 : Cells with Odd Values in a Matrix (84_Easy)
@@ -518,6 +524,8 @@ LeetCode 1323 : Maximum 69 Number (83_Easy)
 LeetCode 1337 : The K Weakest Rows in a Matrix (116_Easy)
 
 LeetCode 1342 : Number of Steps to Reduce a Number to Zero (34_Easy)
+
+LeetCode 1344 : Angle Between Hands of a Clock (145_Medium)
 
 LeetCode 1346 : Check If N and Its Double Exist (99_Easy)
 
