@@ -57,6 +57,10 @@ LeetCode 54 : Spiral Matrix (95_Medium)
 
 LeetCode 55 : Jump Game (61_Medium)
 
+LeetCode 56 : Merge Intervals (139_Medium)
+
+LeetCode 57 : Insert Interval (19_Hard)
+
 LeetCode 59 : Spiral Matrix II (122_Medium)
 
 LeetCode 61 : Rotate List (Medium)
@@ -118,6 +122,8 @@ LeetCode 144 : Binary Tree Preorder Traversal (119_Medium)
 LeetCode 145 : Binary Tree Postorder Traversal (18_Hard)
 
 LeetCode 146 : LRU Cache (74_Medium)
+
+LeetCode 148 : Sort List (140_Medium)
 
 LeetCode 151 : Reverse Words in a String (87_Medium)
 
