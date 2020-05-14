@@ -39,6 +39,8 @@ LeetCode 43 : Multiply Strings (62_Medium)
 
 LeetCode 46 : Permutations (91_Medium)
 
+LeetCode 47 : Permutations II (137_Medium)
+
 LeetCode 48 : Rotate Image (92_Medium)
 
 LeetCode 49 : Group Anagraam (42_Medium)
@@ -164,6 +166,8 @@ LeetCode 234 : Palindrome Linked List (5_Easy)
 LeetCode 236 : Lowest Common Ancestor of a Binary Tree (27_Medium)
 
 LeetCode 238 : Product of Array Except Self (41_Medium)
+
+LeetCode 240 : Search a 2D Matrix II (138_Medium)
 
 LeetCode 242 : Valid Anagram (70_Easy)
 
@@ -372,6 +376,8 @@ LeetCode 852 : Peak Index in a Mountain Array (102_Easy)
 LeetCode 859 : Buddy Strings (61_Easy)
 
 LeetCode 866 : Prime Palindrome (85_Medium)
+
+LeetCode 867 : Transpose Matrix (137_Easy)
 
 LeetCode 872 : Leaf-Similar Trees (125_Easy)
 
