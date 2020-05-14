@@ -31,6 +31,10 @@ LeetCode 34 : Find First and Last Position of Element in Sorted Array (99_Medium
 
 LeetCode 35 : Search Insert Position (40_Easy)
 
+LeetCode 36 : Valid Sudoku (143_Medium)
+
+LeetCode 37 : Sudoku Solver (20_Hard)
+
 LeetCode 38 : Count and Say (59_Medium)
 
 LeetCode 41 : First Missing Positive (14_Hard)
@@ -393,6 +397,8 @@ LeetCode 881 : Boats to Save People (125_Medium)
 
 LeetCode 890 : Find and Replace Pattern (111_Medium)
 
+LeetCode 893 : Groups of Special-Equivalent Strings (138_Easy)
+
 LeetCode 896 : Monotonic Array (54_Easy)
 
 LeetCode 897 : Increasing Order Search Tree (113_Easy)
@@ -452,6 +458,8 @@ LeetCode 1138 : Alphabet Board Path (110_Medium)
 LeetCode 1143 : Longest Common Subsequence (66_Medium)
 
 LeetCode 1146 : Snapshot Array (117_Medium)
+
+LeetCode 1160 : Find Words That Can Be Formed by Characters (139_Easy)
 
 LeetCode 1161 : Maximum Level Sum of a Binary Tree (128_Medium)
 
@@ -557,3 +565,10 @@ SQL:
 LeetCode 184 : Department Highest Salary (_Medium)
 
 LeetCode 180 : Consecutive Numbers (_Medium)
+
+
+HackerRank
+
+155 RatInAMaze (141_Medium)
+
+161 CombinationalSum (142_Medium)
