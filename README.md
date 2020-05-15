@@ -189,6 +189,8 @@ LeetCode 275 : H-Index II (132_Medium)
 
 LeetCode 278 : First Bad Version (57_Easy)
 
+LeetCode 279 : Perfect Squares (147_Medium)
+
 LeetCode 283 : Move Zeroes (18_Easy)
 
 LeetCode 286 : Walls and Gate (55_Medium)
