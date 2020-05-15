@@ -37,6 +37,10 @@ LeetCode 37 : Sudoku Solver (20_Hard)
 
 LeetCode 38 : Count and Say (59_Medium)
 
+LeetCode 39 : Combination Sum (150_Medium)
+
+LeetCode 40 : Combination Sum II (149_Medium)
+
 LeetCode 41 : First Missing Positive (14_Hard)
 
 LeetCode 43 : Multiply Strings (62_Medium)
@@ -162,6 +166,8 @@ LeetCode 211 : Add and Search Word - Data structure design (70_Medium)
 LeetCode 212 : Word Search II (11_Hard)
 
 LeetCode 215 : Kth Largest Element in an Array (72_Medium)
+
+LeetCode 216 : Combination Sum III (151_Medium)
 
 LeetCode 219 : Contains Duplicate II (130_Easy)
 
@@ -416,6 +422,8 @@ LeetCode 905 : Sort Array By Parity (100_Easy)
 LeetCode 914 : X of a Kind in a Deck of Cards (60_Easy)
 
 LeetCode 917 : Reverse Only Letters (37_Easy)
+
+LeetCode 918 : Maximum Sum Circular Subarray (152_Medium)
 
 LeetCode 925 : Long Pressed Name (115_Easy)
 
