@@ -81,11 +81,15 @@ LeetCode 74 : Search a 2D Matrix (76_Medium)
 
 LeetCode 75 : Sort Colors (49_Medium)
 
+LeetCode 77 : Combinations (155_Medium)
+
 LeetCode 78 : Subsets (44_Medium)
 
 LeetCode 79 : Word Search (80_Medium)
 
 LeetCode 81 : Search in Rotated Sorted Array II (116_Medium)
+
+LeetCode 89 : Gray Code (156_Medium)
 
 LeetCode 91 : Decode Ways (57_Medium)
 
@@ -465,6 +469,8 @@ LeetCode 1051 : Height Checker (103_Easy)
 
 LeetCode 1061 : Lexicographically Smallest Equivalent String (90_Medium)
 
+LeetCode 1079 : Letter Tile Possibilities (154_Medium)
+
 LeetCode 1091 : Shortest Path in Binary Matrix (54_Medium)
 
 LeetCode 1108 : Defanging an IP Address (80_Easy)
@@ -562,6 +568,8 @@ LeetCode 1394 : Find Lucky Integer in an Array (133_Easy)
 LeetCode 1399 : Count Largest Group (92_Easy)
 
 LeetCode 1413 : Minimum Value to Get Positive Step by Step Sum (134_Easy)
+
+LeetCode 1415 : The k-th Lexicographical String of All Happy Strings of Length n (153_Medium)
 
 LeetCode 1428 : Leftmost Coloumn with atleast 1 one (61_Medium)
 
