@@ -45,6 +45,8 @@ LeetCode 41 : First Missing Positive (14_Hard)
 
 LeetCode 43 : Multiply Strings (62_Medium)
 
+LeetCode 44 : Wildcard Matching (21_Hard)
+
 LeetCode 46 : Permutations (91_Medium)
 
 LeetCode 47 : Permutations II (137_Medium)
@@ -177,9 +179,13 @@ LeetCode 219 : Contains Duplicate II (130_Easy)
 
 LeetCode 224 : Basic Calculator (10_Hard)
 
+LeetCode 225 : Implement Stack using Queues (142_Easy)
+
 LeetCode 230 : Kth Smallest Element in a BST (29_Medium)
 
 LeetCode 231 : Power of 2 (2_Easy)
+
+LeetCode 232 : Implement Queue using Stacks (143_Easy)
 
 LeetCode 234 : Palindrome Linked List (5_Easy)
 
@@ -235,6 +241,8 @@ LeetCode 349 : Intersection of Two Arrays (122_Easy)
 
 LeetCode 350 : Intersection of Two Arrays II (121_Easy)
 
+LeetCode 357 : Count Numbers with Unique Digits (157_Medium)
+
 LeetCode 367 : Valid Perfect Square (96_Easy)
 
 LeetCode 371 : Sum of Two Integers (34_Medium)
@@ -270,6 +278,8 @@ LeetCode 419 : Battleships in a Board (124_Medium)
 LeetCode 421 : Maximum XOR of Two Numbers in an Array (113_Medium)
 
 LeetCode 429 : N-ary Tree Level Order Traversal (26_Medium)
+
+LeetCode 438 : Find All Anagrams in a String (158_Medium)
 
 LeetCode 441 : Arranging Coins (43_Easy)
 
@@ -340,6 +350,8 @@ LeetCode 657 : Robot Return to Origin (38_Easy)
 LeetCode 665 : Non-decreasing Array (62_Easy)
 
 LeetCode 678 : Valid Parenthesis String (43_Medium)
+
+LeetCode 682 : Baseball Game (141_Easy)
 
 LeetCode 684 : Redundant Connection (69_Medium)
 
