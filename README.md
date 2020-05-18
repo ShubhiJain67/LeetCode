@@ -337,6 +337,8 @@ LeetCode 560 : Subarray Sum Equals K (53_Medium)
 
 LeetCode 563 : Binary Tree Tilt (112_Easy)
 
+LeetCode 567 : Permutation in String (169_Medium)
+
 LeetCode 590 : N-ary Tree Postorder Traversal (107_Easy)
 
 LeetCode 605 : Can Place Flowers (67_Easy)
