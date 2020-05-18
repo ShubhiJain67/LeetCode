@@ -93,6 +93,8 @@ LeetCode 81 : Search in Rotated Sorted Array II (116_Medium)
 
 LeetCode 89 : Gray Code (156_Medium)
 
+LeetCode 90 : SubsetsII (168_Medium)
+
 LeetCode 91 : Decode Ways (57_Medium)
 
 LeetCode 94 : Binary Tree Inorder Traversal (33_Medium)
@@ -317,6 +319,8 @@ LeetCode 515 : Find Largest Value in Each Tree Row (89_Medium)
 
 LeetCode 525 : Contiguous Array (39_Medium)
 
+LeetCode 537 : Complex Number Multiplication (167_Medium)
+
 LeetCode 540 : Single Element in a Sorted Array (126_Medium)
 
 LeetCode 542 : 01 Matrix (56_Medium)
@@ -427,6 +431,8 @@ LeetCode 866 : Prime Palindrome (85_Medium)
 
 LeetCode 867 : Transpose Matrix (137_Easy)
 
+LeetCode 868 : Binary Gap (145_Easy)
+
 LeetCode 872 : Leaf-Similar Trees (125_Easy)
 
 LeetCode 876 : Middle Of Linked List (17_Easy)
@@ -460,6 +466,8 @@ LeetCode 942 : DI String Match (128_Easy)
 LeetCode 961 : N-Repeated Element in Size 2N Array (105_Easy)
 
 LeetCode 965 : Univalued Binary Tree (124_Easy)
+
+LeetCode 970 : Powerful Integers (146_Easy)
 
 LeetCode 973 : K Closest Points to Origin (16edium1_M)
 
@@ -588,6 +596,8 @@ LeetCode 1374 : Generate a String With Characters That Have Odd Counts (102_Medi
 LeetCode 1380 : Lucky Numbers in a Matrix (85_Easy)
 
 LeetCode 1389 : Create Target Array in the Given Order (77_Easy)
+
+LeetCode 1390 : Four Divisors (166_Medium)
 
 LeetCode 1394 : Find Lucky Integer in an Array (133_Easy)
 
