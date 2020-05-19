@@ -359,7 +359,11 @@ LeetCode 611 : Valid Triangle Number (121_Medium)
 
 LeetCode 617 : Merge Two Binary Trees (110_Easy)
 
+LeetCode 622 : Design Circular Queue (175_Medium)
+
 LeetCode 628 : Maximum Product of Three Numbers (140_Easy)
+
+LeetCode 641 : Design Circular Deque (174_Medium)
 
 LeetCode 647 : Palindromic Substrings (81_Medium)
 
