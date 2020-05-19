@@ -149,11 +149,15 @@ LeetCode 151 : Reverse Words in a String (87_Medium)
 
 LeetCode 152 : Maximum Product Subarray (97_Medium)
 
+LeetCode 153 : Find Minimum in Rotated Sorted Array (171_Medium)
+
 LeetCode 155 : Min Stack (21_Easy)
 
 LeetCode 160 : Intersection of 2 Linkedlist (4_Medium)
 
 LeetCode 162 : Find Peak Element (118_Medium)
+
+LeetCode 167 : Two Sum II - Input array is sorted (147_Easy)
 
 LeetCode 190 : Reverse Bits (26_Easy)
 
@@ -300,6 +304,8 @@ LeetCode 463 : Perimeter of Island (47_Medium)
 LeetCode 476 : Number Complement (29_Easy)
 
 LeetCode 477 : Total Hamming Distance (36_Medium)
+
+LeetCode 485 : Max Consecutive Ones (150_Easy)
 
 LeetCode 494 : Target Sum (84_Medium)
 
@@ -455,6 +461,8 @@ LeetCode 905 : Sort Array By Parity (100_Easy)
 
 LeetCode 914 : X of a Kind in a Deck of Cards (60_Easy)
 
+LeetCode 915 : Partition Array into Disjoint Intervals (170_Medium)
+
 LeetCode 917 : Reverse Only Letters (37_Easy)
 
 LeetCode 918 : Maximum Sum Circular Subarray (152_Medium)
@@ -524,6 +532,8 @@ LeetCode 1161 : Maximum Level Sum of a Binary Tree (128_Medium)
 LeetCode 1189 : Maximum Number of Balloons (86_Medium)
 
 LeetCode 1190 : Reverse Substrings Between Each Pair of Parantheses (22_Medium)
+
+LeetCode 1200 : Minimum Absolute Difference (149_Easy)
 
 LeetCode 1207 : Unique Number of Occurrences (129_Easy)
 
@@ -597,6 +607,8 @@ LeetCode 1374 : Generate a String With Characters That Have Odd Counts (102_Medi
 
 LeetCode 1380 : Lucky Numbers in a Matrix (85_Easy)
 
+LeetCode 1385 : Find the Distance Value Between Two Arrays (148_Easy)
+
 LeetCode 1389 : Create Target Array in the Given Order (77_Easy)
 
 LeetCode 1390 : Four Divisors (166_Medium)
@@ -616,6 +628,8 @@ LeetCode 1431 : Kids With the Greatest Number of Candies (79_Easy)
 LeetCode 1436 : Destination City (104_Easy)
 
 LeetCode 1437 : Check If All 1's Are at Least Length K Places Away (108_Medium)
+
+LeetCode 1441 : Build an Array With Stack Operations (151_Easy)
 
 LeetCode 1450 : Number of Students Doing Homework at a Given Time (144_Easy)
 
