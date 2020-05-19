@@ -121,6 +121,10 @@ LeetCode 109 : Convert Sorted List to Binary Search Tree (165_Medium)
 
 LeetCode 110 : Balanced Binary Tree (88_Easy)
 
+LeetCode 112 : Path Sum (152_Easy)
+
+LeetCode 113 : Path Sum II (173_Medium)
+
 LeetCode 114 : Flatten Binary Tree to Linked List (14_Medium)
 
 LeetCode 121 : Best Time to Buy and Sell Stock (28_Easy)
@@ -602,6 +606,8 @@ LeetCode 1356 : Sort Integers by The Number of 1 Bits (94_Easy)
 LeetCode 1365 : How Many Numbers Are Smaller Than the Current Number (48_Easy)
 
 LeetCode 1370 : Increasing Decreasing String (120_Easy)
+
+LeetCode 1372 : Longest ZigZag Path in a Binary Tree (172_Medium)
 
 LeetCode 1374 : Generate a String With Characters That Have Odd Counts (102_Medium)
 
