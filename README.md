@@ -229,6 +229,8 @@ LeetCode 287 : Find the Duplicate Number (79_Medium)
 
 LeetCode 290 : Word Pattern (58_Easy)
 
+LeetCode 292 : Nim Game (154_Easy)
+
 LeetCode 303 : Range Sum Query - Immutable (136_Easy)
 
 LeetCode 307 : Range Sum Query - Mutable (136_Medium)
@@ -517,6 +519,8 @@ LeetCode 1023 : Camelcase Matching (75_Medium)
 
 LeetCode 1046 : Last Stone Weight (32_Easy)
 
+LeetCode 1047 : Remove All Adjacent Duplicates In String (153_Easy)
+
 LeetCode 1051 : Height Checker (103_Easy)
 
 LeetCode 1061 : Lexicographically Smallest Equivalent String (90_Medium)
@@ -544,6 +548,8 @@ LeetCode 1190 : Reverse Substrings Between Each Pair of Parantheses (22_Medium)
 LeetCode 1200 : Minimum Absolute Difference (149_Easy)
 
 LeetCode 1207 : Unique Number of Occurrences (129_Easy)
+
+LeetCode 1209 : Remove All Adjacent Duplicates in String II (176_Medium)
 
 LeetCode 1219 : Path with Maximum Gold (133_Medium)
 
