@@ -477,6 +477,8 @@ LeetCode 917 : Reverse Only Letters (37_Easy)
 
 LeetCode 918 : Maximum Sum Circular Subarray (152_Medium)
 
+LeetCode 921 : Minimum Add to Make Parentheses Valid (177_Medium)
+
 LeetCode 925 : Long Pressed Name (115_Easy)
 
 LeetCode 938 : Range Sum of BST (78_Easy)
@@ -640,6 +642,8 @@ LeetCode 1415 : The k-th Lexicographical String of All Happy Strings of Length n
 LeetCode 1428 : Leftmost Coloumn with atleast 1 one (61_Medium)
 
 LeetCode 1431 : Kids With the Greatest Number of Candies (79_Easy)
+
+LeetCode 1433 : Check If a String Can Break Another String (178_Medium)
 
 LeetCode 1436 : Destination City (104_Easy)
 
