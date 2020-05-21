@@ -4,49 +4,31 @@
  *     int val;
  *     TreeNode left;
  *     TreeNode right;
- *     TreeNode(int x) { val = x; }
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
  * }
  */
 class Solution {
     public int diameterOfBinaryTree(TreeNode root) {
-        if(root==null) return 0;
-        int diaOfroot=Diameter(root);
-        int leftChildDia=0,rightChildDia=0;
-        if(root.left!=null)
-            leftChildDia=diameterOfBinaryTree(root.left);
-        if(root.right!=null)
-            rightChildDia=diameterOfBinaryTree(root.right);
-        
-        if(diaOfroot>leftChildDia && diaOfroot>rightChildDia)
-            return diaOfroot;
-        if(leftChildDia<rightChildDia)
-            return rightChildDia;
-        else
-            return leftChildDia;
-    }
-    public int Diameter(TreeNode root){
-        if(root==null) return 0;
-        int left=0;
-        int right=0;
-        if(root.left!=null){
-            left=MaxHeight(root.left);
-        }
-        if(root.right!=null){
-            right=MaxHeight(root.right);
-        }
-        return left+right;
-    }
-    public int MaxHeight(TreeNode root){
-        if(root==null){
+        if(root==null)
             return 0;
-        }
-        if(root.left==null && root.right==null){
-            return 1;
-        }
-        int left=MaxHeight(root.left);
-        int right=MaxHeight(root.right);
-        if(left>right)
-            return left+1;
-        return right+1;
+        GetHeight(root);
+        return max-1;
+    }
+    int max=0;
+    
+    public int GetHeight(TreeNode node){
+        if(node==null)
+            return 0;
+        int left=GetHeight(node.left);
+        int right=GetHeight(node.right);
+        if(max<left+right+1)
+            max=left+right+1;
+        return Math.max(left,right)+1;
     }
 }
