@@ -361,6 +361,8 @@ LeetCode 611 : Valid Triangle Number (121_Medium)
 
 LeetCode 617 : Merge Two Binary Trees (110_Easy)
 
+LeetCode 621 : Task Scheduler (179_Medium)
+
 LeetCode 622 : Design Circular Queue (175_Medium)
 
 LeetCode 628 : Maximum Product of Three Numbers (140_Easy)
