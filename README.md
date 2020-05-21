@@ -415,6 +415,8 @@ LeetCode 743 : Network Delay Time (127_Medium)
 
 LeetCode 762 : Prime Number of Set Bits in Binary Representation (31_Easy)
 
+LeetCode 767 : Reorganize String (181_Medium)
+
 LeetCode 771 : Jewels and Stones (51_Easy)
 
 LeetCode 784 : Letter Case Permutation (35_Easy)
@@ -446,6 +448,8 @@ LeetCode 848 : Shifting Letter (37_Medium)
 LeetCode 852 : Peak Index in a Mountain Array (102_Easy)
 
 LeetCode 859 : Buddy Strings (61_Easy)
+
+LeetCode 863 : All Nodes Distance K in Binary Tree (180_Medium)
 
 LeetCode 866 : Prime Palindrome (85_Medium)
 
@@ -535,6 +539,8 @@ LeetCode 1091 : Shortest Path in Binary Matrix (54_Medium)
 
 LeetCode 1108 : Defanging an IP Address (80_Easy)
 
+LeetCode 1137 : N-th Tribonacci Number (155_Easy)
+
 LeetCode 1138 : Alphabet Board Path (110_Medium)
 
 LeetCode 1143 : Longest Common Subsequence (66_Medium)
@@ -570,6 +576,8 @@ LeetCode 1255 : Maximum Score Words Formed by Letters (17_Hard)
 LeetCode 1267 : Count Servers that Communicate (65_Medium)
 
 LeetCode 1276 : Number of Burgers with No Waste of Ingredients (73_Medium)
+
+LeetCode 1277 : Count Square Submatrices with All Ones (182_Medium)
 
 LeetCode 1281 : Subtract the Product and Sum of Digits of an Integer (74_Easy)
 
