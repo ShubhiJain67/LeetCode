@@ -253,6 +253,8 @@ LeetCode 338 : Counting Bits (35_Medium)
 
 LeetCode 342 : Power Of 4 (24_Easy)
 
+LeetCode 345 : Reverse Vowels of a String (160_Easy)
+
 LeetCode 347 : Top K Frequency Elements (67_Medium)
 
 LeetCode 349 : Intersection of Two Arrays (122_Easy)
@@ -266,6 +268,10 @@ LeetCode 367 : Valid Perfect Square (96_Easy)
 LeetCode 371 : Sum of Two Integers (34_Medium)
 
 LeetCode 378 : Kth Smallest Element in a Sorted Matrix (146_Medium)
+
+LeetCode 380 : Insert Delete GetRandom O(1) (185_Medium)
+
+LeetCode 381 : Insert Delete GetRandom O(1) - Duplicates allowed (22_Hard)
 
 LeetCode 383 : Ransom Note (63_Easy)
 
@@ -371,6 +377,8 @@ LeetCode 628 : Maximum Product of Three Numbers (140_Easy)
 
 LeetCode 641 : Design Circular Deque (174_Medium)
 
+LeetCode 645 : Set Mismatch (159_Easy)
+
 LeetCode 647 : Palindromic Substrings (81_Medium)
 
 LeetCode 650 : 2 Keys (58_Medium)
@@ -401,9 +409,15 @@ LeetCode 701 : Insert into a Binary Search Tree (115_Medium)
 
 LeetCode 704 : Binary Search (45_Easy)
 
+LeetCode 705 : Design HashSet (157_Easy)
+
+LeetCode 706 : Design HashMap (156_Easy)
+
 LeetCode 707 : Design Linked List (86_Medium)
 
 LeetCode 709 : To Lower Case (76_Easy)
+
+LeetCode 724 : Find Pivot Index (161_Easy)
 
 LeetCode 725 : Split Linked List in Parts (20_Medium)
 
@@ -554,6 +568,8 @@ LeetCode 1146 : Snapshot Array (117_Medium)
 LeetCode 1160 : Find Words That Can Be Formed by Characters (139_Easy)
 
 LeetCode 1161 : Maximum Level Sum of a Binary Tree (128_Medium)
+
+LeetCode 1184 : Distance Between Bus Stops (158_Easy)
 
 LeetCode 1189 : Maximum Number of Balloons (86_Medium)
 
