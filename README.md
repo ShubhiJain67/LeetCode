@@ -77,6 +77,8 @@ LeetCode 61 : Rotate List (Medium)
 
 LeetCode 67 : Add Binary (16_Easy)
 
+LeetCode 71 : Simplify Path (186_Medium)
+
 LeetCode 73 : Set Matrix Zeroes (135_Medium)
 
 LeetCode 74 : Search a 2D Matrix (76_Medium)
@@ -680,6 +682,8 @@ LeetCode 1436 : Destination City (104_Easy)
 LeetCode 1437 : Check If All 1's Are at Least Length K Places Away (108_Medium)
 
 LeetCode 1441 : Build an Array With Stack Operations (151_Easy)
+
+LeetCode 1446 : Consecutive Characters (162_Easy)
 
 LeetCode 1450 : Number of Students Doing Homework at a Given Time (144_Easy)
 
