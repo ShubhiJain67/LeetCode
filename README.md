@@ -523,6 +523,8 @@ LeetCode 977 : Squares of a Sorted Array (117_Easy)
 
 LeetCode 985 : Sum of Even Numbers After Queries (131_Easy)
 
+LeetCode 986 : Interval List Intersections (189_Medium)
+
 LeetCode 989 : Add Array as Integer (44_Easy)
 
 LeetCode 993 : Cousins in Binary Tree (64_Easy)
@@ -560,6 +562,8 @@ LeetCode 1079 : Letter Tile Possibilities (154_Medium)
 LeetCode 1091 : Shortest Path in Binary Matrix (54_Medium)
 
 LeetCode 1108 : Defanging an IP Address (80_Easy)
+
+LeetCode 1123 : Lowest Common Ancestor of Deepest Leaves (191_Medium)
 
 LeetCode 1137 : N-th Tribonacci Number (155_Easy)
 
@@ -653,6 +657,8 @@ LeetCode 1356 : Sort Integers by The Number of 1 Bits (94_Easy)
 
 LeetCode 1365 : How Many Numbers Are Smaller Than the Current Number (48_Easy)
 
+LeetCode 1367 : Linked List in Binary Tree (190_Medium)
+
 LeetCode 1370 : Increasing Decreasing String (120_Easy)
 
 LeetCode 1372 : Longest ZigZag Path in a Binary Tree (172_Medium)
@@ -700,6 +706,8 @@ GeeksForGeeks : Print Diagonally (2_Medium)
 GeeksForGeeks : Delete Duplicate Linked List (3_Medium)
 
 GeeksForGeeks : Symmetric Tree (6_Medium)
+
+GeeksForGeeks : Maximum path sum (164_Easy)
 
 
 SQL:
