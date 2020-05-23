@@ -151,6 +151,8 @@ LeetCode 146 : LRU Cache (74_Medium)
 
 LeetCode 148 : Sort List (140_Medium)
 
+LeetCode 150 : Evaluate Reverse Polish Notation (188_Medium)
+
 LeetCode 151 : Reverse Words in a String (87_Medium)
 
 LeetCode 152 : Maximum Product Subarray (97_Medium)
@@ -605,6 +607,8 @@ LeetCode 1281 : Subtract the Product and Sum of Digits of an Integer (74_Easy)
 
 LeetCode 1282 : Group the People Given the Group Size They Belong To (98_Medium)
 
+LeetCode 1287. Element Appearing More Than 25% In Sorted Array (163_Easy)
+
 LeetCode 1290 : Convert Binary Number in a Linked List to Integer (82_Easy)
 
 LeetCode 1291 : Sequential Digits (130_Medium)
@@ -656,6 +660,8 @@ LeetCode 1372 : Longest ZigZag Path in a Binary Tree (172_Medium)
 LeetCode 1374 : Generate a String With Characters That Have Odd Counts (102_Medium)
 
 LeetCode 1380 : Lucky Numbers in a Matrix (85_Easy)
+
+LeetCode 1381 : Design a Stack With Increment Operation (187_Medium)
 
 LeetCode 1385 : Find the Distance Value Between Two Arrays (148_Easy)
 
