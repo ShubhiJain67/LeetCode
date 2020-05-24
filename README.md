@@ -391,6 +391,8 @@ LeetCode 657 : Robot Return to Origin (38_Easy)
 
 LeetCode 665 : Non-decreasing Array (62_Easy)
 
+LeetCode 669 : Trim a Binary Search Tree (165_Easy)
+
 LeetCode 678 : Valid Parenthesis String (43_Medium)
 
 LeetCode 682 : Baseball Game (141_Easy)
@@ -698,6 +700,14 @@ LeetCode 1441 : Build an Array With Stack Operations (151_Easy)
 LeetCode 1446 : Consecutive Characters (162_Easy)
 
 LeetCode 1450 : Number of Students Doing Homework at a Given Time (144_Easy)
+
+LeetCode 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence (166_Easy)
+
+LeetCode 1456 : Maximum Number of Vowels in a Substring of Given Length (193_Medium)
+
+LeetCode 1457 : Pseudo-Palindromic Paths in a Binary Tree (192_Medium)
+
+LeetCode 1458 : Max Dot Product of Two Subsequences (23_Hard)
 
 GeeksForGeeks : Card Rotation (1_Medium)
 
