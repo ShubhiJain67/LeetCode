@@ -197,6 +197,8 @@ LeetCode 216 : Combination Sum III (151_Medium)
 
 LeetCode 219 : Contains Duplicate II (130_Easy)
 
+LeetCode 222 : Count Complete Tree Nodes (195_Medium)
+
 LeetCode 224 : Basic Calculator (10_Hard)
 
 LeetCode 225 : Implement Stack using Queues (142_Easy)
@@ -343,6 +345,10 @@ LeetCode 515 : Find Largest Value in Each Tree Row (89_Medium)
 
 LeetCode 525 : Contiguous Array (39_Medium)
 
+LeetCode 530 : Minimum Absolute Difference in BST (168_Easy)
+
+LeetCode 532 : K-diff Pairs in an Array (169_Easy)
+
 LeetCode 537 : Complex Number Multiplication (167_Medium)
 
 LeetCode 540 : Single Element in a Sorted Array (126_Medium)
@@ -360,6 +366,8 @@ LeetCode 559 : Maximum Depth of N-ary Tree (65_Easy)
 LeetCode 560 : Subarray Sum Equals K (53_Medium)
 
 LeetCode 563 : Binary Tree Tilt (112_Easy)
+
+LeetCode 566 : Reshape the Matrix (170_Easy)
 
 LeetCode 567 : Permutation in String (169_Medium)
 
@@ -440,6 +448,8 @@ LeetCode 762 : Prime Number of Set Bits in Binary Representation (31_Easy)
 LeetCode 767 : Reorganize String (181_Medium)
 
 LeetCode 771 : Jewels and Stones (51_Easy)
+
+LeetCode 783 : Minimum Distance Between BST Nodes (167_Easy)
 
 LeetCode 784 : Letter Case Permutation (35_Easy)
 
@@ -642,6 +652,8 @@ LeetCode 1317 : Convert Integer to the Sum of Two No-Zero Integers (135_Easy)
 LeetCode 1318 : Minimum Flips to Make a OR b Equal to c (112_Medium)
 
 LeetCode 1323 : Maximum 69 Number (83_Easy)
+
+LeetCode 1325 : Delete Leaves with a Given Value (194_Medium)
 
 LeetCode 1337 : The K Weakest Rows in a Matrix (116_Easy)
 
