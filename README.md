@@ -7,6 +7,8 @@ LeetCode 2 : Add Two Numbers (96_Medium)
 
 LeetCode 6 : ZigZag Converation (15_Medium)
 
+LeetCode 7 : Reverse Integer (174_Easy)
+
 LeetCode 11 : Container with most water (5_Medium)
 
 LeetCode 12 : Integer to Roman (30_Medium)
@@ -158,6 +160,8 @@ LeetCode 151 : Reverse Words in a String (87_Medium)
 LeetCode 152 : Maximum Product Subarray (97_Medium)
 
 LeetCode 153 : Find Minimum in Rotated Sorted Array (171_Medium)
+
+LeetCode 154 : Find Minimum in Rotated Sorted Array II (24_Hard)
 
 LeetCode 155 : Min Stack (21_Easy)
 
@@ -389,6 +393,8 @@ LeetCode 621 : Task Scheduler (179_Medium)
 
 LeetCode 622 : Design Circular Queue (175_Medium)
 
+LeetCode 623 : Add One Row to Tree (201_Medium)
+
 LeetCode 628 : Maximum Product of Three Numbers (140_Easy)
 
 LeetCode 641 : Design Circular Deque (174_Medium)
@@ -406,6 +412,8 @@ LeetCode 657 : Robot Return to Origin (38_Easy)
 LeetCode 665 : Non-decreasing Array (62_Easy)
 
 LeetCode 669 : Trim a Binary Search Tree (165_Easy)
+
+LeetCode 671 : Second Minimum Node In a Binary Tree (172_Easy)
 
 LeetCode 678 : Valid Parenthesis String (43_Medium)
 
@@ -448,6 +456,8 @@ LeetCode 733 : Flood Fill (118_Easy)
 LeetCode 739 : Daily Temperatures (77_Medium)
 
 LeetCode 743 : Network Delay Time (127_Medium)
+
+LeetCode 744 : Find Smallest Letter Greater Than Target (173_Easy)
 
 LeetCode 762 : Prime Number of Set Bits in Binary Representation (31_Easy)
 
@@ -529,6 +539,10 @@ LeetCode 938 : Range Sum of BST (78_Easy)
 
 LeetCode 942 : DI String Match (128_Easy)
 
+LeetCode 951 : Flip Equivalent Binary Trees (199_Medium)
+
+LeetCode 958 : Check Completeness of a Binary Tree (200_Meidum)
+
 LeetCode 961 : N-Repeated Element in Size 2N Array (105_Easy)
 
 LeetCode 965 : Univalued Binary Tree (124_Easy)
@@ -564,6 +578,8 @@ LeetCode 1021 : Remove Outermost Parentheses (119_Easy)
 LeetCode 1022 : Sum of Root To Leaf Binary Numbers (126_Easy)
 
 LeetCode 1023 : Camelcase Matching (75_Medium)
+
+LeetCode 1035 : Uncrossed Lines (198_Medium)
 
 LeetCode 1038. Binary Search Tree to Greater Sum Tree (183_Medium)
 
