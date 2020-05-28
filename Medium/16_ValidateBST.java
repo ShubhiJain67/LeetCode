@@ -4,23 +4,29 @@
  *     int val;
  *     TreeNode left;
  *     TreeNode right;
- *     TreeNode(int x) { val = x; }
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
  * }
  */
 class Solution {
-    public boolean helper(TreeNode node, Integer lower, Integer upper) {
-    if (node == null) return true;
-
-    int val = node.val;
-    if (lower != null && val <= lower) return false;
-    if (upper != null && val >= upper) return false;
-
-    if (! helper(node.right, val, upper)) return false;
-    if (! helper(node.left, lower, val)) return false;
-    return true;
-  }
-
-  public boolean isValidBST(TreeNode root) {
-    return helper(root, null, null);
-  }
+    TreeNode prev = null;
+    public boolean isValidBST(TreeNode root) {
+        if(root == null) {
+            return true;
+        }
+        
+        if(!isValidBST(root.left))
+            return false;
+        if(prev == null || root.val > prev.val) {
+            prev = root;
+            return isValidBST(root.right);
+        }
+        
+        return false;
+    }
 }
