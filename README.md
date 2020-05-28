@@ -415,6 +415,8 @@ LeetCode 669 : Trim a Binary Search Tree (165_Easy)
 
 LeetCode 671 : Second Minimum Node In a Binary Tree (172_Easy)
 
+LeetCode 674 : Longest Continuous Increasing Subsequence (179_Easy)
+
 LeetCode 678 : Valid Parenthesis String (43_Medium)
 
 LeetCode 682 : Baseball Game (141_Easy)
@@ -460,6 +462,8 @@ LeetCode 743 : Network Delay Time (127_Medium)
 LeetCode 744 : Find Smallest Letter Greater Than Target (173_Easy)
 
 LeetCode 762 : Prime Number of Set Bits in Binary Representation (31_Easy)
+
+LeetCode 763 : Partition Labels (207_Medium)
 
 LeetCode 767 : Reorganize String (181_Medium)
 
@@ -512,6 +516,8 @@ LeetCode 876 : Middle Of Linked List (17_Easy)
 LeetCode 881 : Boats to Save People (125_Medium)
 
 LeetCode 885 : Spiral Matrix III (162_Medium)
+
+LeetCode 886 : Possible Bipartition (208_Medium)
 
 LeetCode 890 : Find and Replace Pattern (111_Medium)
 
@@ -612,6 +618,8 @@ LeetCode 1146 : Snapshot Array (117_Medium)
 LeetCode 1160 : Find Words That Can Be Formed by Characters (139_Easy)
 
 LeetCode 1161 : Maximum Level Sum of a Binary Tree (128_Medium)
+
+LeetCode 1170 : Compare Strings by Frequency of the Smallest Character (178_Easy)
 
 LeetCode 1184 : Distance Between Bus Stops (158_Easy)
 
@@ -716,6 +724,8 @@ LeetCode 1390 : Four Divisors (166_Medium)
 LeetCode 1394 : Find Lucky Integer in an Array (133_Easy)
 
 LeetCode 1399 : Count Largest Group (92_Easy)
+
+LeetCode 1408 : String Matching in an Array (177_Easy)
 
 LeetCode 1413 : Minimum Value to Get Positive Step by Step Sum (134_Easy)
 
