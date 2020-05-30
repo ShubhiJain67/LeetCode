@@ -691,6 +691,8 @@ LeetCode 1325 : Delete Leaves with a Given Value (194_Medium)
 
 LeetCode 1337 : The K Weakest Rows in a Matrix (116_Easy)
 
+LeetCode 1338 : Reduce Array Size to The Half (210_Medium)
+
 LeetCode 1342 : Number of Steps to Reduce a Number to Zero (34_Easy)
 
 LeetCode 1344 : Angle Between Hands of a Clock (145_Medium)
