@@ -107,6 +107,8 @@ LeetCode 96 : Unique BST (17_Medium)
 
 LeetCode 98 : Validate BST (16_Medium)
 
+LeetCode 99 : Recover Binary Search Tree (26_Hard)
+
 LeetCode 100 : Same Tree (9_Easy)
 
 LeetCode 102 : Binary Tree Level Order Traversal (32_Medium)
@@ -130,6 +132,10 @@ LeetCode 112 : Path Sum (152_Easy)
 LeetCode 113 : Path Sum II (173_Medium)
 
 LeetCode 114 : Flatten Binary Tree to Linked List (14_Medium)
+
+LeetCode 116 : Populating Next Right Pointers in Each Node (211_Medium)
+
+LeetCode 117 : Populating Next Right Pointers in Each Node II (212_Medium)
 
 LeetCode 121 : Best Time to Buy and Sell Stock (28_Easy)
 
@@ -504,6 +510,8 @@ LeetCode 852 : Peak Index in a Mountain Array (102_Easy)
 LeetCode 859 : Buddy Strings (61_Easy)
 
 LeetCode 863 : All Nodes Distance K in Binary Tree (180_Medium)
+
+LeetCode 865 : Smallest Subtree with all the Deepest Nodes (213_Medium)
 
 LeetCode 866 : Prime Palindrome (85_Medium)
 
