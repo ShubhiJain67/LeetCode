@@ -5,6 +5,8 @@ LeetCode 1 : Two Sum (46_Easy)
 
 LeetCode 2 : Add Two Numbers (96_Medium)
 
+LeetCode 3 : Longest Substring Without Repeating Characters (214_Medium)
+
 LeetCode 6 : ZigZag Converation (15_Medium)
 
 LeetCode 7 : Reverse Integer (174_Easy)
@@ -711,6 +713,8 @@ LeetCode 1347 : Minimum Number of Steps to Make Two Strings Anagram (106_Medium)
 
 LeetCode 1351 : Count Negative Numbers in a Sorted Matrix (89_Easy)
 
+LeetCode 1352 : Product of the Last K Numbers (215_Medium)
+
 LeetCode 1356 : Sort Integers by The Number of 1 Bits (94_Easy)
 
 LeetCode 1365 : How Many Numbers Are Smaller Than the Current Number (48_Easy)
@@ -766,6 +770,10 @@ LeetCode 1456 : Maximum Number of Vowels in a Substring of Given Length (193_Med
 LeetCode 1457 : Pseudo-Palindromic Paths in a Binary Tree (192_Medium)
 
 LeetCode 1458 : Max Dot Product of Two Subsequences (23_Hard)
+
+LeetCode 1460. Make Two Arrays Equal by Reversing Sub-arrays (182_Easy)
+
+LeetCode 1464 : Maximum Product of Two Elements in an Array (183_Easy)
 
 GeeksForGeeks : Binary Tree To DLL (25_Hard)
 
