@@ -311,6 +311,8 @@ LeetCode 402 : Remove K Digits (134_Medium)
 
 LeetCode 405 : Convert a Number to Hexadecimal (93_Easy)
 
+LeetCode 409 : Longest Palindrome (186_Easy)
+
 LeetCode 412 : Fizz Buzz (69_Easy)
 
 LeetCode 414 : Third Maximum Number (47_Easy)
@@ -382,6 +384,8 @@ LeetCode 557 : Reverse Words in a String III (111_Easy)
 LeetCode 559 : Maximum Depth of N-ary Tree (65_Easy)
 
 LeetCode 560 : Subarray Sum Equals K (53_Medium)
+
+LeetCode 561 : Array Partition I (184_Medium)
 
 LeetCode 563 : Binary Tree Tilt (112_Easy)
 
@@ -475,6 +479,8 @@ LeetCode 762 : Prime Number of Set Bits in Binary Representation (31_Easy)
 
 LeetCode 763 : Partition Labels (207_Medium)
 
+LeetCode 766 : Toeplitz Matrix (191_Easy)
+
 LeetCode 767 : Reorganize String (181_Medium)
 
 LeetCode 771 : Jewels and Stones (51_Easy)
@@ -529,6 +535,8 @@ LeetCode 876 : Middle Of Linked List (17_Easy)
 
 LeetCode 881 : Boats to Save People (125_Medium)
 
+LeetCode 884 : Uncommon Words from Two Sentences (185_Easy)
+
 LeetCode 885 : Spiral Matrix III (162_Medium)
 
 LeetCode 886 : Possible Bipartition (208_Medium)
@@ -543,6 +551,8 @@ LeetCode 897 : Increasing Order Search Tree (113_Easy)
 
 LeetCode 905 : Sort Array By Parity (100_Easy)
 
+LeetCode 908 : Smallest Range I (187_Easy)
+
 LeetCode 914 : X of a Kind in a Deck of Cards (60_Easy)
 
 LeetCode 915 : Partition Array into Disjoint Intervals (170_Medium)
@@ -553,11 +563,15 @@ LeetCode 918 : Maximum Sum Circular Subarray (152_Medium)
 
 LeetCode 921 : Minimum Add to Make Parentheses Valid (177_Medium)
 
+LeetCode 922 : Sort Array By Parity II (188_Easy)
+
 LeetCode 925 : Long Pressed Name (115_Easy)
 
 LeetCode 938 : Range Sum of BST (78_Easy)
 
 LeetCode 942 : DI String Match (128_Easy)
+
+LeetCode 950 : Reveal Cards In Increasing Order (218_Meidum)
 
 LeetCode 951 : Flip Equivalent Binary Trees (199_Medium)
 
@@ -611,6 +625,8 @@ LeetCode 1051 : Height Checker (103_Easy)
 
 LeetCode 1061 : Lexicographically Smallest Equivalent String (90_Medium)
 
+LeetCode 1078 : Occurrences After Bigram (190_Easy)
+
 LeetCode 1079 : Letter Tile Possibilities (154_Medium)
 
 LeetCode 1091 : Shortest Path in Binary Matrix (54_Medium)
@@ -658,6 +674,8 @@ LeetCode 1232 : Check If It Is a Straight Line (91_Easy)
 LeetCode 1252 : Cells with Odd Values in a Matrix (84_Easy)
 
 LeetCode 1255 : Maximum Score Words Formed by Letters (17_Hard)
+
+LeetCode 1266 : Minimum Time Visiting All Points (189_Easy)
 
 LeetCode 1267 : Count Servers that Communicate (65_Medium)
 
@@ -776,6 +794,8 @@ LeetCode 1458 : Max Dot Product of Two Subsequences (23_Hard)
 LeetCode 1460. Make Two Arrays Equal by Reversing Sub-arrays (182_Easy)
 
 LeetCode 1464 : Maximum Product of Two Elements in an Array (183_Easy)
+
+LeetCode 1465 : Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts (217_Medium)
 
 GeeksForGeeks : Binary Tree To DLL (25_Hard)
 
