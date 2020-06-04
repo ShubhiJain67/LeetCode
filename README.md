@@ -273,6 +273,8 @@ LeetCode 338 : Counting Bits (35_Medium)
 
 LeetCode 342 : Power Of 4 (24_Easy)
 
+LeetCode 344 : Reverse String (193_Easy)
+
 LeetCode 345 : Reverse Vowels of a String (160_Easy)
 
 LeetCode 347 : Top K Frequency Elements (67_Medium)
@@ -324,6 +326,8 @@ LeetCode 419 : Battleships in a Board (124_Medium)
 LeetCode 421 : Maximum XOR of Two Numbers in an Array (113_Medium)
 
 LeetCode 429 : N-ary Tree Level Order Traversal (26_Medium)
+
+LeetCode 434 : Number of Segments in a String (194_Easy)
 
 LeetCode 438 : Find All Anagrams in a String (158_Medium)
 
@@ -613,7 +617,11 @@ LeetCode 1022 : Sum of Root To Leaf Binary Numbers (126_Easy)
 
 LeetCode 1023 : Camelcase Matching (75_Medium)
 
+LeetCode 1029 : Two City Scheduling (192_Easy)
+
 LeetCode 1035 : Uncrossed Lines (198_Medium)
+
+LeetCode 1037 : Valid Boomerang (195_Easy)
 
 LeetCode 1038. Binary Search Tree to Greater Sum Tree (183_Medium)
 
@@ -670,6 +678,8 @@ LeetCode 1221 : Split a String in Balanced Strings (75_Easy)
 LeetCode 1222 : Queens That Can Attack the King (144_Medium)
 
 LeetCode 1232 : Check If It Is a Straight Line (91_Easy)
+
+LeetCode 1249 : Minimum Remove to Make Valid Parentheses (219_Meidum)
 
 LeetCode 1252 : Cells with Odd Values in a Matrix (84_Easy)
 
