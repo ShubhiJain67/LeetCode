@@ -369,6 +369,8 @@ LeetCode 515 : Find Largest Value in Each Tree Row (89_Medium)
 
 LeetCode 525 : Contiguous Array (39_Medium)
 
+LeetCode 528 : Random Pick with Weight (222_Medium)
+
 LeetCode 530 : Minimum Absolute Difference in BST (168_Easy)
 
 LeetCode 532 : K-diff Pairs in an Array (169_Easy)
@@ -557,6 +559,8 @@ LeetCode 905 : Sort Array By Parity (100_Easy)
 
 LeetCode 908 : Smallest Range I (187_Easy)
 
+LeetCode 912 : Sort an Array (220_Medium)
+
 LeetCode 914 : X of a Kind in a Deck of Cards (60_Easy)
 
 LeetCode 915 : Partition Array into Disjoint Intervals (170_Medium)
@@ -610,6 +614,8 @@ LeetCode 1009 : Complement of Base 10 Integer (114_Easy)
 LeetCode 1011 : Capacity To Ship Packages Within D Days (163_Medium)
 
 LeetCode 1016 : Binary String With Substrings Representing 1 To N (109_Medium)
+
+LeetCode 1019 : Next Greater Node In Linked List (221_Medium)
 
 LeetCode 1021 : Remove Outermost Parentheses (119_Easy)
 
@@ -685,6 +691,8 @@ LeetCode 1252 : Cells with Odd Values in a Matrix (84_Easy)
 
 LeetCode 1255 : Maximum Score Words Formed by Letters (17_Hard)
 
+LeetCode 1260 : Shift 2D Grid (196_Easy)
+
 LeetCode 1266 : Minimum Time Visiting All Points (189_Easy)
 
 LeetCode 1267 : Count Servers that Communicate (65_Medium)
@@ -728,6 +736,8 @@ LeetCode 1318 : Minimum Flips to Make a OR b Equal to c (112_Medium)
 LeetCode 1323 : Maximum 69 Number (83_Easy)
 
 LeetCode 1325 : Delete Leaves with a Given Value (194_Medium)
+
+LeetCode 1331 : Rank Transform of an Array (197_Easy)
 
 LeetCode 1337 : The K Weakest Rows in a Matrix (116_Easy)
 
