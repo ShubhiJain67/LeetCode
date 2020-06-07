@@ -367,6 +367,8 @@ LeetCode 513 : Find Bottom Left Tree Value (88_Medium)
 
 LeetCode 515 : Find Largest Value in Each Tree Row (89_Medium)
 
+LeetCode 521 : Longest Uncommon Subsequence I (198_Easy)
+
 LeetCode 525 : Contiguous Array (39_Medium)
 
 LeetCode 528 : Random Pick with Weight (222_Medium)
@@ -609,6 +611,8 @@ LeetCode 997 : Find the Town Judge (41_Easy)
 
 LeetCode 1002 : Find Common Characters (123_Easy)
 
+LeetCode 1003 : Check If Word Is Valid After Substitutions (223_Medium)
+
 LeetCode 1009 : Complement of Base 10 Integer (114_Easy)
 
 LeetCode 1011 : Capacity To Ship Packages Within D Days (163_Medium)
@@ -737,6 +741,8 @@ LeetCode 1323 : Maximum 69 Number (83_Easy)
 
 LeetCode 1325 : Delete Leaves with a Given Value (194_Medium)
 
+LeetCode 1329 : Sort the Matrix Diagonally (224_Medium)
+
 LeetCode 1331 : Rank Transform of an Array (197_Easy)
 
 LeetCode 1337 : The K Weakest Rows in a Matrix (116_Easy)
@@ -802,6 +808,8 @@ LeetCode 1441 : Build an Array With Stack Operations (151_Easy)
 LeetCode 1446 : Consecutive Characters (162_Easy)
 
 LeetCode 1450 : Number of Students Doing Homework at a Given Time (144_Easy)
+
+LeetCode 1451 : Rearrange Words in a Sentence (225_Medium)
 
 LeetCode 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence (166_Easy)
 
