@@ -555,6 +555,8 @@ LeetCode 885 : Spiral Matrix III (162_Medium)
 
 LeetCode 886 : Possible Bipartition (208_Medium)
 
+LeetCode 889 : Construct Binary Tree from Preorder and Postorder Traversal (228_Medium)
+
 LeetCode 890 : Find and Replace Pattern (111_Medium)
 
 LeetCode 893 : Groups of Special-Equivalent Strings (138_Easy)
