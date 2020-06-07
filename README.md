@@ -313,6 +313,8 @@ LeetCode 402 : Remove K Digits (134_Medium)
 
 LeetCode 405 : Convert a Number to Hexadecimal (93_Easy)
 
+LeetCode 406 : Queue Reconstruction by Height (227_Medium)
+
 LeetCode 409 : Longest Palindrome (186_Easy)
 
 LeetCode 412 : Fizz Buzz (69_Easy)
@@ -366,6 +368,8 @@ LeetCode 509 : Fibonacci Number (132_Easy)
 LeetCode 513 : Find Bottom Left Tree Value (88_Medium)
 
 LeetCode 515 : Find Largest Value in Each Tree Row (89_Medium)
+
+LeetCode 518 : Coin Change 2 (226_Medium)
 
 LeetCode 521 : Longest Uncommon Subsequence I (198_Easy)
 
@@ -498,6 +502,8 @@ LeetCode 783 : Minimum Distance Between BST Nodes (167_Easy)
 LeetCode 784 : Letter Case Permutation (35_Easy)
 
 LeetCode 787 : Cheapest Flights Within K Stops (129_Medium)
+
+LeetCode 788 : Rotated Digits (199_Easy)
 
 LeetCode 797 : All Paths From Source to Target (216_Medium)
 
