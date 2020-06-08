@@ -371,6 +371,8 @@ LeetCode 515 : Find Largest Value in Each Tree Row (89_Medium)
 
 LeetCode 518 : Coin Change 2 (226_Medium)
 
+LeetCode 520 : Detect Capital (200_Easy)
+
 LeetCode 521 : Longest Uncommon Subsequence I (198_Easy)
 
 LeetCode 525 : Contiguous Array (39_Medium)
@@ -650,6 +652,8 @@ LeetCode 1047 : Remove All Adjacent Duplicates In String (153_Easy)
 LeetCode 1051 : Height Checker (103_Easy)
 
 LeetCode 1061 : Lexicographically Smallest Equivalent String (90_Medium)
+
+LeetCode 1071 : Greatest Common Divisor of Strings (201_Easy)
 
 LeetCode 1078 : Occurrences After Bigram (190_Easy)
 
