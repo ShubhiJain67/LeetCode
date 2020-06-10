@@ -159,6 +159,8 @@ LeetCode 145 : Binary Tree Postorder Traversal (18_Hard)
 
 LeetCode 146 : LRU Cache (74_Medium)
 
+LeetCode 147 : Insertion Sort List (233_Medium)
+
 LeetCode 148 : Sort List (140_Medium)
 
 LeetCode 150 : Evaluate Reverse Polish Notation (188_Medium)
@@ -329,11 +331,15 @@ LeetCode 421 : Maximum XOR of Two Numbers in an Array (113_Medium)
 
 LeetCode 429 : N-ary Tree Level Order Traversal (26_Medium)
 
+LeetCode 430 : Flatten a Multilevel Doubly Linked List (232_Medium)
+
 LeetCode 434 : Number of Segments in a String (194_Easy)
 
 LeetCode 438 : Find All Anagrams in a String (158_Medium)
 
 LeetCode 441 : Arranging Coins (43_Easy)
+
+LeetCode 445 : Add Two Numbers II (230_Medium)
 
 LeetCode 448 : Find All Numbers Disappeared in an Array (55_Easy)
 
@@ -518,6 +524,8 @@ LeetCode 809 : Expressive Words (123_Medium)
 LeetCode 814 : Binary Tree Pruning (120_Medium)
 
 LeetCode 815 : Bus Routes (15_Hard)
+
+LeetCode 817 : Linked List Components (231_Medium)
 
 LeetCode 824 : Goat Latin (97_Easy)
 
