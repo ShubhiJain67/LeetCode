@@ -27,6 +27,8 @@ LeetCode 23 : Merge k Linked Lists (7_Hard)
 
 LeetCode 24 : Swap Nodes In Pairs (18_Medium)
 
+LeetCode 25. Reverse Nodes in k-Group (27_Hard)
+
 LeetCode 28 : Implement strStr() (73_Easy)
 
 LeetCode 33 : Search in Rotated Sorted Array (21_Medium)
@@ -103,6 +105,8 @@ LeetCode 90 : SubsetsII (168_Medium)
 
 LeetCode 91 : Decode Ways (57_Medium)
 
+LeetCode 92 :  Reverse Linked List II (235_Medium)
+
 LeetCode 94 : Binary Tree Inorder Traversal (33_Medium)
 
 LeetCode 96 : Unique BST (17_Medium)
@@ -150,6 +154,8 @@ LeetCode 129 : Sum Root To Leaf Numbers (19_Medium)
 LeetCode 130 : Surrounded Regions (45_Medium)
 
 LeetCode 137 : Single Number II (12_Medium)
+
+LeetCode 142 : Linked List Cycle II (234_Medium)
 
 LeetCode 143 : Reorder List (104_Medium)
 
