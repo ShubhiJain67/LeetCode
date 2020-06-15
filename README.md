@@ -299,6 +299,8 @@ LeetCode 367 : Valid Perfect Square (96_Easy)
 
 LeetCode 371 : Sum of Two Integers (34_Medium)
 
+LeetCode 374 : Guess Number Higher or Lower (206_Easy)
+
 LeetCode 378 : Kth Smallest Element in a Sorted Matrix (146_Medium)
 
 LeetCode 380 : Insert Delete GetRandom O(1) (185_Medium)
@@ -534,6 +536,8 @@ LeetCode 814 : Binary Tree Pruning (120_Medium)
 LeetCode 815 : Bus Routes (15_Hard)
 
 LeetCode 817 : Linked List Components (231_Medium)
+
+LeetCode 821 : Shortest Distance to a Character (204_Easy)
 
 LeetCode 824 : Goat Latin (97_Easy)
 
@@ -779,6 +783,8 @@ LeetCode 1338 : Reduce Array Size to The Half (210_Medium)
 
 LeetCode 1342 : Number of Steps to Reduce a Number to Zero (34_Easy)
 
+LeetCode 1343 : Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold (236_Medium)
+
 LeetCode 1344 : Angle Between Hands of a Clock (145_Medium)
 
 LeetCode 1346 : Check If N and Its Double Exist (99_Easy)
@@ -852,6 +858,8 @@ LeetCode 1460. Make Two Arrays Equal by Reversing Sub-arrays (182_Easy)
 LeetCode 1464 : Maximum Product of Two Elements in an Array (183_Easy)
 
 LeetCode 1465 : Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts (217_Medium)
+
+LeetCode 1480 : Running Sum of 1d Array (205_Easy)
 
 GeeksForGeeks : Binary Tree To DLL (25_Hard)
 
