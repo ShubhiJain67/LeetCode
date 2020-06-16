@@ -99,6 +99,10 @@ LeetCode 79 : Word Search (80_Medium)
 
 LeetCode 81 : Search in Rotated Sorted Array II (116_Medium)
 
+LeetCode 82 : Remove Duplicates from Sorted List II (237_Medium)
+
+LeetCode 86 : Partition List (238_Medium)
+
 LeetCode 89 : Gray Code (156_Medium)
 
 LeetCode 90 : SubsetsII (168_Medium)
@@ -277,6 +281,8 @@ LeetCode 326 : Power of Three (72_Easy)
 
 LeetCode 328 : Odd Even LinkedList (25_Medium)
 
+LeetCode 331 : Verify Preorder Serialization of a Binary Tree (240_Medium)
+
 LeetCode 334 : Increasing Triplet Subsequence (100_Medium)
 
 LeetCode 338 : Counting Bits (35_Medium)
@@ -361,6 +367,8 @@ LeetCode 461 : Hamming Distance (27_Easy)
 
 LeetCode 463 : Perimeter of Island (47_Medium)
 
+LeetCode 468 : Validate IP Address (242_Medium)
+
 LeetCode 476 : Number Complement (29_Easy)
 
 LeetCode 477 : Total Hamming Distance (36_Medium)
@@ -372,6 +380,8 @@ LeetCode 494 : Target Sum (84_Medium)
 LeetCode 496 : Next Greater Element (19_Easy)
 
 LeetCode 500 : Keyboard Row (106_Easy)
+
+LetCode 503 : Next Greater Element II (241_Medium)
 
 LeetCode 504 : Base 7 (87_Easy)
 
@@ -552,6 +562,8 @@ LeetCode 844 : Backspace String Compare (20_Easy)
 LeetCode 848 : Shifting Letter (37_Medium)
 
 LeetCode 852 : Peak Index in a Mountain Array (102_Easy)
+
+LeetCode 856 : Score of Parentheses (239_Medium)
 
 LeetCode 859 : Buddy Strings (61_Easy)
 
