@@ -659,6 +659,8 @@ LeetCode 1009 : Complement of Base 10 Integer (114_Easy)
 
 LeetCode 1011 : Capacity To Ship Packages Within D Days (163_Medium)
 
+LeetCode 1013 : Partition Array Into Three Parts With Equal Sum (208_Easy)
+
 LeetCode 1016 : Binary String With Substrings Representing 1 To N (109_Medium)
 
 LeetCode 1019 : Next Greater Node In Linked List (221_Medium)
@@ -696,6 +698,8 @@ LeetCode 1091 : Shortest Path in Binary Matrix (54_Medium)
 LeetCode 1110 : Delete Nodes And Return Forest (202_Medium)
 
 LeetCode 1108 : Defanging an IP Address (80_Easy)
+
+LeetCode 1122 : Relative Sort Array (209_Easy)
 
 LeetCode 1123 : Lowest Common Ancestor of Deepest Leaves (191_Medium)
 
@@ -870,6 +874,8 @@ LeetCode 1460. Make Two Arrays Equal by Reversing Sub-arrays (182_Easy)
 LeetCode 1464 : Maximum Product of Two Elements in an Array (183_Easy)
 
 LeetCode 1465 : Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts (217_Medium)
+
+LeetCode 1475 : Final Prices With a Special Discount in a Shop (207_Easy)
 
 LeetCode 1480 : Running Sum of 1d Array (205_Easy)
 
