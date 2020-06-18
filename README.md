@@ -31,6 +31,8 @@ LeetCode 25. Reverse Nodes in k-Group (27_Hard)
 
 LeetCode 28 : Implement strStr() (73_Easy)
 
+LeetCode 32 : Longest Valid Parentheses (28_Hard)
+
 LeetCode 33 : Search in Rotated Sorted Array (21_Medium)
 
 LeetCode 34 : Find First and Last Position of Element in Sorted Array (99_Medium)
@@ -508,6 +510,8 @@ LeetCode 725 : Split Linked List in Parts (20_Medium)
 LeetCode 728 : Self Dividing Numbers (50_Easy)
 
 LeetCode 733 : Flood Fill (118_Easy)
+
+LeetCode 735 : Asteroid Collision (243_Medium)
 
 LeetCode 739 : Daily Temperatures (77_Medium)
 
