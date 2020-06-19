@@ -325,6 +325,8 @@ LeetCode 388 : Longest Absolute File Path (83_Medium)
 
 LeetCode 389 : Find the Difference (25_Easy)
 
+LeetCode 394 : Decode String (244_Meidum)
+
 LeetCode 397 : Integer Replacement (38_Medium)
 
 LeetCode 401 : Binary Watch (95_Easy)
