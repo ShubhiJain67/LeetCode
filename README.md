@@ -103,6 +103,10 @@ LeetCode 81 : Search in Rotated Sorted Array II (116_Medium)
 
 LeetCode 82 : Remove Duplicates from Sorted List II (237_Medium)
 
+LeetCode 84 : Largest Rectangle in Histogram (29_Hard)
+
+LeetCode 85 : Maximal Rectangle (30_Hard)
+
 LeetCode 86 : Partition List (238_Medium)
 
 LeetCode 89 : Gray Code (156_Medium)
