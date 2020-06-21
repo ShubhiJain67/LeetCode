@@ -51,6 +51,8 @@ LeetCode 40 : Combination Sum II (149_Medium)
 
 LeetCode 41 : First Missing Positive (14_Hard)
 
+LeetCode 42 : Trapping Rain Water (31_Hard)
+
 LeetCode 43 : Multiply Strings (62_Medium)
 
 LeetCode 44 : Wildcard Matching (21_Hard)
@@ -276,6 +278,8 @@ LeetCode 303 : Range Sum Query - Immutable (136_Easy)
 LeetCode 307 : Range Sum Query - Mutable (136_Medium)
 
 LeetCode 315 : Count of Smaller Numbers After Self (12_Hard)
+
+LeetCode 316 : Remove Duplicate Letters (32_Hard)
 
 LeetCode 318 : Maximum Product of Word Lengths (114_Medium)
 
@@ -667,6 +671,8 @@ LeetCode 1003 : Check If Word Is Valid After Substitutions (223_Medium)
 
 LeetCode 1009 : Complement of Base 10 Integer (114_Easy)
 
+LeetCode 1010 : Pairs of Songs With Total Durations Divisible by 60 (210_Easy)
+
 LeetCode 1011 : Capacity To Ship Packages Within D Days (163_Medium)
 
 LeetCode 1013 : Partition Array Into Three Parts With Equal Sum (208_Easy)
@@ -702,6 +708,8 @@ LeetCode 1071 : Greatest Common Divisor of Strings (201_Easy)
 LeetCode 1078 : Occurrences After Bigram (190_Easy)
 
 LeetCode 1079 : Letter Tile Possibilities (154_Medium)
+
+LeetCode 1081 : Smallest Subsequence of Distinct Characters (245_Meidum)
 
 LeetCode 1091 : Shortest Path in Binary Matrix (54_Medium)
 
@@ -888,6 +896,8 @@ LeetCode 1465 : Maximum Area of a Piece of Cake After Horizontal and Vertical Cu
 LeetCode 1475 : Final Prices With a Special Discount in a Shop (207_Easy)
 
 LeetCode 1480 : Running Sum of 1d Array (205_Easy)
+
+LeetCode 1486 : XOR Operation in an Array (211_Easy)
 
 GeeksForGeeks : Binary Tree To DLL (25_Hard)
 
