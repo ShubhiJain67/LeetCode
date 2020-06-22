@@ -831,6 +831,8 @@ LeetCode 1352 : Product of the Last K Numbers (215_Medium)
 
 LeetCode 1356 : Sort Integers by The Number of 1 Bits (94_Easy)
 
+LeetCode 1361 : Validate Binary Tree Nodes (246_Medium)
+
 LeetCode 1365 : How Many Numbers Are Smaller Than the Current Number (48_Easy)
 
 LeetCode 1367 : Linked List in Binary Tree (190_Medium)
@@ -846,6 +848,8 @@ LeetCode 1380 : Lucky Numbers in a Matrix (85_Easy)
 LeetCode 1381 : Design a Stack With Increment Operation (187_Medium)
 
 LeetCode 1385 : Find the Distance Value Between Two Arrays (148_Easy)
+
+LeetCode 1387 : Sort Integers by The Power Value (247_Medium)
 
 LeetCode 1389 : Create Target Array in the Given Order (77_Easy)
 
