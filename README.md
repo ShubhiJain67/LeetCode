@@ -87,6 +87,8 @@ LeetCode 61 : Rotate List (Medium)
 
 LeetCode 67 : Add Binary (16_Easy)
 
+LeetCode 70 : Climbing Stairs (214_Easy)
+
 LeetCode 71 : Simplify Path (186_Medium)
 
 LeetCode 73 : Set Matrix Zeroes (135_Medium)
@@ -528,6 +530,8 @@ LeetCode 739 : Daily Temperatures (77_Medium)
 LeetCode 743 : Network Delay Time (127_Medium)
 
 LeetCode 744 : Find Smallest Letter Greater Than Target (173_Easy)
+
+LeetCode 746 : Min Cost Climbing Stairs (215_Easy)
 
 LeetCode 762 : Prime Number of Set Bits in Binary Representation (31_Easy)
 
