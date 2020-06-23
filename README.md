@@ -665,6 +665,8 @@ LeetCode 994 : Rotting Oranges (10_Medium)
 
 LeetCode 997 : Find the Town Judge (41_Easy)
 
+LeetCode 999 : Available Captures for Rook (212_Easy)
+
 LeetCode 1002 : Find Common Characters (123_Easy)
 
 LeetCode 1003 : Check If Word Is Valid After Substitutions (223_Medium)
@@ -710,6 +712,8 @@ LeetCode 1078 : Occurrences After Bigram (190_Easy)
 LeetCode 1079 : Letter Tile Possibilities (154_Medium)
 
 LeetCode 1081 : Smallest Subsequence of Distinct Characters (245_Meidum)
+
+LeetCode 1089 : Duplicate Zeros (213_Easy)
 
 LeetCode 1091 : Shortest Path in Binary Matrix (54_Medium)
 
