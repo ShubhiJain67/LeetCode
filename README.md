@@ -85,6 +85,8 @@ LeetCode 59 : Spiral Matrix II (122_Medium)
 
 LeetCode 61 : Rotate List (Medium)
 
+LeetCode 64 : Minimum Path Sum (248_Medium)
+
 LeetCode 67 : Add Binary (16_Easy)
 
 LeetCode 70 : Climbing Stairs (214_Easy)
@@ -920,6 +922,10 @@ GeeksForGeeks : Card Rotation (1_Medium)
 GeeksForGeeks : Diagonal Traversal of Binary Tree (205_Medium)
 
 GeeksForGeeks : Delete Duplicate Linked List (3_Medium)
+
+GeeksForGeeks : Friends Pairing Problem (216_Easy)
+
+GeeksForGeeks : Gold Mine Problem (217_Easy)
 
 GeeksForGeeks : Inorder Traversal (2_Basic)
 
