@@ -493,6 +493,8 @@ LeetCode 682 : Baseball Game (141_Easy)
 
 LeetCode 684 : Redundant Connection (69_Medium)
 
+LeetCode 687 : Longest Univalue Path (218_Easy)
+
 LeetCode 690 : Employee Importance (68_Easy)
 
 LeetCode 692 : Top K Frequent Words (160_Medium)
@@ -662,6 +664,8 @@ LeetCode 977 : Squares of a Sorted Array (117_Easy)
 LeetCode 985 : Sum of Even Numbers After Queries (131_Easy)
 
 LeetCode 986 : Interval List Intersections (189_Medium)
+
+LeetCode 988 : Smallest String Starting From Leaf (249_Medium)
 
 LeetCode 989 : Add Array as Integer (44_Easy)
 
