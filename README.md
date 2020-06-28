@@ -931,6 +931,8 @@ GeeksForGeeks : Card Rotation (1_Medium)
 
 GeeksForGeeks : Count Palindromic Subsequences (253_Medium)
 
+GeeksForGeeks : Count Palindrome Sub-Strings of a String (254_Medium)
+
 GeeksForGeeks : Diagonal Traversal of Binary Tree (205_Medium)
 
 GeeksForGeeks : Delete Duplicate Linked List (3_Medium)
