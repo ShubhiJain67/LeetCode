@@ -7,6 +7,8 @@ LeetCode 2 : Add Two Numbers (96_Medium)
 
 LeetCode 3 : Longest Substring Without Repeating Characters (214_Medium)
 
+LeetCode 5 : Longest Palindromic Substring (251_Medium)
+
 LeetCode 6 : ZigZag Converation (15_Medium)
 
 LeetCode 7 : Reverse Integer (174_Easy)
@@ -154,6 +156,8 @@ LeetCode 112 : Path Sum (152_Easy)
 LeetCode 113 : Path Sum II (173_Medium)
 
 LeetCode 114 : Flatten Binary Tree to Linked List (14_Medium)
+
+LeetCode 115 : Distinct Subsequences (33_Hard)
 
 LeetCode 116 : Populating Next Right Pointers in Each Node (211_Medium)
 
@@ -410,6 +414,8 @@ LeetCode 509 : Fibonacci Number (132_Easy)
 LeetCode 513 : Find Bottom Left Tree Value (88_Medium)
 
 LeetCode 515 : Find Largest Value in Each Tree Row (89_Medium)
+
+leetCode 516 : Longest Palindromic Subsequence (252_Medium)
 
 LeetCode 518 : Coin Change 2 (226_Medium)
 
@@ -922,6 +928,8 @@ GeeksForGeeks : Binary Tree To DLL (25_Hard)
 GeeksForGeeks : Bottom View of Binary Tree (203_Medium)
 
 GeeksForGeeks : Card Rotation (1_Medium)
+
+GeeksForGeeks : Count Palindromic Subsequences (253_Medium)
 
 GeeksForGeeks : Diagonal Traversal of Binary Tree (205_Medium)
 
