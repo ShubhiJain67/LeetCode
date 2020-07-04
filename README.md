@@ -145,11 +145,15 @@ LeetCode 105 : Construct Binary Tree from Preorder and Inorder Traversal (94_Med
 
 LeetCode 106 : Construct Binary Tree from Inorder and Postorder Traversal (159_Medium)
 
+LeetCode 107. Binary Tree Level Order Traversal II (220_Easy)
+
 LeetCode 108 : Convert Sorted Array to Binary Search Tree (71_Easy)
 
 LeetCode 109 : Convert Sorted List to Binary Search Tree (165_Medium)
 
 LeetCode 110 : Balanced Binary Tree (88_Easy)
+
+LeetCode 111 : Minimum Depth of Binary Tree (224_Easy)
 
 LeetCode 112 : Path Sum (152_Easy)
 
@@ -281,6 +285,8 @@ LeetCode 290 : Word Pattern (58_Easy)
 
 LeetCode 292 : Nim Game (154_Easy)
 
+LeetCode 300 : Longest Increasing Subsequence (256_Medium)
+
 LeetCode 303 : Range Sum Query - Immutable (136_Easy)
 
 LeetCode 307 : Range Sum Query - Mutable (136_Medium)
@@ -401,7 +407,7 @@ LeetCode 496 : Next Greater Element (19_Easy)
 
 LeetCode 500 : Keyboard Row (106_Easy)
 
-LetCode 503 : Next Greater Element II (241_Medium)
+LeetCode 503 : Next Greater Element II (241_Medium)
 
 LeetCode 504 : Base 7 (87_Easy)
 
@@ -455,6 +461,8 @@ LeetCode 566 : Reshape the Matrix (170_Easy)
 
 LeetCode 567 : Permutation in String (169_Medium)
 
+LeetCode 590 : N-ary Tree Preorder Traversal (225_Easy)
+
 LeetCode 590 : N-ary Tree Postorder Traversal (107_Easy)
 
 LeetCode 605 : Can Place Flowers (67_Easy)
@@ -473,6 +481,8 @@ LeetCode 623 : Add One Row to Tree (201_Medium)
 
 LeetCode 628 : Maximum Product of Three Numbers (140_Easy)
 
+LeetCode 637 : Average of Levels in Binary Tree (223_Easy)
+
 LeetCode 641 : Design Circular Deque (174_Medium)
 
 LeetCode 645 : Set Mismatch (159_Easy)
@@ -490,6 +500,8 @@ LeetCode 665 : Non-decreasing Array (62_Easy)
 LeetCode 669 : Trim a Binary Search Tree (165_Easy)
 
 LeetCode 671 : Second Minimum Node In a Binary Tree (172_Easy)
+
+LeetCode 673 : Number of Longest Increasing Subsequence (257_Medium)
 
 LeetCode 674 : Longest Continuous Increasing Subsequence (179_Easy)
 
@@ -704,6 +716,10 @@ LeetCode 1021 : Remove Outermost Parentheses (119_Easy)
 LeetCode 1022 : Sum of Root To Leaf Binary Numbers (126_Easy)
 
 LeetCode 1023 : Camelcase Matching (75_Medium)
+
+LeetCode 1025 : Divisor Game (219_Easy)
+
+LeetCode 1027 : Longest Arithmetic Sequence (258_Medium)
 
 LeetCode 1029 : Two City Scheduling (192_Easy)
 
@@ -943,7 +959,11 @@ GeeksForGeeks : Gold Mine Problem (217_Easy)
 
 GeeksForGeeks : Inorder Traversal (2_Basic)
 
+GeeksForGeeks : Longest Bitonic subsequence  (255_Medium)
+
 GeeksForGeeks : Maximum path sum (164_Easy)
+
+GeeksForGeeks : Maximum Sum Bitonic Subsequence (221_Easy)
 
 GeeksForGeeks : Mirror Tree (180_Easy)
 
