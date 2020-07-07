@@ -229,6 +229,8 @@ LeetCode 207 : Course Schedule (63_Medium)
 
 LeetCode 208 : Implement Trie (Prefix Tree) (71_Medium)
 
+LeetCode 209 : Minimum Size Subarray Sum (262_Medium)
+
 LeetCode 210 : Course Schedule 2 (64_Medium)
 
 LeetCode 211 : Add and Search Word - Data structure design (70_Medium)
@@ -363,6 +365,8 @@ LeetCode 409 : Longest Palindrome (186_Easy)
 
 LeetCode 412 : Fizz Buzz (69_Easy)
 
+LeetCode 413 : Arithmetic Slices (260_Medium)
+
 LeetCode 414 : Third Maximum Number (47_Easy)
 
 LeetCode 415 : Add Strings (42_Easy)
@@ -461,9 +465,11 @@ LeetCode 566 : Reshape the Matrix (170_Easy)
 
 LeetCode 567 : Permutation in String (169_Medium)
 
-LeetCode 590 : N-ary Tree Preorder Traversal (225_Easy)
+LeetCode 589 : N-ary Tree Preorder Traversal (225_Easy)
 
 LeetCode 590 : N-ary Tree Postorder Traversal (107_Easy)
+
+LeetCode 594 : Longest Harmonious Subsequence (226_Easy)
 
 LeetCode 605 : Can Place Flowers (67_Easy)
 
@@ -537,6 +543,8 @@ LeetCode 707 : Design Linked List (86_Medium)
 
 LeetCode 709 : To Lower Case (76_Easy)
 
+LeetCode 718 : Maximum Length of Repeated Subarray (261_Meidum)
+
 LeetCode 724 : Find Pivot Index (161_Easy)
 
 LeetCode 725 : Split Linked List in Parts (20_Medium)
@@ -580,6 +588,8 @@ LeetCode 804 : Unique Morse Code Words (109_Easy)
 LeetCode 807 : Max Increase to Keep City Skyline (102_Medium)
 
 LeetCode 809 : Expressive Words (123_Medium)
+
+LeetCode 813 : Largest Sum of Averages (259_Medium)
 
 LeetCode 814 : Binary Tree Pruning (120_Medium)
 
@@ -938,6 +948,8 @@ LeetCode 1475 : Final Prices With a Special Discount in a Shop (207_Easy)
 LeetCode 1480 : Running Sum of 1d Array (205_Easy)
 
 LeetCode 1486 : XOR Operation in an Array (211_Easy)
+
+LeetCode 1491 : Average Salary Excluding the Minimum and Maximum Salary (227_Easy)
 
 GeeksForGeeks : Binary Tree To DLL (25_Hard)
 
