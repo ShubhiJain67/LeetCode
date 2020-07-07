@@ -669,6 +669,8 @@ LeetCode 922 : Sort Array By Parity II (188_Easy)
 
 LeetCode 925 : Long Pressed Name (115_Easy)
 
+LeetCode 931 : Minimum Falling Path Sum (263_Medium)
+
 LeetCode 938 : Range Sum of BST (78_Easy)
 
 LeetCode 942 : DI String Match (128_Easy)
