@@ -747,6 +747,8 @@ LeetCode 1047 : Remove All Adjacent Duplicates In String (153_Easy)
 
 LeetCode 1051 : Height Checker (103_Easy)
 
+LeetCode 1054 : Distant Barcodes (264_Medium)
+
 LeetCode 1061 : Lexicographically Smallest Equivalent String (90_Medium)
 
 LeetCode 1071 : Greatest Common Divisor of Strings (201_Easy)
