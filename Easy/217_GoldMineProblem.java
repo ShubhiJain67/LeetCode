@@ -1,73 +1,109 @@
-/*package whatever //do not write package name here */
+public class GoldMine {
+    public static void main(String[] args) {
+        int maze[][]={{1, 3, 1, 5},{2, 2, 4, 1},{5, 0, 2, 3},{0, 6, 1, 2}};
+        int n=maze.length,m=maze[0].length;
+        memo=new int[n][m];
+        for(int i=0;i<memo.length;i++)
+            for(int j=0;j<memo[0].length;j++)
+                memo[i][j]=Integer.MIN_VALUE;
+        System.out.println(mine(maze));
+        System.out.println(mineMemo(maze));
+        System.out.println(mineDP(maze));
+        System.out.println(mine2Array(maze));
+    }
+    
+    private static int mine(int maze[][]){
+        int ans=0;
+        for(int i=0;i<maze.length;i++){
+            ans=Math.max(ans,mineCall(maze,i,0,maze.length,maze[0].length));
+        }
+        return ans;
+    }
+    
+    private static int mineCall(int maze[][],int si,int sj,int n,int m){
+        if(sj==m-1)
+            return maze[si][sj];
+        int val=mineCall(maze,si,sj+1,n,m);
+        if(si-1>=0)
+            val=Math.max(val,mineCall(maze,si-1,sj+1,n,m));            
+        if(si+1<n)
+            val=Math.max(val,mineCall(maze,si+1,sj+1,n,m));
+        val+=maze[si][sj];
+        return val;
+    }
+    
+    private static int memo[][];
+    
+    private static int mineMemo(int maze[][]){
+        int ans=0;
+        for(int i=0;i<maze.length;i++){
+            ans=Math.max(ans,mineMemoCall(maze,i,0,maze.length,maze[0].length));
+        }
+        return ans;
+    }
+    
+    private static int mineMemoCall(int maze[][],int si,int sj,int n,int m){
+        if(memo[si][sj]!=Integer.MIN_VALUE)
+            return memo[si][sj];
+        if(sj==m-1){
+            memo[si][sj]=maze[si][sj];
+            return maze[si][sj];
+        }
+        int val=memo[si][sj+1]!=Integer.MIN_VALUE?memo[si][sj+1]:mineMemoCall(maze,si,sj+1,n,m);
+        if(si-1>=0)
+            val=Math.max(val,memo[si-1][sj+1]!=Integer.MIN_VALUE?memo[si-1][sj+1]:mineMemoCall(maze,si-1,sj+1,n,m));
+        if(si+1<n)
+            val=Math.max(val,memo[si+1][sj+1]!=Integer.MIN_VALUE?memo[si+1][sj+1]:mineMemoCall(maze,si+1,sj+1,n,m));
+        memo[si][sj]=val+maze[si][sj];
+        return memo[si][sj];
+    }
 
-import java.util.*;
-import java.lang.*;
-import java.io.*;
+    private static int mineDP(int maze[][]){
+        int n=maze.length,m=maze[0].length,ans=0;
+        int dp[][]=new int[n][m];
+        for(int j=m-1;j>=0;j--){
+            for(int i=0;i<n;i++){
+                if(j==m-1)
+                    dp[i][j]=maze[i][j];
+                else{
+                    dp[i][j]=dp[i][j+1];
+                    if(i-1>=0)
+                        dp[i][j]=Math.max(dp[i][j],dp[i-1][j+1]);
+                    if(i+1<n)
+                        dp[i][j]=Math.max(dp[i][j],dp[i+1][j+1]);
+                    dp[i][j]+=maze[i][j];
+                }
+                if(j==0){
+                    ans=Math.max(ans,dp[i][j]);
+                }
+            }
+        }
+        return ans;
+    }
 
-class GFG {
-	public static void main (String[] args) {
-		Scanner sc=new Scanner(System.in);
-		int test=sc.nextInt();
-		while(test-->0){
-		    int n=sc.nextInt();
-		    int m=sc.nextInt();
-		    int grid[][]=new int[n][m];
-		    dp=new int[n][m];
-		    for(int i=0;i<n;i++){
-		        for(int j=0;j<m;j++){
-		            grid[i][j]=sc.nextInt();
-		        }
-		    }
-		    System.out.println(Iter(grid));
-		}
-	}
-	static int dp[][];
-	private static int EveryRow(int [][] grid){
-	    int max=0;
-	    for(int i=0;i<grid.length;i++){
-	        dp[i][0]=Rec(grid,i,0,grid.length-1,grid[0].length-1);
-	        if(max<dp[i][0])
-	            max=dp[i][0];
-	   }
-	   return max;
-	}
-	private static int Rec(int [][] grid,int si,int sj,int ei,int ej){
-	    if(si<0 || si>ei || sj>ej)
-	        return 0;
-	   if(dp[si][sj]!=0)
-	        return dp[si][sj];
-	    int TopRight=Rec(grid,si-1,sj+1,ei,ej);
-	    int Right=Rec(grid,si,sj+1,ei,ej);
-	    int BottomRight=Rec(grid,si+1,sj+1,ei,ej);
-	    dp[si][sj]=grid[si][sj]+Math.max(TopRight,Math.max(BottomRight,Right));
-	    return dp[si][sj];
-	}
-	private static int Iter(int grid[][]){
-	    int ei=grid.length-1;
-	    int ej=grid[0].length-1;
-	    for(int j=ej;j>=0;j--){
-	        for(int i=ei;i>=0;i--){
-	            if(j==ej){
-	                dp[i][j]=grid[i][j];
-	                continue;
-	            }
-	           else{
-	               int dir[][]={{-1,1},{0,1},{1,1}};
-	               int currMax=0;
-	               for(int d[]:dir){
-	                   int x=i+d[0];
-	                   int y=j+d[1];
-	                   if(x>=0 && y>=0 && x<=ei && y<=ej)
-	                        currMax=Math.max(currMax,dp[x][y]);
-	               }
-	               dp[i][j]=grid[i][j]+currMax;	 
-	           }
-	        }
-	   }
-	   int max=0;
-	   for(int i=ei;i>=0;i--){
-	       max=Math.max(max,dp[i][0]);
-	   }
-	   return max;
-	}
+    private static int mine2Array(int maze[][]){
+        int n=maze.length,m=maze[0].length,ans=0;
+        int dp1[]=new int[n];
+        int dp2[]=new int[n];
+        for(int j=m-1;j>=0;j--){
+            for(int i=0;i<n;i++){
+                if(j==m-1)
+                    dp1[i]=maze[i][j];
+                else{
+                    dp1[i]=dp2[i];
+                    if(i-1>=0)
+                        dp1[i]=Math.max(dp1[i],dp2[i-1]);
+                    if(i+1<n)
+                        dp1[i]=Math.max(dp1[i],dp2[i+1]);
+                    dp1[i]+=maze[i][j];
+                }
+                if(j==0){
+                    ans=Math.max(ans,dp1[i]);
+                }
+            }
+            dp2=dp1;
+            dp1=new int[n];
+        }
+        return ans;
+    }
 }
