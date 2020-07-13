@@ -961,6 +961,8 @@ GeeksForGeeks : Bottom View of Binary Tree (203_Medium)
 
 GeeksForGeeks : Card Rotation (1_Medium)
 
+GeeksForGeeks : Count number of ways to partition a set into k subsets (265_Medium)
+
 GeeksForGeeks : Count Palindromic Subsequences (253_Medium)
 
 GeeksForGeeks : Count Palindrome Sub-Strings of a String (254_Medium)
