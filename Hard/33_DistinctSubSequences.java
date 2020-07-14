@@ -23,4 +23,25 @@ class Solution {
             dp[si][ti]+=max(s,t,si+1,ti+1); 
         return dp[si][ti];
     }
+    private int maxDP(String s,String t){
+        int n=s.length(),m=t.length();
+        int dp[][]=new int[n+1][m+1];
+        for(int si=n;si>=0;si--){
+            for(int ti=m;ti>=0;ti--){
+                if(ti==t.length()){
+                    dp[si][ti]=1;
+                    continue;
+                }
+                if(s.length()-si < t.length()-ti || si>=s.length() || ti>=t.length()){
+                    dp[si][ti]=0;
+                    continue;
+                }
+                dp[si][ti]=dp[si+1][ti];
+                if(s.charAt(si)==t.charAt(ti))
+                    dp[si][ti]+=dp[si+1][ti+1];
+            }
+        }
+        
+        return dp[0][0];
+    }
 }
