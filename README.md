@@ -331,6 +331,8 @@ LeetCode 367 : Valid Perfect Square (96_Easy)
 
 LeetCode 371 : Sum of Two Integers (34_Medium)
 
+LeetCode 373 : Find K Pairs with Smallest Sums (266_Medium)
+
 LeetCode 374 : Guess Number Higher or Lower (206_Easy)
 
 LeetCode 378 : Kth Smallest Element in a Sorted Matrix (146_Medium)
