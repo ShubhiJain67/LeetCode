@@ -173,6 +173,8 @@ LeetCode 122 : Best Time to Buy and Sell Stock II (39_Easy)
 
 LeetCode 124 : Binary Tree Maximum Path Sum (13_Hard)
 
+LeetCode 128 : Longest Consecutive Sequence (34_Hard)
+
 LeetCode 129 : Sum Root To Leaf Numbers (19_Medium)
 
 LeetCode 130 : Surrounded Regions (45_Medium)
