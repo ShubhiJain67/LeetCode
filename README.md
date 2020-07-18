@@ -289,6 +289,8 @@ LeetCode 290 : Word Pattern (58_Easy)
 
 LeetCode 292 : Nim Game (154_Easy)
 
+LeetCode 295 : Find Median from Data Stream (35_Hard)
+
 LeetCode 300 : Longest Increasing Subsequence (256_Medium)
 
 LeetCode 303 : Range Sum Query - Immutable (136_Easy)
