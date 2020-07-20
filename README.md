@@ -95,6 +95,8 @@ LeetCode 70 : Climbing Stairs (214_Easy)
 
 LeetCode 71 : Simplify Path (186_Medium)
 
+LeetCode 72 : Edit Distance (37_Hard)
+
 LeetCode 73 : Set Matrix Zeroes (135_Medium)
 
 LeetCode 74 : Search a 2D Matrix (76_Medium)
@@ -367,6 +369,8 @@ LeetCode 405 : Convert a Number to Hexadecimal (93_Easy)
 
 LeetCode 406 : Queue Reconstruction by Height (227_Medium)
 
+LeetCode 407 : Trapping Rain Water II (36_Hard)
+
 LeetCode 409 : Longest Palindrome (186_Easy)
 
 LeetCode 412 : Fizz Buzz (69_Easy)
@@ -471,6 +475,8 @@ LeetCode 566 : Reshape the Matrix (170_Easy)
 
 LeetCode 567 : Permutation in String (169_Medium)
 
+LeetCode 583 : Delete Operation for Two Strings (267_Medium)
+
 LeetCode 589 : N-ary Tree Preorder Traversal (225_Easy)
 
 LeetCode 590 : N-ary Tree Postorder Traversal (107_Easy)
@@ -548,6 +554,8 @@ LeetCode 706 : Design HashMap (156_Easy)
 LeetCode 707 : Design Linked List (86_Medium)
 
 LeetCode 709 : To Lower Case (76_Easy)
+
+LeetCode 712 : Minimum ASCII Delete Sum for Two Strings (268_Medium)
 
 LeetCode 718 : Maximum Length of Repeated Subarray (261_Meidum)
 
