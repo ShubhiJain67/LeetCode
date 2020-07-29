@@ -799,6 +799,8 @@ LeetCode 1161 : Maximum Level Sum of a Binary Tree (128_Medium)
 
 LeetCode 1170 : Compare Strings by Frequency of the Smallest Character (178_Easy)
 
+LeetCode 1175 : Prime Arrangements (229_Easy)
+
 LeetCode 1184 : Distance Between Bus Stops (158_Easy)
 
 LeetCode 1189 : Maximum Number of Balloons (86_Medium)
@@ -968,6 +970,8 @@ LeetCode 1480 : Running Sum of 1d Array (205_Easy)
 LeetCode 1486 : XOR Operation in an Array (211_Easy)
 
 LeetCode 1491 : Average Salary Excluding the Minimum and Maximum Salary (227_Easy)
+
+LeetCode 1512 : Number of Good Pairs (228_Easy)
 
 GeeksForGeeks : Binary Tree To DLL (25_Hard)
 
