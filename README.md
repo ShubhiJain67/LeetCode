@@ -971,6 +971,14 @@ LeetCode 1486 : XOR Operation in an Array (211_Easy)
 
 LeetCode 1491 : Average Salary Excluding the Minimum and Maximum Salary (227_Easy)
 
+LeetCode 1492 : The kth Factor of n (269_Medium)
+
+LeetCode 1496 : Path Crossing (230_Easy)
+
+LeetCode 1497 : Check If Array Pairs Are Divisible by k (270_Medium)
+
+LeetCode 1502 : Can Make Arithmetic Progression From Sequence (231_Easy)
+
 LeetCode 1512 : Number of Good Pairs (228_Easy)
 
 GeeksForGeeks : Binary Tree To DLL (25_Hard)
