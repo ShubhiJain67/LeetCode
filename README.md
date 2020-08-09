@@ -17,6 +17,8 @@ LeetCode 11 : Container with most water (5_Medium)
 
 LeetCode 12 : Integer to Roman (30_Medium)
 
+LeetCode 15 : 3Sum (271_Medium)
+
 LeetCode 17 : Letter Combinations of a Phone Number(28_Medium)
 
 LeetCode 19 : Remove Nth Node From End Of List (23_Medium)
@@ -172,6 +174,8 @@ LeetCode 117 : Populating Next Right Pointers in Each Node II (212_Medium)
 LeetCode 121 : Best Time to Buy and Sell Stock (28_Easy)
 
 LeetCode 122 : Best Time to Buy and Sell Stock II (39_Easy)
+
+LeetCode 123 : Best Time to Buy and Sell Stock III (38_Hard)
 
 LeetCode 124 : Binary Tree Maximum Path Sum (13_Hard)
 
