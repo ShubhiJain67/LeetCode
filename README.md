@@ -789,6 +789,8 @@ LeetCode 1122 : Relative Sort Array (209_Easy)
 
 LeetCode 1123 : Lowest Common Ancestor of Deepest Leaves (191_Medium)
 
+LeetCode 1128 : Number of Equivalent Domino Pairs (234_Easy)
+
 LeetCode 1137 : N-th Tribonacci Number (155_Easy)
 
 LeetCode 1138 : Alphabet Board Path (110_Medium)
@@ -816,6 +818,8 @@ LeetCode 1200 : Minimum Absolute Difference (149_Easy)
 LeetCode 1207 : Unique Number of Occurrences (129_Easy)
 
 LeetCode 1209 : Remove All Adjacent Duplicates in String II (176_Medium)
+
+LeetCode 1217 : Minimum Cost to Move Chips to The Same Position (233_Easy)
 
 LeetCode 1219 : Path with Maximum Gold (133_Medium)
 
@@ -984,6 +988,8 @@ LeetCode 1497 : Check If Array Pairs Are Divisible by k (270_Medium)
 LeetCode 1502 : Can Make Arithmetic Progression From Sequence (231_Easy)
 
 LeetCode 1512 : Number of Good Pairs (228_Easy)
+
+Leetcode 1550 : Three Consecutive Odds (232_Easy)
 
 GeeksForGeeks : Binary Tree To DLL (25_Hard)
 
