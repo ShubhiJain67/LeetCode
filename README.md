@@ -31,7 +31,9 @@ LeetCode 23 : Merge k Linked Lists (7_Hard)
 
 LeetCode 24 : Swap Nodes In Pairs (18_Medium)
 
-LeetCode 25. Reverse Nodes in k-Group (27_Hard)
+LeetCode 25 : Reverse Nodes in k-Group (27_Hard)
+
+LeetCode 26 : Remove Duplicates from Sorted Array (235_Easy)
 
 LeetCode 28 : Implement strStr() (73_Easy)
 
