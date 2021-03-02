@@ -993,6 +993,10 @@ LeetCode 1512 : Number of Good Pairs (228_Easy)
 
 Leetcode 1550 : Three Consecutive Odds (232_Easy)
 
+Leetcode 1672 : Richest Customer Wealth (236_Easy)
+
+Leetcode 1773 : Count Items Matching a Rule (237_Easy)
+
 GeeksForGeeks : Binary Tree To DLL (25_Hard)
 
 GeeksForGeeks : Bottom View of Binary Tree (203_Medium)
