@@ -993,9 +993,17 @@ LeetCode 1502 : Can Make Arithmetic Progression From Sequence (231_Easy)
 
 LeetCode 1512 : Number of Good Pairs (228_Easy)
 
+Leetcode 1525 : Number of Good Ways to Split a String (242_Easy)
+
 Leetcode 1550 : Three Consecutive Odds (232_Easy)
 
+Leetcode 1656 : Design an Ordered Stream (239_Easy)
+
 Leetcode 1672 : Richest Customer Wealth (236_Easy)
+
+Leetcode 1720 : Decode XORed Array (241_Easy)
+
+Leetcode 1732 : Find the Highest Altitude (240_Easy)
 
 Leetcode 1773 : Count Items Matching a Rule (237_Easy)
 
