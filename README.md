@@ -997,15 +997,29 @@ Leetcode 1525 : Number of Good Ways to Split a String (242_Easy)
 
 Leetcode 1550 : Three Consecutive Odds (232_Easy)
 
+Leetcode 1598 : Crawler Log Folder (243_Easy)
+
+Leetcode 1603 : Design Parking System (244_Easy)
+
+Leetcode 1614 : Maximum Nesting Depth of the Parentheses (246_Easy)
+
 Leetcode 1656 : Design an Ordered Stream (239_Easy)
 
+Leetcode 1669 : Merge In Between Linked List (272_Medium)
+
 Leetcode 1672 : Richest Customer Wealth (236_Easy)
+
+Leetcode 1678 : Goal Parser Interpretation (245_Easy)
 
 Leetcode 1720 : Decode XORed Array (241_Easy)
 
 Leetcode 1732 : Find the Highest Altitude (240_Easy)
 
 Leetcode 1773 : Count Items Matching a Rule (237_Easy)
+
+Leetcode 1835 : Find XOR Sum of All Pairs Bitwise AND (39_Hard)
+
+Leetcode 1837 : Sum of Digits in Base K (247_Easy)
 
 GeeksForGeeks : Binary Tree To DLL (25_Hard)
 
