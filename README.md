@@ -1023,49 +1023,6 @@ Leetcode 1835 : Find XOR Sum of All Pairs Bitwise AND (39_Hard)
 
 Leetcode 1837 : Sum of Digits in Base K (247_Easy)
 
-GeeksForGeeks : Binary Tree To DLL (25_Hard)
-
-GeeksForGeeks : Bottom View of Binary Tree (203_Medium)
-
-GeeksForGeeks : Card Rotation (1_Medium)
-
-GeeksForGeeks : Count number of ways to partition a set into k subsets (265_Medium)
-
-GeeksForGeeks : Count Palindromic Subsequences (253_Medium)
-
-GeeksForGeeks : Count Palindrome Sub-Strings of a String (254_Medium)
-
-GeeksForGeeks : Diagonal Traversal of Binary Tree (205_Medium)
-
-GeeksForGeeks : Delete Duplicate Linked List (3_Medium)
-
-GeeksForGeeks : Friends Pairing Problem (216_Easy)
-
-GeeksForGeeks : Gold Mine Problem (217_Easy)
-
-GeeksForGeeks : Inorder Traversal (2_Basic)
-
-GeeksForGeeks : Longest Bitonic subsequence  (255_Medium)
-
-GeeksForGeeks : Maximum path sum (164_Easy)
-
-GeeksForGeeks : Maximum Sum Bitonic Subsequence (221_Easy)
-
-GeeksForGeeks : Mirror Tree (180_Easy)
-
-GeeksForGeeks : Missing Number in Array (1_Basic)
-
-GeeksForGeeks : Print Diagonally (2_Medium)
-
-GeeksForGeeks : Set Bits (2_Basic)
-
-GeeksForGeeks : Sort an array of 0s, 1s and 2s (175_Easy)
-
-GeeksForGeeks : Symmetric Tree (6_Medium)
-
-GeeksForGeeks : Top View of Binary Tree (204_Medium)
-
-
 SQL:
 
 LeetCode 184 : Department Highest Salary (_Medium)
