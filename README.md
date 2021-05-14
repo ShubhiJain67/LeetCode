@@ -1,4 +1,4 @@
-# LeetCode
+# DSA
 Various Questions from Geeks for Geeks and Leet Code are covered.
 
 LeetCode 1 : Two Sum (46_Easy)
