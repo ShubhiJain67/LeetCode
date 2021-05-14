@@ -35,6 +35,8 @@ LeetCode 25 : Reverse Nodes in k-Group (27_Hard)
 
 LeetCode 26 : Remove Duplicates from Sorted Array (235_Easy)
 
+LeetCode 27 : Remove Element (180_Easy)
+
 LeetCode 28 : Implement strStr() (73_Easy)
 
 LeetCode 32 : Longest Valid Parentheses (28_Hard)
@@ -271,6 +273,8 @@ LeetCode 235 :  Lowest Common Ancestor of a Binary Search Tree (181_Easy)
 
 LeetCode 236 : Lowest Common Ancestor of a Binary Tree (27_Medium)
 
+LeetCoe 237 : Delete Node in a Linked List (164_Easy)
+
 LeetCode 238 : Product of Array Except Self (41_Medium)
 
 LeetCode 240 : Search a 2D Matrix II (138_Medium)
@@ -460,6 +464,8 @@ LeetCode 532 : K-diff Pairs in an Array (169_Easy)
 LeetCode 537 : Complex Number Multiplication (167_Medium)
 
 LeetCode 540 : Single Element in a Sorted Array (126_Medium)
+
+LeetCode 541 : Reverse String II (175_Easy)
 
 LeetCode 542 : 01 Matrix (56_Medium)
 
