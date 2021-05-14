@@ -1003,6 +1003,8 @@ Leetcode 1603 : Design Parking System (244_Easy)
 
 Leetcode 1614 : Maximum Nesting Depth of the Parentheses (246_Easy)
 
+Leetcode 1641 : Count Sorted Vowel Strings (273_Medium)
+
 Leetcode 1656 : Design an Ordered Stream (239_Easy)
 
 Leetcode 1669 : Merge In Between Linked List (272_Medium)
