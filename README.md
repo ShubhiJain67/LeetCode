@@ -7,15 +7,23 @@ LeetCode 2 : Add Two Numbers (96_Medium)
 
 LeetCode 3 : Longest Substring Without Repeating Characters (214_Medium)
 
+LeetCode 4 : Median of Two Sorted Arrays (40_Hard)
+
 LeetCode 5 : Longest Palindromic Substring (251_Medium)
 
 LeetCode 6 : ZigZag Converation (15_Medium)
 
 LeetCode 7 : Reverse Integer (174_Easy)
 
+LeetCode 9 : Palindrome Number (248_Easy)
+
 LeetCode 11 : Container with most water (5_Medium)
 
 LeetCode 12 : Integer to Roman (30_Medium)
+
+LeetCode 13 : Roman to Integer (249_Easy)
+
+LeetCode 14 : Longest Common Prefix (250_Easy)
 
 LeetCode 15 : 3Sum (271_Medium)
 
@@ -24,6 +32,8 @@ LeetCode 17 : Letter Combinations of a Phone Number(28_Medium)
 LeetCode 19 : Remove Nth Node From End Of List (23_Medium)
 
 LeetCode 20 : Valid Parentheses (56_Easy)
+
+LeetCode 21 : Merge Two Sorted Lists (251_Easy)
 
 LeetCode 22 : Generate Parentheses (93_Medium)
 
