@@ -22,5 +22,4 @@ class BinaryTree
             preOrder(root.right);
         }
     }
-
 }

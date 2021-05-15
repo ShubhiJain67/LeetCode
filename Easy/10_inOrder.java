@@ -24,5 +24,4 @@ class BinaryTree
             inOrder(root.right);
         }
     }
-
 }

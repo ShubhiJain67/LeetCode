@@ -15,7 +15,5 @@ class ArrangeNPeople{
         count+=printNPeople(b+1,boxes,q+1,queens,answer+"b"+b+"q"+q+" ");
         count+=printNPeople(b+1,boxes,q,queens,answer);
         return count;
-
-
     }
 }

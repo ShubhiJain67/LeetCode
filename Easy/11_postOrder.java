@@ -22,5 +22,4 @@ class BinaryTree
             System.out.print(root.data+" ");
         }
     }
-
 }
