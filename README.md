@@ -733,6 +733,8 @@ LeetCode 985 : Sum of Even Numbers After Queries (131_Easy)
 
 LeetCode 986 : Interval List Intersections (189_Medium)
 
+LeetCode 987 : Vertical Order Traversal of a Binary Tree (41_Had)
+
 LeetCode 988 : Smallest String Starting From Leaf (249_Medium)
 
 LeetCode 989 : Add Array as Integer (44_Easy)
