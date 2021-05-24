@@ -1015,6 +1015,8 @@ Leetcode 1525 : Number of Good Ways to Split a String (242_Easy)
 
 Leetcode 1550 : Three Consecutive Odds (232_Easy)
 
+Leetcode 1557 : Minimum Number of Vertices to Reach All Nodes (3_Medium)
+
 Leetcode 1598 : Crawler Log Folder (243_Easy)
 
 Leetcode 1603 : Design Parking System (244_Easy)
@@ -1036,6 +1038,8 @@ Leetcode 1720 : Decode XORed Array (241_Easy)
 Leetcode 1732 : Find the Highest Altitude (240_Easy)
 
 Leetcode 1773 : Count Items Matching a Rule (237_Easy)
+
+Leetcode 1791 : Find Center of Star Graph (2_Medium)
 
 Leetcode 1835 : Find XOR Sum of All Pairs Bitwise AND (39_Hard)
 
