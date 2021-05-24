@@ -1,24 +1,56 @@
 class Solution {
-    List<List<Integer>> ans;
     public List<List<Integer>> allPathsSourceTarget(int[][] graph) {
-        ans=new ArrayList<>();
-        all(graph,0,new boolean[graph.length],new ArrayList<>());
-        return ans;
+        calculatedPaths = new ArrayList[graph.length];
+        List<List<Integer>> paths = getPaths_Memoization(graph, 0, graph.length - 1);
+        return paths;
     }
-    private void all(int [][]graph,int v,boolean [] visited,List<Integer> temp){
-        if(v==visited.length-1){
-           List<Integer> a=new ArrayList<>();
-            a.addAll(temp);
-            a.add(v);
-            ans.add(a);
-            return;
+    public List<List<Integer>> getPaths(int[][] graph, int currNode, int targetNode){
+        List<List<Integer>> paths = new ArrayList<>();
+        //System.out.println("CurrNode : " + currNode);
+        if(currNode == targetNode){
+            //System.out.println("Found Target Node");
+            List<Integer> path = new ArrayList<>();
+            path.add(currNode);
+            paths.add(path);
+            return paths;
         }
-        temp.add(v);
-        visited[v]=true;
-        for(int vertex:graph[v]){
-            all(graph,vertex,visited,temp);
+        else{
+            List<List<Integer>> tempPaths = new ArrayList<>();
+            for(int neighbourNode : graph[currNode]){
+                tempPaths = getPaths(graph, neighbourNode, targetNode);
+                for(List<Integer> path : tempPaths){
+                    path.add(0, currNode);
+                    paths.add(path);
+                }
+            }
         }
-        visited[v]=false;
-        temp.remove(new Integer(v));
+        return paths;
+    }
+    
+    List<List<Integer>>[] calculatedPaths;
+    public List<List<Integer>> getPaths_Memoization(int[][] graph, int currNode, int targetNode){
+        List<List<Integer>> paths = new ArrayList<>();
+        //System.out.println("CurrNode : " + currNode);
+        if(currNode == targetNode){
+            //System.out.println("Found Target Node");
+            List<Integer> path = new ArrayList<>();
+            path.add(currNode);
+            paths.add(path);
+        }
+        else if(calculatedPaths[currNode] != null){
+            return calculatedPaths[currNode];
+        }
+        else{
+            List<List<Integer>> tempPaths = new ArrayList<>();
+            for(int neighbourNode : graph[currNode]){
+                tempPaths = getPaths(graph, neighbourNode, targetNode);
+                for(List<Integer> path : tempPaths){
+                    path.add(0, currNode);
+                    paths.add(path);
+                }
+            }
+        }
+        calculatedPaths[currNode] = paths;
+        return paths;
     }
 }
