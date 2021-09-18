@@ -1045,6 +1045,8 @@ Leetcode 1835 : Find XOR Sum of All Pairs Bitwise AND (39_Hard)
 
 Leetcode 1837 : Sum of Digits in Base K (247_Easy)
 
+Leetcode 2000 : Reverse Prefix of Word (252_Easy)
+
 SQL:
 
 LeetCode 184 : Department Highest Salary (_Medium)
