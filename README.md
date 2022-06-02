@@ -271,6 +271,8 @@ LeetCode 224 : Basic Calculator (10_Hard)
 
 LeetCode 225 : Implement Stack using Queues (142_Easy)
 
+LeetCode 228 : Sum Ranges (256_Easy)
+
 LeetCode 230 : Kth Smallest Element in a BST (29_Medium)
 
 LeetCode 231 : Power of 2 (2_Easy)
@@ -292,6 +294,8 @@ LeetCode 240 : Search a 2D Matrix II (138_Medium)
 LeetCode 242 : Valid Anagram (70_Easy)
 
 LeetCode 260 : Single Number III (11_Medium)
+
+LeetCode 263 : Ugly Number (255_Easy)
 
 LeetCode 274 : H-Index (131_Medium)
 
@@ -423,6 +427,8 @@ LeetCode 450 : Delete Node in a BST (196_Medium)
 
 LeetCode 451 : Sort Characters By Frequency (68_Medium)
 
+LeetCode 455 : Assign Cookies (257_Easy)
+
 LeetCode 461 : Hamming Distance (27_Easy)
 
 LeetCode 463 : Perimeter of Island (47_Medium)
@@ -432,6 +438,8 @@ LeetCode 468 : Validate IP Address (242_Medium)
 LeetCode 476 : Number Complement (29_Easy)
 
 LeetCode 477 : Total Hamming Distance (36_Medium)
+
+LeetCode 482 : License Key Formatting (258_Easy)
 
 LeetCode 485 : Max Consecutive Ones (150_Easy)
 
@@ -1046,6 +1054,8 @@ Leetcode 1835 : Find XOR Sum of All Pairs Bitwise AND (39_Hard)
 Leetcode 1837 : Sum of Digits in Base K (247_Easy)
 
 Leetcode 1920 : Build Array from Permutation (253_Easy)
+
+LeetCode 1929 : Concatenation of Array (254_Easy)
 
 Leetcode 2000 : Reverse Prefix of Word (252_Easy)
 
