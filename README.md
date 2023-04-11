@@ -691,6 +691,8 @@ LeetCode 890 : Find and Replace Pattern (111_Medium)
 
 LeetCode 893 : Groups of Special-Equivalent Strings (138_Easy)
 
+LeetCode 894 : All Possible Full Binary Trees (274_Medium)
+
 LeetCode 896 : Monotonic Array (54_Easy)
 
 LeetCode 897 : Increasing Order Search Tree (113_Easy)
