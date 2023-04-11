@@ -1021,47 +1021,49 @@ LeetCode 1502 : Can Make Arithmetic Progression From Sequence (231_Easy)
 
 LeetCode 1512 : Number of Good Pairs (228_Easy)
 
-Leetcode 1525 : Number of Good Ways to Split a String (242_Easy)
+LeetCode 1525 : Number of Good Ways to Split a String (242_Easy)
 
-Leetcode 1550 : Three Consecutive Odds (232_Easy)
+LeetCode 1550 : Three Consecutive Odds (232_Easy)
 
-Leetcode 1557 : Minimum Number of Vertices to Reach All Nodes (3_Medium)
+LeetCode 1557 : Minimum Number of Vertices to Reach All Nodes (3_Medium)
 
-Leetcode 1598 : Crawler Log Folder (243_Easy)
+LeetCode 1598 : Crawler Log Folder (243_Easy)
 
-Leetcode 1603 : Design Parking System (244_Easy)
+LeetCode 1603 : Design Parking System (244_Easy)
 
-Leetcode 1614 : Maximum Nesting Depth of the Parentheses (246_Easy)
+LeetCode 1614 : Maximum Nesting Depth of the Parentheses (246_Easy)
 
-Leetcode 1641 : Count Sorted Vowel Strings (273_Medium)
+LeetCode 1641 : Count Sorted Vowel Strings (273_Medium)
 
-Leetcode 1646 : Get Maximum in Generated Array (259_Easy)
+LeetCode 1646 : Get Maximum in Generated Array (259_Easy)
 
-Leetcode 1656 : Design an Ordered Stream (239_Easy)
+LeetCode 1656 : Design an Ordered Stream (239_Easy)
 
-Leetcode 1669 : Merge In Between Linked List (272_Medium)
+LeetCode 1669 : Merge In Between Linked List (272_Medium)
 
-Leetcode 1672 : Richest Customer Wealth (236_Easy)
+LeetCode 1672 : Richest Customer Wealth (236_Easy)
 
-Leetcode 1678 : Goal Parser Interpretation (245_Easy)
+LeetCode 1678 : Goal Parser Interpretation (245_Easy)
 
-Leetcode 1720 : Decode XORed Array (241_Easy)
+LeetCode 1720 : Decode XORed Array (241_Easy)
 
-Leetcode 1732 : Find the Highest Altitude (240_Easy)
+LeetCode 1732 : Find the Highest Altitude (240_Easy)
 
-Leetcode 1773 : Count Items Matching a Rule (237_Easy)
+LeetCode 1773 : Count Items Matching a Rule (237_Easy)
 
-Leetcode 1791 : Find Center of Star Graph (2_Medium)
+LeetCode 1791 : Find Center of Star Graph (2_Medium)
 
-Leetcode 1835 : Find XOR Sum of All Pairs Bitwise AND (39_Hard)
+LeetCode 1835 : Find XOR Sum of All Pairs Bitwise AND (39_Hard)
 
-Leetcode 1837 : Sum of Digits in Base K (247_Easy)
+LeetCode 1837 : Sum of Digits in Base K (247_Easy)
 
-Leetcode 1920 : Build Array from Permutation (253_Easy)
+LeetCode 1920 : Build Array from Permutation (253_Easy)
 
 LeetCode 1929 : Concatenation of Array (254_Easy)
 
-Leetcode 2000 : Reverse Prefix of Word (252_Easy)
+LeetCode 1971 : Find if Path Exists in Graph (260_Easy)
+
+LeetCode 2000 : Reverse Prefix of Word (252_Easy)
 
 SQL:
 
