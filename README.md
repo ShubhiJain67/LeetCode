@@ -287,7 +287,7 @@ LeetCode 235 :  Lowest Common Ancestor of a Binary Search Tree (181_Easy)
 
 LeetCode 236 : Lowest Common Ancestor of a Binary Tree (27_Medium)
 
-LeetCoe 237 : Delete Node in a Linked List (164_Easy)
+LeetCode 237 : Delete Node in a Linked List (164_Easy)
 
 LeetCode 238 : Product of Array Except Self (41_Medium)
 
@@ -318,6 +318,8 @@ LeetCode 290 : Word Pattern (58_Easy)
 LeetCode 292 : Nim Game (154_Easy)
 
 LeetCode 295 : Find Median from Data Stream (35_Hard)
+
+LeetCode 299 : Bulls and Cows (281_Medium)
 
 LeetCode 300 : Longest Increasing Subsequence (256_Medium)
 
