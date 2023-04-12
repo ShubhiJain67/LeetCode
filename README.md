@@ -975,6 +975,8 @@ LeetCode 1413 : Minimum Value to Get Positive Step by Step Sum (134_Easy)
 
 LeetCode 1415 : The k-th Lexicographical String of All Happy Strings of Length n (153_Medium)
 
+LeetCode 1423 : Maximum Points You Can Obtain from Cards (278_Medium)
+
 LeetCode 1428 : Leftmost Coloumn with atleast 1 one (61_Medium)
 
 LeetCode 1431 : Kids With the Greatest Number of Candies (79_Easy)
