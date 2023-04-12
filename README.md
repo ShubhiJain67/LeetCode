@@ -565,7 +565,7 @@ LeetCode 684 : Redundant Connection (69_Medium)
 
 LeetCode 687 : Longest Univalue Path (218_Easy)
 
-LeetCode 690 : Employee Importance (68_Easy)
+LeetCode 690 : Employee Importance (68_Easy) (279_Medium)
 
 LeetCode 692 : Top K Frequent Words (160_Medium)
 
