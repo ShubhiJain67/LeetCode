@@ -101,7 +101,7 @@ LeetCode 57 : Insert Interval (19_Hard)
 
 LeetCode 59 : Spiral Matrix II (122_Medium)
 
-LeetCode 61 : Rotate List (Medium)
+LeetCode 61 : Rotate List (277_Medium)
 
 LeetCode 62 : Unique Paths (276_Medium)
 
