@@ -1075,6 +1075,8 @@ LeetCode 1929 : Concatenation of Array (254_Easy)
 
 LeetCode 1971 : Find if Path Exists in Graph (260_Easy)
 
+LeetCode 1996 : The Number of Weak Characters in the Game (283_Meidum)
+
 LeetCode 2000 : Reverse Prefix of Word (252_Easy)
 
 SQL:
