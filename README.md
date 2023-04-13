@@ -189,7 +189,7 @@ LeetCode 117 : Populating Next Right Pointers in Each Node II (212_Medium)
 
 LeetCode 121 : Best Time to Buy and Sell Stock (28_Easy)
 
-LeetCode 122 : Best Time to Buy and Sell Stock II (39_Easy)
+LeetCode 122 : Best Time to Buy and Sell Stock II (39_Easy) (286_Medium)
 
 LeetCode 123 : Best Time to Buy and Sell Stock III (38_Hard)
 
