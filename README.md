@@ -235,6 +235,8 @@ LeetCode 162 : Find Peak Element (118_Medium)
 
 LeetCode 167 : Two Sum II - Input array is sorted (147_Easy)
 
+LeetCode 169 : Majority Element (285_Medium)
+
 LeetCode 173 : Binary Search Tree Iterator (184_Medium)
 
 LeetCode 190 : Reverse Bits (26_Easy)
