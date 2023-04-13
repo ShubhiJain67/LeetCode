@@ -875,6 +875,8 @@ LeetCode 1249 : Minimum Remove to Make Valid Parentheses (219_Meidum)
 
 LeetCode 1252 : Cells with Odd Values in a Matrix (84_Easy)
 
+LeetCode 1254 : Number of Closed Islands (284_Medium)
+
 LeetCode 1255 : Maximum Score Words Formed by Letters (17_Hard)
 
 LeetCode 1260 : Shift 2D Grid (196_Easy)
