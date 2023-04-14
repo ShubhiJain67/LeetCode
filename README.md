@@ -227,7 +227,7 @@ LeetCode 153 : Find Minimum in Rotated Sorted Array (171_Medium)
 
 LeetCode 154 : Find Minimum in Rotated Sorted Array II (24_Hard)
 
-LeetCode 155 : Min Stack (21_Easy)
+LeetCode 155 : Min Stack (21_Easy) (287_Medium)
 
 LeetCode 160 : Intersection of 2 Linkedlist (4_Medium)
 
