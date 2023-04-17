@@ -777,6 +777,8 @@ LeetCode 1002 : Find Common Characters (123_Easy)
 
 LeetCode 1003 : Check If Word Is Valid After Substitutions (223_Medium)
 
+LeetCode 1004 : Max Consecutive Ones III (299_Medium)
+
 LeetCode 1009 : Complement of Base 10 Integer (114_Easy)
 
 LeetCode 1010 : Pairs of Songs With Total Durations Divisible by 60 (210_Easy)
