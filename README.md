@@ -1057,6 +1057,8 @@ LeetCode 1614 : Maximum Nesting Depth of the Parentheses (246_Easy)
 
 LeetCode 1641 : Count Sorted Vowel Strings (273_Medium)
 
+LeetCode 1642 : Furthest Building You Can Reach (290_Medium)
+
 LeetCode 1646 : Get Maximum in Generated Array (259_Easy)
 
 LeetCode 1656 : Design an Ordered Stream (239_Easy)
