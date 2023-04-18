@@ -751,7 +751,7 @@ LeetCode 965 : Univalued Binary Tree (124_Easy)
 
 LeetCode 970 : Powerful Integers (146_Easy)
 
-LeetCode 973 : K Closest Points to Origin (16edium1_M)
+LeetCode 973 : K Closest Points to Origin (161_Medium)
 
 LeetCode 977 : Squares of a Sorted Array (117_Easy)
 
