@@ -1091,6 +1091,8 @@ LeetCode 1996 : The Number of Weak Characters in the Game (283_Meidum)
 
 LeetCode 2000 : Reverse Prefix of Word (252_Easy)
 
+LeetCode 2266 : Count Number of Texts (291_Medium)
+
 SQL:
 
 LeetCode 184 : Department Highest Salary (_Medium)
