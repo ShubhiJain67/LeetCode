@@ -1093,6 +1093,8 @@ LeetCode 2000 : Reverse Prefix of Word (252_Easy)
 
 LeetCode 2266 : Count Number of Texts (291_Medium)
 
+LeetCode 2325 : Decode the Message (261_Easy)
+
 SQL:
 
 LeetCode 184 : Department Highest Salary (_Medium)
