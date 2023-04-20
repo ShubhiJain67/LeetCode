@@ -155,6 +155,8 @@ LeetCode 99 : Recover Binary Search Tree (26_Hard)
 
 LeetCode 100 : Same Tree (9_Easy)
 
+LeetCode 101 : Symmetric Tree (265_Easy)
+
 LeetCode 102 : Binary Tree Level Order Traversal (32_Medium)
 
 LeetCode 103 : Binary Tree ZigZag Level Order Traversal (31_Medium)
