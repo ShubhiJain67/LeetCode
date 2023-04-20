@@ -523,6 +523,8 @@ LeetCode 566 : Reshape the Matrix (170_Easy)
 
 LeetCode 567 : Permutation in String (169_Medium)
 
+LeetCode 572 : Subtree of Another Tree (263_Easy)
+
 LeetCode 575 : Distribute Candies (238_Easy)
 
 LeetCode 583 : Delete Operation for Two Strings (267_Medium)
