@@ -283,6 +283,8 @@ LeetCode 224 : Basic Calculator (10_Hard)
 
 LeetCode 225 : Implement Stack using Queues (142_Easy)
 
+LeetCode 226 : Invert Binary Tree (264_Easy)
+
 LeetCode 228 : Sum Ranges (256_Easy)
 
 LeetCode 230 : Kth Smallest Element in a BST (29_Medium)
