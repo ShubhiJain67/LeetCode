@@ -261,6 +261,8 @@ LeetCode 201 : Bitwise AND of Numbers Range (40_Medium)
 
 LeetCode 202 : Happy Number (30_Easy)
 
+LeetCode 206 : Reverse Linked List (206_Easy)
+
 LeetCode 207 : Course Schedule (63_Medium)
 
 LeetCode 208 : Implement Trie (Prefix Tree) (71_Medium)
